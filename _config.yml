@@ -3,3 +3,5 @@ title: "Aljaž Zalar"
 permalink: /:title/
 gems:
     - jekyll-avatar
+plugins:
+    - jekyll-seo-tag
