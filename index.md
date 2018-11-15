@@ -1,7 +1,7 @@
 ## Raziskovalni članki 1
 
 
-## Učenje
+## Učenje 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
