@@ -1,6 +1,6 @@
 ## Publications
 
-- with I. Klep, S. McCullough, K. Šivic: There are many more positive maps than completely positive maps, to be pusbliseh in sprejeto Int. Math. Res. Not., dostopno na [Link](https://arxiv.org/abs/1611.02838).
+- with I. Klep, S. McCullough, K. Šivic: There are many more positive maps than completely positive maps, to be published in Int. Math. Res. Not., dostopno na [Link](https://arxiv.org/abs/1611.02838).
 - with A. Bhardwaj: [The singular bivariate quartic tracial moment problem](https://link.springer.com/article/10.1007%2Fs11785-017-0756-3), Complex Anal. Oper. Theory 12 (2018) 1057-1142.
 - [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://www.sciencedirect.com/science/article/pii/S0022247X16303675), J. Math. Anal. Appl. 445 (2017) 32-80.
 - [Matrix Fejèr-Riesz theorem with gaps](), J. Pure Appl. Algebra 220 (2016) 2533-2548.
