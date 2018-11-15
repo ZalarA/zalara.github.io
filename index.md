@@ -12,17 +12,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- z I.\ Klep, S.\ McCullough, K.\ \v Sivic: There are many more positive maps than completely positive maps, sprejeto v objavo v Int.\ Math.\ Res.\ Not.,
-		dostopno na \url{https://arxiv.org/abs/1611.02838}.
-- z A.\ Bhardwaj: The singular bivariate quartic tracial moment problem, Complex Anal.\ Oper.\ Theory 12 (2018) 1057--1142.
-- Prispevki k nekomutativni realni algebrai\v cni geometriji, doktorska disertacija, Fakulteta za matematiko in fiziko, Univerza v Ljubljani, 2017.
-- Operator Positivstellens\" atze for noncommutative polynomials positive on matrix convex sets, J.\ Math.\ Anal.\ Appl.\ 445 (2017) 32--80.
-- Matrix Fej\' er-Riesz theorem with gaps, J.\ Pure Appl.\ Algebra 220 (2016) 2533--2548.
-- Non-negative spectral measures and representations of $C^\ast$-algebras, Integ.\ Equ.\ Oper.\ Theory 79 (2014) 219--242.
-- Momentni problemi za matri\v cne in operatorske polinome, magistrsko delo, Fakulteta za matematiko in fiziko, Univerza v Ljubljani, 2013. 
-- z J.\ Cimpri\v c:  Moment problems for operator polynomials, J.\ Math.\ Anal.\ Appl.\ 401 (2013) 307--316.
-- A note on a matrix version of the Farkas lemma, Comm.\ Algebra 40 (2012) 3420--3429.
-- Matri\v cne posplo\v sitve Farkaseve leme, delo diplomskega seminarja, Fakulteta za matematiko in fiziko, Univerza v Ljubljani, 2011.\\
+- with I. Klep, S. McCullough, K. Šivic: There are many more positive maps than completely positive maps, to be pusbliseh in sprejeto Int. Math. Res. Not., dostopno na \url{https://arxiv.org/abs/1611.02838}.
+- with A. Bhardwaj: The singular bivariate quartic tracial moment problem, Complex Anal. Oper. Theory 12 (2018) 1057-1142.
+- Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets, J. Math. Anal. Appl. 445 (2017) 32-80.
+- Matrix Fejèr-Riesz theorem with gaps, J. Pure Appl. Algebra 220 (2016) 2533-2548.
+- Non-negative spectral measures and representations of C*-algebras, Integ. Equ. Oper. Theory 79 (2014) 219-242.
+- with J. Cimprič:  Moment problems for operator polynomials, J. Math. Anal. Appl. 401 (2013) 307-316.
+- A note on a matrix version of the Farkas lemma, Comm. Algebra 40 (2012) 3420-3429.
 
 **Bold** and _Italic_ and `Code` text
 
