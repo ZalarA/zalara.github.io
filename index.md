@@ -14,11 +14,10 @@
 
 * 2013 - 2017: PhD in Mathematics, University of Ljubljana. Thesis: Contributions to a noncommutative real algebraic geometry. Supervisors: Prof. Jaka Cimprič and Prof. Igor Klep.
 
-- 2011 - 2013: 2.\ bolonjska stopnja, smer Matematika, FMF, Univerza v Ljubljani. Magistrsko delo:
-		Momentni problemi za matri\v cne in operatorske polinome. Mentor: Jaka Cimpri\v c.
+* 2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: Moment problems for matrix and operator polynomials. Supervisor: Prof. Jaka Cimprič
 
-	\item 2008 - 2011: 1.\ bolonjska stopnja, smer Matematika, FMF, Univerza v Ljubljani. Diplomsko delo:
-		Matri\v cne poslo\v sitve Farkaseve leme. Mentor: Jaka Cimpri\v c.\\
+* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: Matrix generalizations of Farkas lemma.
+Supervisor: Prof. Jaka Cimprič 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
