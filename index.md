@@ -1,3 +1,13 @@
+## Contact
+
+[University of Ljubljana](https://www.uni-lj.si/university/)
+[Faculty for Computer and 
+Information Science](https://www.fri.uni-lj.si/en)
+Večna pot 113
+1000 Ljubljana
+
+aljaz.zalar@fri.uni-lj.si
+
 ## Publications
 
 * with I. Klep, S. McCullough, K. Šivic: [There are many more positive maps than completely positive maps](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362), to be published in Int. Math. Res. Not.
