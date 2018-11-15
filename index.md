@@ -5,7 +5,7 @@
 * [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://www.sciencedirect.com/science/article/pii/S0022247X16303675), J. Math. Anal. Appl. 445 (2017) 32-80.
 * [Matrix Fejèr-Riesz theorem with gaps](), J. Pure Appl. Algebra 220 (2016) 2533-2548.
 * [Non-negative spectral measures and representations of C*-algebras](https://link.springer.com/article/10.1007/s00020-014-2148-7), Integ. Equ. Oper. Theory 79 (2014) 219-242.
-* with J. Cimprič:  [Moment problems for operator polynomials] (https://www.sciencedirect.com/science/article/pii/S0022247X12010025), J. Math. Anal. Appl. 401 (2013) 307-316.
+* with J. Cimprič: [Moment problems for operator polynomials](https://www.sciencedirect.com/science/article/pii/S0022247X12010025), J. Math. Anal. Appl. 401 (2013) 307-316.
 * [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), Comm. Algebra 40 (2012) 3420-3429.
 
 ## Teaching
