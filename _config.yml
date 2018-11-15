@@ -1,7 +1,9 @@
 theme: jekyll-theme-architect
 title: "Aljaž Zalar"
+url: https://zalara.github.io/
 permalink: /:title/
 gems:
     - jekyll-avatar
 plugins:
     - jekyll-seo-tag
+
