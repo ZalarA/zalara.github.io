@@ -8,8 +8,6 @@
 * with J. Cimprič: [Moment problems for operator polynomials](https://www.sciencedirect.com/science/article/pii/S0022247X12010025), J. Math. Anal. Appl. 401 (2013) 307-316.
 * [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), Comm. Algebra 40 (2012) 3420-3429.
 
-&## Teaching
-
 ## Academic education
 
 * 2013 - 2017: PhD in Mathematics, University of Ljubljana. Thesis: Contributions to a noncommutative real algebraic geometry. Supervisors: Prof. Jaka Cimprič and Prof. Igor Klep.
