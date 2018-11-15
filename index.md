@@ -2,9 +2,14 @@
 
 [University of Ljubljana](https://www.uni-lj.si/university/)<br/>
 [Faculty for Computer and Information Science](https://www.fri.uni-lj.si/en) <br/>
+[Laboratory for Cryptography and Information Security](https://fri.uni-lj.si/sl/laboratorij/lkrv)<br/>
 Večna pot 113, 1000 Ljubljana, Slovenia
 
 **e-mail:** aljaz.zalar@fri.uni-lj.si
+
+## Research interest
+
+Real algebraic geometry, matrix polynomials, moment problems, completely positive maps.
 
 ## Publications
 
