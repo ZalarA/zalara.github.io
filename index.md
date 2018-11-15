@@ -1,12 +1,10 @@
 ## Contact
 
-[University of Ljubljana](https://www.uni-lj.si/university/)
-[Faculty for Computer and 
-Information Science](https://www.fri.uni-lj.si/en)
-Večna pot 113
-1000 Ljubljana
+[University of Ljubljana](https://www.uni-lj.si/university/)<br/>
+[Faculty for Computer and Information Science](https://www.fri.uni-lj.si/en) <br/>
+Večna pot 113, 1000 Ljubljana, Slovenia
 
-aljaz.zalar@fri.uni-lj.si
+**e-mail:** aljaz.zalar@fri.uni-lj.si
 
 ## Publications
 
