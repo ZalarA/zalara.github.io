@@ -12,7 +12,7 @@ Večna pot 113, 1000 Ljubljana, Slovenia
 
 **e-mail:** aljaz.zalar@fri.uni-lj.si
 
-## Research interest
+## Research interests
 
 Real algebraic geometry, matrix polynomials, moment problems, completely positive maps.
 
