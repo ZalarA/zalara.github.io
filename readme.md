@@ -38,7 +38,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 * 2013 - 2017: PhD in Mathematics, University of Ljubljana. Thesis: [Contributions to a noncommutative real algebraic geometry](http://www.matknjiz.si/doktorati/2017/Zalar-14521-29.pdf). Supervisors: Prof. Jaka Cimprič and Prof. Igor Klep.
 
-* 2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: Moment problems for matrix and operator polynomials. Supervisor: Prof. Jaka Cimprič
+* 2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: [Moment problems for matrix and operator polynomials (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=106186&lang=slv). Supervisor: Prof. Jaka Cimprič
 
-* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: Matrix generalizations of Farkas lemma.
+* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: [Matrix generalizations of Farkas lemma (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=105978&lang=slv)
 Supervisor: Prof. Jaka Cimprič 
