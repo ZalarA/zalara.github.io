@@ -39,7 +39,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 * Mathematical Modelling: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=60), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=60)
 * Numerical Methods: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=36), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=36)
 * Discrete Structures: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=6), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=6)
-* Calculus: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=51), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=51)
+* Calculus: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=51), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=51), Solved exrecises from previous exams
 
 ## Academic education
 
