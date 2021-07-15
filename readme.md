@@ -34,6 +34,10 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 * [The truncated moment problem on the union of parallel lines](https://arxiv.org/abs/2105.00662), arxiv preprint, 2021.
 * [The strong truncated Hamburger moment problem with and without gaps](https://arxiv.org/abs/2101.00486), arxiv preprint, 2021.
 
+## Teaching
+
+* Calculus, [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=51), [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=51)
+
 ## Academic education
 
 * 2013 - 2017: PhD in Mathematics, University of Ljubljana. Thesis: [Contributions to a noncommutative real algebraic geometry](http://www.matknjiz.si/doktorati/2017/Zalar-14521-29.pdf). Supervisors: Prof. Jaka Cimprič and Prof. Igor Klep.
