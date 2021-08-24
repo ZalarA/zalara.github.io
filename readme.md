@@ -45,6 +45,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 * [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/IWOTA_2020_TTMP.pdf), IWOTA 2020, Lancaster, UK, August 2021.
 * [The tracial moment problem on quadratic varieties](https://zalara.github.io/ECM_2020_BQTMP.pdf), ECM 2020, Portorož, Slovenia, June 2021.
+* [The singular bivariate quartic tracial moment problem](https://zalara.github.io/IWOTA_2019_BQTMP.pdf), IWOTA 2019, Lisbon, Portugal, July 2019.
 
 ## Academic education
 
