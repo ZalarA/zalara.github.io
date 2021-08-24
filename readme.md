@@ -43,7 +43,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Talks
 
-* [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/oma_zbirka.pdf), IWOTA 2020, Lancaster, August 2021.
+* [The bivariate truncated moment problem on quadratic and some higher degree curves](https://github.com/ZalarA/zalara.github.io/blob/master/IWOTA_2020_TTMP.pdf), IWOTA 2020, Lancaster, August 2021.
 
 ## Academic education
 
