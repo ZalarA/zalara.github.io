@@ -47,6 +47,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 * [The tracial moment problem on quadratic varieties](https://zalara.github.io/ECM_2020_BQTMP.pdf), ECM 2020, Portorož, Slovenia, June 2021.
 * [The singular bivariate quartic tracial moment problem](https://zalara.github.io/IWOTA_2019_BQTMP.pdf), IWOTA 2019, Lisbon, Portugal, July 2019.
 * [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/IWOTA_2015_MFRG.pdf), IWOTA 2015, Tbilisi, Georgia, July 2015.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Konstanz_2015_MFRG.pdf),  Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.
 
 ## Academic education
 
