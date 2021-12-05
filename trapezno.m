@@ -9,7 +9,6 @@ function T=trapezno(f,a,b,n)
 %		n		stevilo podintervalov
 % Rezultat:
 %		T		priblizek za vrednost integrala
-
 h = (b-a)/n;
 T = (f(a)+f(b))/2;
    for i = 1:n-1
