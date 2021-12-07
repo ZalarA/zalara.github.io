@@ -1,4 +1,4 @@
-function [T,m]=trapeznokontrola(f,a,b,N,epsilon)
+function [T,err]=trapeznokontrola(f,a,b,N,epsilon)
 
 % Trapezno pravilo s kontrolo koraka
 % Racunanje vrednosti dolocenega integrala
@@ -10,6 +10,8 @@ function [T,m]=trapeznokontrola(f,a,b,N,epsilon)
 %               epsilon zahtevana natancnost rezultata
 % Rezultat:
 %               T               priblizek za vrednost integrala
+%               err             ocena napake približka
+
 
 e = 4*epsilon;
 m = 0;
