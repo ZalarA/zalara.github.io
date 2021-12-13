@@ -1,4 +1,4 @@
-function [T,err]=trapeznokontrola(f,a,b,N,epsilon)
+function [T,m]=trapeznokontrola(f,a,b,N,epsilon)
 
 % Trapezno pravilo s kontrolo koraka
 % Racunanje vrednosti dolocenega integrala
