@@ -36,10 +36,10 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Teaching
 
-* Mathematical Modelling: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=60), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=60), [Solved exercises from past exams](https://zalara.github.io/mm_book.pdf)
-* Numerical Methods: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=36), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=36)
-* Discrete Structures: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=6), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=6), [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
-* Calculus: [2019/20](https://ucilnica1920.fri.uni-lj.si/course/view.php?id=51), [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=51), [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
+* Mathematical Modelling: 2019/20, [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=60), [Solved exercises from past exams](https://zalara.github.io/mm_book.pdf)
+* Numerical Methods: 2019/20, [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=36)
+* Discrete Structures: 2019/20, 2020/21, [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=6), [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
+* Calculus: 2019/20, [2020/21](https://ucilnica.fri.uni-lj.si/course/view.php?id=51), [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
 
 ## Talks
 
