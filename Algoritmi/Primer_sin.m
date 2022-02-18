@@ -1,0 +1,29 @@
+disp(sprintf('sin(0.3142)= %5.4f',sin(0.3142)))
+disp(sprintf('sin(pi/10)-sin(0.3142)= %5.15f',sin(pi/10)-sin(0.3142)))
+disp(sprintf('0.3142-0.3142^3/6=%5.4f',0.3142-0.3142^3/6))
+disp(sprintf('0.3142^5/120=%5.6f',0.3142^5/120))
+
+a=0.3142;
+x=a*a;
+round_digit=5;
+x = x.*(10^(round_digit));
+x = round(x);
+x = x.*(10^(-round_digit));
+disp(sprintf('0.3142^2=%5.5f',x))
+x=x*a;
+x = x.*(10^(round_digit));
+x = round(x);
+x = x.*(10^(-round_digit));
+disp(sprintf('(0.3142^2)*0.3142=%5.5f',x))
+x=x/6;
+x = x.*(10^(round_digit+1));
+x = round(x);
+x = x.*(10^(-round_digit-1));
+disp(sprintf('((0.3142^2)*0.3142)/6=%5.6f',x))
+x=a-x;
+x = x.*(10^(round_digit-1));
+x = round(x);
+x = x.*(10^(-round_digit+1));
+disp(sprintf('0.3142-((0.3142^2)*0.3142)/6=%5.4f',x))
+
+disp(sprintf('zaokrozeno-(0.3142-((0.3142^2)*0.3142)/6)=%5.6f',x-(0.3142-((0.3142^2)*0.3142)/6)))
