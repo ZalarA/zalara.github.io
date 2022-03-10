@@ -13,11 +13,24 @@ b=[-1; 0; 0; -1]
 x0=[eps;eps;eps;eps]
 w=0.9
 
-sor(A,x0,b,w)
+[y,korak]=sor(A,x0,b,w)
 
 R=inv(diag(D)-w*L)*((1-w)*diag(D)+w*U);
 
 disp(sprintf('Supremum norma matrike R je %1.3f.',norm(R,inf)))
 
+W=linspace(0.01,2-0.01,100);
+K=linspace(0.01,2-0.01,100);
+
+t=size(W)(2);
+
+for i=1:t
+  x0=[eps;eps;eps;eps];
+  [y,korak]=sor(A,x0,b,W(i));
+  K(i)=korak;
+end
+
+plot(W,K)
+    
 
      

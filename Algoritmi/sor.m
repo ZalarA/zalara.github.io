@@ -1,4 +1,4 @@
-function y=sor(A,x0,b,w,delta,maxsteps)
+function [y,korak]=sor(A,x0,b,w,delta,maxsteps)
   
 % SOR iteracija za w za resevanje sistema Ax = b, x0 je zacetni priblizek
 %Nobena komponenta x0 naj ne bo 0. Za 0 uporabimo eps.

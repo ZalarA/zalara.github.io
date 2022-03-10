@@ -10,12 +10,23 @@ L=-tril(A,-1)
 U=-triu(A,1)
 b=[10;10;10]
 x0=[1/2;1/2;1/2]
-w=0.9
-
+w=1.25
 sor(A,x0,b,w)
 
 R=inv(diag(D)-w*L)*((1-w)*diag(D)+w*U);
 
 disp(sprintf('Supremum norma matrike R je %1.3f.',norm(R,inf)))
+
+W=linspace(0.01,2-0.01,100);
+K=linspace(0.01,2-0.01,100);
+
+t=size(W)(2);
+
+for i=1:t
+  [y,korak]=sor(A,x0,b,W(i));
+  K(i)=korak;
+end
+
+plot(W,K)
     
      
