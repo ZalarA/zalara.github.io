@@ -5,9 +5,19 @@
 %y-2z+w=0
 %z-2w=-1
 
-A = [-2 1 0 0; 1 -2 1 0; 0 1 -2 1; 0 0 1 -2];
-b = [-1; 0; 0; -1];
+A=[-2 1 0 0; 1 -2 1 0; 0 1 -2 1; 0 0 1 -2]
+D=diag(A)
+L=-tril(A,-1)
+U=-triu(A,1)
+b=[-1; 0; 0; -1]
+x0=[eps;eps;eps;eps]
+w=0.9
 
-sor(A,[eps;eps;eps;eps],b,1.25,eps,100);
+sor(A,x0,b,w)
+
+R=inv(diag(D)-w*L)*((1-w)*diag(D)+w*U);
+
+disp(sprintf('Supremum norma matrike R je %1.3f.',norm(R,inf)))
+
 
      
