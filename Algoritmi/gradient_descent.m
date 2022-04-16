@@ -17,6 +17,7 @@ while korak<maxsteps
   if z0==0
     sprint('Zero gradient.')
   else
+      
 %The method tries to move for one unit (alpha3=1) in the opposite
 %direction of the gradient vector.
 %If the function value (g3 below) in this point is not smaller than
@@ -61,7 +62,7 @@ while korak<maxsteps
   G=g(x);
 %We are comparing this loop until the absolute value of the difference between the values
 %of g in the last iterates is small enough.
-  if abs(G-g1)<delta
+  if abs(G-g1)/abs(g1)<delta
     break
   else
     disp(sprintf('%3d:  %s %0.1e',korak,sprintf('%15.15f  ',x),G));  % izpisemo trenutni priblizek
