@@ -1,10 +1,11 @@
 % Rungejev primer
 
-% ekvidistantne tocke
-a=-5;
-b=5;
-n=30;
-ff=@(x)(1./(1+x.^2));
+fprintf('ekvidistantne tocke')
+a=-5
+b=5
+n=30
+ff=@(x)(1./(1+x.^2))
+pause
 x=linspace(a,b,n+1);
 y=ff(x);
 
@@ -19,7 +20,7 @@ title('Rungejev primer z ekvidistantnimi tockami')
 napaka=max(abs(yy-ff(xx)))
 pause
 
-% Cebiseve tocke
+fprintf('Cebiseve tocke')
 xC=(a+b)/2+(b-a)/2*cos(pi/(2*n+2)*(2*[0:n]+1));
 yC=ff(xC);
 % vektor deljenih diferenc
