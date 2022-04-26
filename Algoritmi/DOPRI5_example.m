@@ -1,3 +1,5 @@
+clear all
+
 f=@(x,y) (-y+1)
 pause
 disp(sprintf('DOPRI5'));
@@ -6,7 +8,7 @@ pause
 [n,m] = size(X);
 for i=0:m-1
   disp(sprintf('x=%3.5f, h=%3.5f, y=%3.5f, error: %5.15f',X(i+1),H(i+1),Y(i+1), Y(i+1)-exp(-X(i+1))-1));
-endfor
+end
 
 pause
 z = 1 + exp(-X);

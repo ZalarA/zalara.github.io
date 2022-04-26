@@ -39,7 +39,6 @@ while x < b
       if x+h > b
          h = b-x;
       end
-      i=i+1;
    else
       h = h/2;                                                                  %H = [H -h];
    end
