@@ -16,8 +16,9 @@ function [S,Nev,err]=simpsonovoadaptivno(f,a,b,epsilon)
 fa=f(a); fb=f(b);
 h =(b-a);
 c=(a+b)/2; fc=f(c);
+title('Division points')
 plot([c c],[-1,1]*10^(-2),'b'); % plot new point
-
+hold on
 d=(a+c)/2; fd=f(d); e=(c+b)/2; fe=f(e);
 plot([d d],[-1,1]*10^(-2),'b'); % plot new point
 plot([e e],[-1,1]*10^(-2),'b'); % plot new point
