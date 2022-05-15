@@ -36,8 +36,9 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Teaching
 
-* Mathematical Modelling: 2019/20-21/22, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
+* Numerical Mathematics: 2021/22
 * Numerical Methods: 2019/20-21/22
+* Mathematical Modelling: 2019/20-21/22, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
 * Discrete Structures: 2019/20-21/22, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
 * Calculus: 2019/20-20/21, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
 
