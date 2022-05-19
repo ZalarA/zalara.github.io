@@ -18,7 +18,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Publications
 
-* [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), to be published in Linear Algebra and its Applications. 
+* [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), Linear Algebra and its Applications 649 (2022) 186--239.
 * [The truncated Hamburger moment problems with gaps in the index set](https://link.springer.com/article/10.1007/s00020-021-02628-6), Integ. Equ. Oper. Theory 93 (2021) 36 pp.
 * with A. Bhardwaj: [The tracial moment problem on quadratic varieties](https://www.sciencedirect.com/science/article/pii/S0022247X21000159), J. Math. Anal. Appl. 498 (2021) 39 pp. 
 * with J. Cimprič: [A local-global principle for linear dependence in enveloping algebras of Lie algebras](https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub), Linear Algebra and its Applications 596 (2020) 230-255.
