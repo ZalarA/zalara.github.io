@@ -6,7 +6,7 @@ f=@(x,y) [0.3*y(1)-0.004*y(1)*y(2);-0.2*y(2)+0.001*y(1)*y(2)]
 pause
 fprintf(['Solution of the model by Eulers method with initial data\n\n'...
           '   r(0)=500, f(0)=50; t from 0 to 200 with h=0.1.\n\n'])
-[X,Y]=euler_eng(f,0,[500;50],2000,0.1);
+[X,Y]=euler_eng(f,0,[50;500],2000,0.1);
 
 pause
 %disp(sprintf('Euler method'));

@@ -1,4 +1,4 @@
-function [X,Y]=euler(f,x0,y0,N,h)
+function [X,Y]=euler_eng(f,x0,y0,N,h)
 
 % Euler method
 % We are solving ODE of order 1

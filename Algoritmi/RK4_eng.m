@@ -1,4 +1,4 @@
-function [X,Y]=RK4eng(f,x0,y0,N,h)
+function [X,Y]=RK4_eng(f,x0,y0,N,h)
 
 % Runge-Kutta of order 4
 % We are solving ODE of order 1

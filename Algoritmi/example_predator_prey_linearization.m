@@ -28,7 +28,7 @@ C1=-1;C2=4;
 X=((C1*cos(T)+C2*sin(T))*u(1)+(-C1*sin(T)+C2*cos(T))*w(1))+200;
 Y=((C1*cos(T)+C2*sin(T))*u(2)+(-C1*sin(T)+C2*cos(T))*w(2))+75;
 plot(X,Y,'g','linewidth',3)
-C1=-1;C2=0;
+C1=300;C2=1;
 X=((C1*cos(T)+C2*sin(T))*u(1)+(-C1*sin(T)+C2*cos(T))*w(1))+200;
 Y=((C1*cos(T)+C2*sin(T))*u(2)+(-C1*sin(T)+C2*cos(T))*w(2))+75;
 plot(X,Y,'y','linewidth',3)
