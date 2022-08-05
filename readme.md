@@ -32,11 +32,16 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 	Int. Math. Res. Not. 11 (2019) 3313-3375. 
 * with A. Bhardwaj: [The singular bivariate quartic tracial moment problem](https://link.springer.com/article/10.1007%2Fs11785-017-0756-3), 
 	Complex Anal. Oper. Theory 12 (2018) 1057-1142.
-* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://www.sciencedirect.com/science/article/pii/S0022247X16303675), J. Math. Anal. Appl. 445 (2017) 32-80.
-* [Matrix Fejér-Riesz theorem with gaps](https://www.sciencedirect.com/science/article/pii/S0022404915003345), J. Pure Appl. Algebra 220 (2016) 2533-2548.
-* [Non-negative spectral measures and representations of C*-algebras](https://link.springer.com/article/10.1007/s00020-014-2148-7), Integ. Equ. Oper. Theory 79 (2014) 219-242.
-* with J. Cimprič: [Moment problems for operator polynomials](https://www.sciencedirect.com/science/article/pii/S0022247X12010025), J. Math. Anal. Appl. 401 (2013) 307-316.
-* [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), Comm. Algebra 40 (2012) 3420-3429.
+* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://www.sciencedirect.com/science/article/pii/S0022247X16303675), 
+	J. Math. Anal. Appl. 445 (2017) 32-80.
+* [Matrix Fejér-Riesz theorem with gaps](https://www.sciencedirect.com/science/article/pii/S0022404915003345), 
+	J. Pure Appl. Algebra 220 (2016) 2533-2548.
+* [Non-negative spectral measures and representations of C*-algebras](https://link.springer.com/article/10.1007/s00020-014-2148-7), 
+	Integ. Equ. Oper. Theory 79 (2014) 219-242.
+* with J. Cimprič: [Moment problems for operator polynomials](https://www.sciencedirect.com/science/article/pii/S0022247X12010025), 
+	J. Math. Anal. Appl. 401 (2013) 307-316.
+* [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), 
+	Comm. Algebra 40 (2012) 3420-3429.
 
 ## Teaching
 
@@ -49,18 +54,29 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 ## Talks
 
 * [Solving bivariate truncated moment problems by reduction to the univariate setting],
-			Operator Theory and Beyond 2022, Jagiellonian University, Krak\'{o}w, Poland, July 2022.
-* [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf), IWOTA 2020, Lancaster, UK, August 2021.
-* [The tracial moment problem on quadratic varieties](https://zalara.github.io/Predavanja/ECM_2020_BQTMP.pdf), ECM 2020, Portorož, Slovenia, June 2021.
-* [The singular bivariate quartic tracial moment problem](https://zalara.github.io/Predavanja/IWOTA_2019_BQTMP.pdf), IWOTA 2019, Lisbon, Portugal, July 2019.
-* There are many more positive maps than completely positive maps, Sums of Squares - Real Algebraic Geometry and its Applications, Innsbruck, Austria, August 2017.
-* [There are many more positive maps than completely positive maps](https://zalara.github.io/Predavanja/LAW_2017_PosvsCP.pdf), LAW 2017, Ljubljana, Slovenia, June 2017.
-* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/OTA_2016_PosNCmatconv.pdf), IWOTA 2016, St Louis, Missouri, USA, July 2016.
-* [Univariate matrix polynomials positive semidefinite on semialgebraic sets](https://zalara.github.io/Predavanja/Georgia_2016_UnivMatPos.pdf), Summer School on Real Algebraic Geometry and Optimization, Georgia Tech, Atlanta, USA, July 2016.
-* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/Auckland_2016_PosNCmatconv.pdf), The University of Auckland, New Zealand, March 2016.
-* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Auckland_2015_MFRG.pdf), Algebra and Geometry seminar, The University of Auckland, New Zealand, October 2015.
-* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/IWOTA_2015_MFRG.pdf), IWOTA 2015, Tbilisi, Georgia, July 2015.
-* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Konstanz_2015_MFRG.pdf),  Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.
+	Operator Theory and Beyond 2022, Jagiellonian University, Krak\'{o}w, Poland, July 2022.
+* [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf), 
+	IWOTA 2020, Lancaster, UK, August 2021.
+* [The tracial moment problem on quadratic varieties](https://zalara.github.io/Predavanja/ECM_2020_BQTMP.pdf), 
+	ECM 2020, Portorož, Slovenia, June 2021.
+* [The singular bivariate quartic tracial moment problem](https://zalara.github.io/Predavanja/IWOTA_2019_BQTMP.pdf), 
+	IWOTA 2019, Lisbon, Portugal, July 2019.
+* There are many more positive maps than completely positive maps, 
+	Sums of Squares - Real Algebraic Geometry and its Applications, Innsbruck, Austria, August 2017.
+* [There are many more positive maps than completely positive maps](https://zalara.github.io/Predavanja/LAW_2017_PosvsCP.pdf), 
+	LAW 2017, Ljubljana, Slovenia, June 2017.
+* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/OTA_2016_PosNCmatconv.pdf), 
+	IWOTA 2016, St Louis, Missouri, USA, July 2016.
+* [Univariate matrix polynomials positive semidefinite on semialgebraic sets](https://zalara.github.io/Predavanja/Georgia_2016_UnivMatPos.pdf), 
+	Summer School on Real Algebraic Geometry and Optimization, Georgia Tech, Atlanta, USA, July 2016.
+* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/Auckland_2016_PosNCmatconv.pdf), 
+	The University of Auckland, New Zealand, March 2016.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Auckland_2015_MFRG.pdf), 
+	Algebra and Geometry seminar, The University of Auckland, New Zealand, October 2015.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/IWOTA_2015_MFRG.pdf), 
+	IWOTA 2015, Tbilisi, Georgia, July 2015.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Konstanz_2015_MFRG.pdf),  
+	Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.
 
 ## Academic education
 
@@ -68,5 +84,4 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 * 2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: [Moment problems for matrix and operator polynomials (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=106186&lang=slv). Supervisor: Prof. Jaka Cimprič
 
-* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: [Matrix generalizations of Farkas lemma (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=105978&lang=slv).
-Supervisor: Prof. Jaka Cimprič 
+* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: [Matrix generalizations of Farkas lemma (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=105978&lang=slv). Supervisor: Prof. Jaka Cimprič 
