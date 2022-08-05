@@ -54,7 +54,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 ## Talks
 
 * [Solving bivariate truncated moment problems by reduction to the univariate setting],
-	Operator Theory and Beyond 2022, Jagiellonian University, Krakow, Poland, July 2022.
+	Operator Theory and Beyond 2022, Jagiellonian University, Kraków, Poland, July 2022.
 * [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf), 
 	IWOTA 2020, Lancaster, UK, August 2021.
 * [The tracial moment problem on quadratic varieties](https://zalara.github.io/Predavanja/ECM_2020_BQTMP.pdf), 
