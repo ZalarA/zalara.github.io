@@ -18,7 +18,8 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Publications
 
-* [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), J. Math. Anal. Appl. 516 (2022) 21 pp.
+* [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), 
+  J. Math. Anal. Appl. 516 (2022) 21 pp.
 * [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), Linear Algebra and its Applications 649 (2022) 186--239.
 * [The truncated Hamburger moment problems with gaps in the index set](https://link.springer.com/article/10.1007/s00020-021-02628-6), Integ. Equ. Oper. Theory 93 (2021) 36 pp.
 * with A. Bhardwaj: [The tracial moment problem on quadratic varieties](https://www.sciencedirect.com/science/article/pii/S0022247X21000159), J. Math. Anal. Appl. 498 (2021) 39 pp. 
@@ -41,6 +42,8 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Talks
 
+* [Solving bivariate truncated moment problems by reduction to the univariate setting],
+			Operator Theory and Beyond 2022, Jagiellonian University, Krak\'{o}w, Poland, July 2022.
 * [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf), IWOTA 2020, Lancaster, UK, August 2021.
 * [The tracial moment problem on quadratic varieties](https://zalara.github.io/Predavanja/ECM_2020_BQTMP.pdf), ECM 2020, Portorož, Slovenia, June 2021.
 * [The singular bivariate quartic tracial moment problem](https://zalara.github.io/Predavanja/IWOTA_2019_BQTMP.pdf), IWOTA 2019, Lisbon, Portugal, July 2019.
