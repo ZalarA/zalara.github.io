@@ -43,14 +43,6 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 * [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), 
 	Comm. Algebra 40 (2012) 3420-3429.
 
-## Teaching
-
-* Numerical Mathematics: 2021/22
-* Numerical Methods: 2019/20-21/22
-* Mathematical Modelling: 2019/20-21/22, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
-* Discrete Structures: 2019/20-21/22, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
-* Calculus: 2019/20-20/21, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
-
 ## Talks
 
 * [Solving bivariate truncated moment problems by reduction to the univariate setting](https://zalara.github.io/Predavanja/OB_2022_TMP.pdf),
@@ -77,6 +69,14 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 	IWOTA 2015, Tbilisi, Georgia, July 2015.
 * [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Konstanz_2015_MFRG.pdf),  
 	Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.
+
+## Teaching
+
+* Numerical Mathematics: 2021/22
+* Numerical Methods: 2019/20-21/22
+* Mathematical Modelling: 2019/20-21/22, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
+* Discrete Structures: 2019/20-21/22, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
+* Calculus: 2019/20-20/21, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
 
 ## Academic education
 
