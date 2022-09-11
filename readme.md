@@ -45,6 +45,8 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Talks
 
+* [The truncated moment problem on quadratic, cubic and some higher degree curves](https://zalara.github.io/Predavanja/21_Zalar_Aljaz_talk.pdf), 
+	IWOTA 2022, Krakow, Poland, September 2022.
 * [Solving bivariate truncated moment problems by reduction to the univariate setting](https://zalara.github.io/Predavanja/OB_2022_TMP.pdf),
 	Operator Theory and Beyond 2022, Jagiellonian University, Kraków, Poland, July 2022.
 * [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf), 
