@@ -59,7 +59,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 	Sums of Squares - Real Algebraic Geometry and its Applications, Innsbruck, Austria, August 2017.
 * [There are many more positive maps than completely positive maps](https://zalara.github.io/Predavanja/LAW_2017_PosvsCP.pdf), 
 	LAW 2017, Ljubljana, Slovenia, June 2017.
-* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/OTA_2016_PosNCmatconv.pdf), 
+* [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/IWOTA_2016_PosNCmatconv.pdf), 
 	IWOTA 2016, St Louis, Missouri, USA, July 2016.
 * [Univariate matrix polynomials positive semidefinite on semialgebraic sets](https://zalara.github.io/Predavanja/Georgia_2016_UnivMatPos.pdf), 
 	Summer School on Real Algebraic Geometry and Optimization, Georgia Tech, Atlanta, USA, July 2016.
