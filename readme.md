@@ -45,7 +45,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Preprints
 
-* [The truncated moment problem on curves $y=q(x)$ and $yx^ℓ=1$]https://zalara.github.io/TMP-curves-yq-yxell-Zalar.pdf)
+* [The truncated moment problem on curves $y=q(x)$ and $yx^ℓ=1$](https://zalara.github.io/TMP-curves-yq-yxell-Zalar.pdf).
 
 ## Talks
 
