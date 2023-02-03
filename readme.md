@@ -47,6 +47,12 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 * [The truncated moment problem on curves y=q(x) and yx^ℓ=1](https://zalara.github.io/TMP-curves-yq-yxell-Zalar.pdf), (2022) 39 pp.
 
+## In preparation
+
+* with I. Klep, K. Šivic: [Cross-positive linear maps, sums of squares and positive polynomials]
+
+
+
 ## Talks
 
 * [The truncated moment problem on quadratic, cubic and some higher degree curves](https://zalara.github.io/Predavanja/21_Zalar_Aljaz_talk.pdf), 
