@@ -50,7 +50,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 ## In preparation
 
 * with I. Klep, K. Šivic: Cross-positive linear maps, sums of squares and positive polynomials.
-* with I. Klep, T. Štrekelj: A random copositive matrix is completely positive with positive probability.
+* with I. Klep, T. Štrekelj: Copositive and completely positive matrices.
 
 
 
