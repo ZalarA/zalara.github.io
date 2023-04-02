@@ -98,4 +98,4 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 * 2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: [Moment problems for matrix and operator polynomials (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=106186&lang=slv). Supervisor: Prof. [Jaka Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/)
 
-* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: [Matrix generalizations of Farkas lemma (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=105978&lang=slv). Supervisor: Prof. [Jaka Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/9) 
+* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: [Matrix generalizations of Farkas lemma (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=105978&lang=slv). Supervisor: Prof. [Jaka Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/)
