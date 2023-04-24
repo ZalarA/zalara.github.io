@@ -51,7 +51,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 * with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), [K. Šivic](https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/): Cross-positive linear maps, sums of squares and positive polynomials.
 * with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), T. Štrekelj: Copositive and completely positive matrices.
-
+* The truncated moment problem on cubic reducible curves
 
 
 ## Talks
