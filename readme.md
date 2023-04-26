@@ -82,12 +82,9 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 	Summer School on Real Algebraic Geometry and Optimization, Georgia Tech, Atlanta, USA, July 2016.
 * [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://zalara.github.io/Predavanja/Auckland_2016_PosNCmatconv.pdf), 
 	The University of Auckland, New Zealand, March 2016.
-* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Auckland_2015_MFRG.pdf), 
-	Algebra and Geometry seminar, The University of Auckland, New Zealand, October 2015.
-* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/IWOTA_2015_MFRG.pdf), 
-	IWOTA 2015, Tbilisi, Georgia, July 2015.
-* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Konstanz_2015_MFRG.pdf),  
-	Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Auckland_2015_MFRG.pdf), Algebra and Geometry seminar, The University of Auckland, New Zealand, October 2015.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/IWOTA_2015_MFRG.pdf), IWOTA 2015, Tbilisi, Georgia, July 2015.
+* [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Konstanz_2015_MFRG.pdf), Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.
 
 ## Teaching
 
