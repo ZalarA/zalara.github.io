@@ -57,7 +57,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 ## Talks
 
 * Bounds on the size of moment matrix extensions to solve the truncated moment problem on some plane curves, 
-	IWOTA 2023, Helsinki, Finland, August 2023.-
+	IWOTA 2023, Helsinki, Finland, August 2023.
 * The truncated moment problem on some polynomial and rational plane curves, 
 	SIAM - AG23, Eindhoven, Netherlands, July 2023.
 * A gap between positive maps (resp. copositive matrices) and completely positive ones, 
