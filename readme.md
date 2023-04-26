@@ -56,6 +56,12 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Talks
 
+* Bounds on the size of moment matrix extensions to solve the truncated moment problem on some plane curves, 
+	IWOTA 2023, Helsinki, August 2023.
+* The truncated moment problem on some polynomial and rational plane curves, 
+	SIAM - AG23, Eindhoven, July 2023.
+* A gap between positive maps (resp. copositive matrices) and completely positive ones, 
+	Seminar Alpe-Jadran, Zagreb, May 2023.
 * [The truncated moment problem on quadratic, cubic and some higher degree curves](https://zalara.github.io/Predavanja/21_Zalar_Aljaz_talk.pdf), 
 	IWOTA 2022, Kraków, Poland, September 2022.
 * [Solving bivariate truncated moment problems by reduction to the univariate setting](https://zalara.github.io/Predavanja/OB_2022_TMP.pdf),
