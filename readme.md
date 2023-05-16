@@ -18,7 +18,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Publications
 
-* [The truncated moment problem on curves y=q(x) and yx^ℓ=1]([https://zalara.github.io/TMP-curves-yq-yxell-Zalar-revizija.pdf](https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316)), Linear and Multilinear Algebra (2023) 45 pp.
+* [The truncated moment problem on curves y=q(x) and yx^ℓ=1](https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316), Linear and Multilinear Algebra (2023) 45 pp.
 * [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), 
   	J. Math. Anal. Appl. 516 (2022) 21 pp.
 * [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), 
