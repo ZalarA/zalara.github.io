@@ -3,7 +3,7 @@ title: Aljaž Zalar
 permalink: /
 ---
 
-# Contact
+## Contact
 
 [University of Ljubljana](https://www.uni-lj.si/university/)<br/>
 [Faculty for Computer and Information Science](https://www.fri.uni-lj.si/en) <br/>
