@@ -88,9 +88,10 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 
 ## Teaching
 
-* Numerical Methods: 2019/20-22/23, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf)
-* Principles of Uncertainty: 2022/23
+* Mathematics 2 (1/4): 2022/23
+* Principles of Uncertainty (1/2): 2022/23
 * Numerical Mathematics: 2021/22-22/23
+* Numerical Methods: 2019/20-22/23, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf)
 * Mathematical Modelling: 2019/20-22/23, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
 
 ### Previous teaching
