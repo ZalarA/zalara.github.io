@@ -62,7 +62,7 @@ Real algebraic geometry, matrix polynomials, moment problems, completely positiv
 	SIAM - AG23, Eindhoven, Netherlands, July 2023.
 * [A gap between positive maps (resp. copositive matrices) and completely positive ones](https://zalara.github.io/Predavanja/Zagreb_2023.pdf), 
 	Seminar Alpe-Jadran, Zagreb, Croatia, May 2023.
-* [The truncated moment problem on quadratic, cubic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2022.pdf), 
+* [The truncated moment problem on quadratic, cubic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2022_TMP.pdf), 
 	IWOTA 2022, Kraków, Poland, September 2022.
 * [Solving bivariate truncated moment problems by reduction to the univariate setting](https://zalara.github.io/Predavanja/OB_2022_TMP.pdf),
 	Operator Theory and Beyond 2022, Jagiellonian University, Kraków, Poland, July 2022.
