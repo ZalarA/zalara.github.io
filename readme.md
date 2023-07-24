@@ -68,9 +68,9 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 * [Solving bivariate truncated moment problems by reduction to the univariate setting](https://zalara.github.io/Predavanja/OB_2022_TMP.pdf),
 	Operator Theory and Beyond 2022, Jagiellonian University, Kraków, Poland, July 2022.
 * [The bivariate truncated moment problem on quadratic and some higher degree curves](https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf), 
-	IWOTA 2020, Lancaster, UK, August 2021.
+	IWOTA 2020, Lancaster, UK, August 2021, online.
 * [The tracial moment problem on quadratic varieties](https://zalara.github.io/Predavanja/ECM_2020_BQTMP.pdf), 
-	ECM 2020, Portorož, Slovenia, June 2021.
+	ECM 2020, Portorož, Slovenia, June 2021, online.
 * [The singular bivariate quartic tracial moment problem](https://zalara.github.io/Predavanja/IWOTA_2019_BQTMP.pdf), 
 	IWOTA 2019, Lisbon, Portugal, July 2019.
 * There are many more positive maps than completely positive maps, 
