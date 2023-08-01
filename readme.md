@@ -57,7 +57,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Talks
 
-* Bounds on the size of moment matrix extensions to solve the truncated moment problem on some plane curves, 
+* [The truncated moment problem on some plane curves](https://zalara.github.io/Predavanja/IWOTA_23_TMP.pdf), 
 	IWOTA 2023, Helsinki, Finland, August 2023.
 * [The truncated moment problem on some polynomial and rational plane curves](https://zalara.github.io/Predavanja/SIAM_AG_23_TMP.pdf), 
 	SIAM - AG23, Eindhoven, Netherlands, July 2023.
