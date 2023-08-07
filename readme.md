@@ -51,9 +51,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## In preparation
 
 * with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), [K. Šivic](https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/): Cross-positive linear maps, sums of squares and positive polynomials.
+* with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): The truncated moment problem on cubic curves in Weierstrass form.
 * The truncated moment problem on reducible curves
-* with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): The symmetric truncated moment problem on cubic curves in Weierstrass form.
-
 
 ## Talks
 
