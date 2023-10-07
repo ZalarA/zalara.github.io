@@ -88,11 +88,11 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Teaching
 
-* Mathematics 2 - MCMC methods (1/4): 2022/23
-* Principles of Uncertainty (1/2): 2022/23
-* Numerical Mathematics: 2021/22-22/23, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericna_matematika_izrocki_predavanj.pdf)
-* Numerical Methods: 2019/20-22/23, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf)
-* Mathematical Modelling: 2019/20-22/23, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
+* Mathematics 2 - MCMC methods (1/4): 2022/23-23/24
+* Principles of Uncertainty (1/2): 2022/23-23/24
+* Numerical Mathematics: 2021/22-23/24, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericna_matematika_izrocki_predavanj.pdf)
+* Numerical Methods: 2019/20-23/24, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf)
+* Mathematical Modelling: 2019/20-23/24, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
 
 ### Previous teaching
 
