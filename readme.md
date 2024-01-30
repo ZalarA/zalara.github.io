@@ -18,8 +18,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Publications
 
-[13.] [The truncated moment problem on curves y=q(x) and yx^ℓ=1](https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316), Linear and Multilinear Algebra (2023) 45 pp. [br]
-[12.] [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), 
+13. [The truncated moment problem on curves y=q(x) and yx^ℓ=1](https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316), Linear and Multilinear Algebra (2023) 45 pp.
+12. [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), 
   	J. Math. Anal. Appl. 516 (2022) 21 pp.
 [11.] [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), 
 	Linear Algebra and its Applications 649 (2022) 186--239.
