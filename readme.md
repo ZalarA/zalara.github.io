@@ -46,11 +46,11 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Preprints
 
+* with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), [K. Šivic](https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/): [Cross-positive linear maps, sums of squares and positive polynomials](https://zalara.github.io/Papers/CrossPosVsCCP.pdf)
 * with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), T. Štrekelj: [A random copositive matrix is completely positive with positive probability](https://zalara.github.io/Papers/RandCopCpPosProb.pdf)
 
 ## In preparation
 
-* with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), [K. Šivic](https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/): Cross-positive linear maps, sums of squares and positive polynomials
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): The truncated moment problem on cubic curves in Weierstrass form.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves I: Parabolic and circular type relations.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
