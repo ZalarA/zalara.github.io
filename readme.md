@@ -22,7 +22,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 <li value="13"> <a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316">The truncated moment problem on curves y=q(x) and yx^ℓ=1</a>, Linear and Multilinear Algebra (2023) 45 pp.</li>
 <li value="12"> <a href="https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub">The strong truncated Hamburger moment problem with and without gaps</a>, J. Math. Anal. Appl. 516 (2022) 21 pp.</li>
 <li value="11"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951">The truncated moment problem on the union of parallel lines</a>, Linear Algebra and its Applications 649 (2022) 186--239.</li>
-<li value="10"> <a href="https://link.springer.com/article/10.1007/s00020-021-02628-6">[The truncated Hamburger moment problems with gaps in the index set</a>, 
+<li value="10"> <a href="https://link.springer.com/article/10.1007/s00020-021-02628-6">The truncated Hamburger moment problems with gaps in the index set</a>, 
 	Integ. Equ. Oper. Theory 93 (2021) 36 pp.</li>
 <li value="9"> with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
 	J. Math. Anal. Appl. 498 (2021) 39 pp.</li>
