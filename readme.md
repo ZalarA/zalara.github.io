@@ -16,6 +16,13 @@ Večna pot 113, 1000 Ljubljana, Slovenia
 
 Real algebraic geometry, truncated moment problems, moment problems, matrix polynomials, completely positive maps.
 
+## Preprints
+
+<ol>
+<li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCP.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
+<li value="14">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</a></li>
+</ol>
+
 ## Publications
 
 <ol>
@@ -41,13 +48,6 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 <li value="2"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="[https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951](https://www.sciencedirect.com/science/article/pii/S0022247X12010025)">Moment problems for operator polynomials</a>, J. Math. Anal. Appl. 401 (2013) 307-316.</li>
 <li value="1"> <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
 	Comm. Algebra 40 (2012) 3420-3429.</li>
-</ol>
-
-## Preprints
-
-<ol>
-<li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCP.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
-<li value="14">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</a></li>
 </ol>
 
 ## In preparation
