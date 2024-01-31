@@ -18,31 +18,33 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Publications
 
-1. [The truncated moment problem on curves y=q(x) and yx^ℓ=1](https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316), Linear and Multilinear Algebra (2023) 45 pp.
-12. [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), 
-  	J. Math. Anal. Appl. 516 (2022) 21 pp.
-11. [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), 
-	Linear Algebra and its Applications 649 (2022) 186--239.
-10. [The truncated Hamburger moment problems with gaps in the index set](https://link.springer.com/article/10.1007/s00020-021-02628-6), 
-	Integ. Equ. Oper. Theory 93 (2021) 36 pp.
-9. with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): [The tracial moment problem on quadratic varieties](https://www.sciencedirect.com/science/article/pii/S0022247X21000159),
-	J. Math. Anal. Appl. 498 (2021) 39 pp.
-8. with [J. Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/): [A local-global principle for linear dependence in enveloping algebras of Lie algebras](https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub), 
-	Linear Algebra and its Applications 596 (2020) 230-255.
-7. with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), [S. McCullough](https://people.clas.ufl.edu/sam/), [K. Šivic](https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/): [There are many more positive maps than completely positive maps](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362), 
-	Int. Math. Res. Not. 11 (2019) 3313-3375.
-6. with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): [The singular bivariate quartic tracial moment problem](https://link.springer.com/article/10.1007%2Fs11785-017-0756-3), 
-	Complex Anal. Oper. Theory 12 (2018) 1057-1142.
-5. [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://www.sciencedirect.com/science/article/pii/S0022247X16303675), 
-	J. Math. Anal. Appl. 445 (2017) 32-80.
-4. [Matrix Fejér-Riesz theorem with gaps](https://www.sciencedirect.com/science/article/pii/S0022404915003345), 
-	J. Pure Appl. Algebra 220 (2016) 2533-2548.
-3. [Non-negative spectral measures and representations of C*-algebras](https://link.springer.com/article/10.1007/s00020-014-2148-7), 
-	Integ. Equ. Oper. Theory 79 (2014) 219-242.
-2. with [J. Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/): [Moment problems for operator polynomials](https://www.sciencedirect.com/science/article/pii/S0022247X12010025), 
-	J. Math. Anal. Appl. 401 (2013) 307-316.
-1. [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), 
-	Comm. Algebra 40 (2012) 3420-3429.
+<ol>
+<li value="13"> [The truncated moment problem on curves y=q(x) and yx^ℓ=1](https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316), Linear and Multilinear Algebra (2023) 45 pp.</li>
+<li value="12"> [The strong truncated Hamburger moment problem with and without gaps](https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub), 
+  	J. Math. Anal. Appl. 516 (2022) 21 pp.</li>
+<li value="11"> [The truncated moment problem on the union of parallel lines](https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951), 
+	Linear Algebra and its Applications 649 (2022) 186--239.</li>
+<li value="10"> [The truncated Hamburger moment problems with gaps in the index set](https://link.springer.com/article/10.1007/s00020-021-02628-6), 
+	Integ. Equ. Oper. Theory 93 (2021) 36 pp.</li>
+<li value="9"> with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): [The tracial moment problem on quadratic varieties](https://www.sciencedirect.com/science/article/pii/S0022247X21000159),
+	J. Math. Anal. Appl. 498 (2021) 39 pp.</li>
+<li value="8"> with [J. Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/): [A local-global principle for linear dependence in enveloping algebras of Lie algebras](https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub), 
+	Linear Algebra and its Applications 596 (2020) 230-255.</li>
+<li value="7"> with [I. Klep](https://users.fmf.uni-lj.si/klep/index.html), [S. McCullough](https://people.clas.ufl.edu/sam/), [K. Šivic](https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/): [There are many more positive maps than completely positive maps](https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362), 
+	Int. Math. Res. Not. 11 (2019) 3313-3375.</li>
+<li value="6"> with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): [The singular bivariate quartic tracial moment problem](https://link.springer.com/article/10.1007%2Fs11785-017-0756-3), 
+	Complex Anal. Oper. Theory 12 (2018) 1057-1142.</li>
+<li value="5"> [Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets](https://www.sciencedirect.com/science/article/pii/S0022247X16303675), 
+	J. Math. Anal. Appl. 445 (2017) 32-80.</li>
+<li value="4"> [Matrix Fejér-Riesz theorem with gaps](https://www.sciencedirect.com/science/article/pii/S0022404915003345), 
+	J. Pure Appl. Algebra 220 (2016) 2533-2548.</li>
+<li value="3"> [Non-negative spectral measures and representations of C*-algebras](https://link.springer.com/article/10.1007/s00020-014-2148-7), 
+	Integ. Equ. Oper. Theory 79 (2014) 219-242.</li>
+<li value="2"> with [J. Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/): [Moment problems for operator polynomials](https://www.sciencedirect.com/science/article/pii/S0022247X12010025), 
+	J. Math. Anal. Appl. 401 (2013) 307-316.</li>
+<li value="1"> [A note on a matrix version of the Farkas lemma](https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20), 
+	Comm. Algebra 40 (2012) 3420-3429.</li>
+</ol>
 
 ## Preprints
 
