@@ -47,7 +47,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 <ol>
 <li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCP.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
-<li value="14">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</li>
+<li value="14">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</a></li>
 </ol>
 
 ## In preparation
