@@ -58,6 +58,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Talks
 
+* [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/Konstanz_2024.pdf), 											OS Reelle Geometrie and Algebra, University of Konstanz, Germany, February 2024.
 * [The truncated moment problem on some plane curves](https://zalara.github.io/Predavanja/IWOTA_23_TMP.pdf), 
 	IWOTA 2023, Helsinki, Finland, August 2023.
 * [The truncated moment problem on some polynomial and rational plane curves](https://zalara.github.io/Predavanja/SIAM_AG_23_TMP.pdf), 
