@@ -52,6 +52,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## In preparation
 
+* with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: Construction of exceptional copositive matrices
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): The truncated moment problem on cubic curves in Weierstrass form.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves I: Parabolic and circular type relations.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
