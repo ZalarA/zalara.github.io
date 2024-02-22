@@ -7,6 +7,7 @@ permalink: /
 
 [University of Ljubljana](https://www.uni-lj.si/university/)<br/>
 [Faculty for Computer and Information Science](https://www.fri.uni-lj.si/en) <br/>
+[Official website](https://fri.uni-lj.si/en/about-faculty/employees/aljaz-zalar-0) <br/>
 Večna pot 113, 1000 Ljubljana, Slovenia
 
 **e-mail:** aljaz.zalar@fri.uni-lj.si
