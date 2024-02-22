@@ -45,7 +45,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 	J. Pure Appl. Algebra 220 (2016) 2533-2548.</li>
 <li value="3"> <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>,  
 	Integ. Equ. Oper. Theory 79 (2014) 219-242.</li>
-<li value="2"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="[https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951](https://www.sciencedirect.com/science/article/pii/S0022247X12010025)">Moment problems for operator polynomials</a>, J. Math. Anal. Appl. 401 (2013) 307-316.</li>
+<li value="2"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>, J. Math. Anal. Appl. 401 (2013) 307-316.</li>
 <li value="1"> <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
 	Comm. Algebra 40 (2012) 3420-3429.</li>
 </ol>
