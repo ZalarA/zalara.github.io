@@ -7,7 +7,6 @@ permalink: /
 
 [University of Ljubljana](https://www.uni-lj.si/university/)<br/>
 [Faculty for Computer and Information Science](https://www.fri.uni-lj.si/en) <br/>
-[Laboratory of Mathematical Methods in Computer and Information Science](https://fri.uni-lj.si/en/laboratory/lmmri)<br/>
 Večna pot 113, 1000 Ljubljana, Slovenia
 
 **e-mail:** aljaz.zalar@fri.uni-lj.si
