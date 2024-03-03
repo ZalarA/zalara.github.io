@@ -19,6 +19,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
+<li value="16">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMPRedCubicCurves1.pdf">The truncated moment problem on reducible cubic curves I: 
+Parabolic and Circular type relations</a></li>
 <li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
 <li value="14">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</a></li>
 </ol>
@@ -54,7 +56,6 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 * with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: Construction of exceptional copositive matrices
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): The truncated moment problem on cubic curves in Weierstrass form.
-* with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves I: Parabolic and circular type relations.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
 
 ## Talks
