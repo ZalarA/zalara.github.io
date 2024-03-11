@@ -60,6 +60,7 @@ Parabolic and Circular type relations</a></li>
 
 ## Talks
 
+* [A gap between positive even quartics and sums of squares ones](https://zalara.github.io/Predavanja/MoPAT_2024.pdf), 											OS Reelle MoPAT-24 – Moments and Polynomials: Applications and Theory, University of Konstanz, Germany, March 2024.
 * [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/OS_RAG_Konstanz_2024.pdf), 											OS Reelle Geometrie und Algebra, University of Konstanz, Germany, February 2024.
 * [The truncated moment problem on some plane curves](https://zalara.github.io/Predavanja/IWOTA_23_TMP.pdf), 
 	IWOTA 2023, Helsinki, Finland, August 2023.
