@@ -19,15 +19,15 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
-<li value="16">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMPRedCubicCurves1.pdf">The truncated moment problem on reducible cubic curves I: 
-Parabolic and Circular type relations</a></li>
-<li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
-<li value="14">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</a></li>
+<li value="16">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
+<li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://zalara.github.io/Papers/RandCopCpPosProb.pdf">A random copositive matrix is completely positive with positive probability</a></li>
 </ol>
 
 ## Publications
 
 <ol>
+<li value="14">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMPRedCubicCurves1.pdf">The truncated moment problem on reducible cubic curves I: 
+Parabolic and Circular type relations</a>, to appear in Complex Anal. Oper. Theory.</li>
 <li value="13"> <a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316">The truncated moment problem on curves y=q(x) and yx^ℓ=1</a>, Linear and Multilinear Algebra (2023) 45 pp.</li>
 <li value="12"> <a href="https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub">The strong truncated Hamburger moment problem with and without gaps</a>, J. Math. Anal. Appl. 516 (2022) 21 pp.</li>
 <li value="11"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951">The truncated moment problem on the union of parallel lines</a>, Linear Algebra and its Applications 649 (2022) 186--239.</li>
