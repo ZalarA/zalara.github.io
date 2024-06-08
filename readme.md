@@ -27,7 +27,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 <ol>
 <li value="14">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://link.springer.com/article/10.1007/s11785-024-01554-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240608&utm_content=10.1007/s11785-024-01554-w">The truncated moment problem on reducible cubic curves I: 
-Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, art.no. 111 (2024) 54 pp.</li>
+Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18 (2024) art.no.: 111, 54 pp.</li>
 <li value="13"> <a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316">The truncated moment problem on curves y=q(x) and yx^ℓ=1</a>, Linear and Multilinear Algebra (2023) 45 pp.</li>
 <li value="12"> <a href="https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub">The strong truncated Hamburger moment problem with and without gaps</a>, J. Math. Anal. Appl. 516 (2022) 21 pp.</li>
 <li value="11"> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951">The truncated moment problem on the union of parallel lines</a>, Linear Algebra and its Applications 649 (2022) 186--239.</li>
