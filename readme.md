@@ -60,6 +60,8 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Talks
 
+* [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
+  	Seminar Algebra–Geometrie–Kombinatorik, TU Dresden, Germany, June 2024.
 * [A gap between positive even quartics and sums of squares ones](https://zalara.github.io/Predavanja/MoPAT_24.pdf),
   	MoPAT-24 – Moments and Polynomials: Applications and Theory, University of Konstanz, Germany, March 2024.
 * [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/OS_RAG_Konstanz_2024.pdf), 										OS Reelle Geometrie und Algebra, University of Konstanz, Germany, February 2024.
