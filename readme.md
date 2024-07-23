@@ -56,6 +56,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 * with [M. Kummer](https://tu-dresden.de/mn/math/geometrie/kummer): Positive polynomials and the truncated moment problem on plane cubics.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
+* with [R. Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal): Univariate truncated rational moment problem.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
 * with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: Construction of exceptional copositive matrices
 
