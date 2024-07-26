@@ -113,7 +113,10 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
-* Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2020)
+* Veljko Dudić: [Usage of Lasserre hierarchies in game theory](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=143507&lang=slv) (2022)
+* Filip Marušič: [Truncated Moment Problems and positive semidefinite matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=140542&lang=slv), BSc (2022)
+* Matjaž Ciglič: [Inertia of matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=138420&lang=slv), BSc (2022)
+* Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2021)
 * Nace Gorenc: [Determining a type of a measure in a nonsingular bivariate quartic tracial moment problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=120060&lang=slv), BSc (2020)
 
 ## Academic education
