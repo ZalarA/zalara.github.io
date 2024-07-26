@@ -111,6 +111,10 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * Discrete Structures: 2019/20-21/22, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
 * Calculus: 2019/20-20/21, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
 
+## Student supervision
+
+* Nace Gorenc: [Determining a type of a measure in a nonsingular bivariate quartic tracial moment problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=120060&lang=slv) (2020)
+
 ## Academic education
 
 * 2013 - 2017: PhD in Mathematics, University of Ljubljana. Thesis: [Contributions to a noncommutative real algebraic geometry](http://www.matknjiz.si/doktorati/2017/Zalar-14521-29.pdf). Supervisors: Prof. [Jaka Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/) and Prof. [Igor Klep](https://users.fmf.uni-lj.si/klep/index.html).
