@@ -116,7 +116,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * Anamari Orehar: [Statistical analysis of efficiency of solving bimatrix games using LemkeHowson algorithm](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152703&lang=slv), BSc (2023)
 * Matej Klančar: [Algorithms for solving the matrix completion problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152710&lang=slv), BSc (2023)
 * Gregor Kovač: [Ray tracing in non-euclidean spaces](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=148394&lang=slv), BSc (2023)
-* Veljko Dudić: [Usage of Lasserre hierarchies in game theory](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=143507&lang=slv), (2022)
+* Veljko Dudić: [Usage of Lasserre hierarchies in game theory](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=143507&lang=slv), BSc (2022)
 * Filip Marušič: [Truncated Moment Problems and positive semidefinite matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=140542&lang=slv), BSc (2022)
 * Matjaž Ciglič: [Inertia of matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=138420&lang=slv), BSc (2022)
 * Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2021)
