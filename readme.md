@@ -113,7 +113,8 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
-* Nace Gorenc: [Determining a type of a measure in a nonsingular bivariate quartic tracial moment problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=120060&lang=slv) (2020)
+* Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2020)
+* Nace Gorenc: [Determining a type of a measure in a nonsingular bivariate quartic tracial moment problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=120060&lang=slv), BSc (2020)
 
 ## Academic education
 
