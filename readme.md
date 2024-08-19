@@ -25,7 +25,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Publications
 
 <ol>
-<li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://epubs.siam.org/eprint/IDUZZCMQWFNVWDJNXY2P/full">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583--611.</li>
+<li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583--611.</li>
 <li value="14">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://link.springer.com/article/10.1007/s11785-024-01554-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240608&utm_content=10.1007/s11785-024-01554-w">The truncated moment problem on reducible cubic curves I: 
 Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (2024) 54 pp.</li>
 <li value="13"> <a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316">The truncated moment problem on curves y=q(x) and yx^ℓ=1</a>, Linear and Multilinear Algebra (2023) 45 pp.</li>
