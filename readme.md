@@ -113,6 +113,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
+* Tadej Jeršin: Razdaljne matrične napolnitve, BSc (2024)
 * Anamari Orehar: [Statistical analysis of efficiency of solving bimatrix games using LemkeHowson algorithm](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152703&lang=slv), BSc (2023)
 * Matej Klančar: [Algorithms for solving the matrix completion problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152710&lang=slv), BSc (2023)
 * Gregor Kovač: [Ray tracing in non-euclidean spaces](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=148394&lang=slv), BSc (2023)
