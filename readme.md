@@ -102,12 +102,12 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * Numerical Methods: 2019/20-24/25, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf)
 * Principles of Uncertainty (1/2): 2022/23-24/25
 * Mathematics 2 - MCMC methods (1/4): 2022/23-24/25
-* Linear Algebra: 2023/24
-* Numerical Mathematics: 2021/22-23/24, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericna_matematika_izrocki_predavanj.pdf)
-* Mathematical Modelling: 2019/20-23/24, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
 
 ### Previous teaching
 
+* Linear Algebra: 2023/24
+* Numerical Mathematics: 2021/22-23/24, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericna_matematika_izrocki_predavanj.pdf)
+* Mathematical Modelling: 2019/20-23/24, [Solved exercises from past exams](https://zalara.github.io/Zbirke/mm_book.pdf)
 * Discrete Structures: 2019/20-21/22, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/ds_zbirka.pdf)
 * Calculus: 2019/20-20/21, [Solved exercises from past exams (in Slovene)](https://zalara.github.io/oma_zbirka.pdf), [Recordings 2020/21](https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw)
 
