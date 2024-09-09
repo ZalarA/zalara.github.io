@@ -113,8 +113,8 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
-* Biljana Vitanova: Principal Component Analysis of Multidimensional data, BSc (2024)
-* Ana Poklukar: Matrix Completion Problem Through Optimization on Riemannian Manifolds, BSc (2024)
+* Biljana Vitanova: [Principal Component Analysis of Multidimensional data](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161315&lang=slv), BSc (2024)
+* Ana Poklukar: [Matrix Completion Problem Through Optimization on Riemannian Manifolds](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161316&lang=slv), BSc (2024)
 * Žan Terplan: [Use of Lasserre hierarchies in computer graphics](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=160945&lang=slv), BSc (2024)
 * Tadej Jeršin: [Distance matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161128&lang=slv), BSc (2024)
 * Anamari Orehar: [Statistical analysis of efficiency of solving bimatrix games using LemkeHowson algorithm](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152703&lang=slv), BSc (2023)
