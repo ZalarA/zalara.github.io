@@ -113,7 +113,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
-* Una Sekulović: Algorithms for solving tensor completion problem and its application for reconstruction of images, MSc (2024)
+* Una Sekulović: [Algorithms for solving tensor completion problem and its application for reconstruction of images](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=163975&lang=slv), MSc (2024)
 * Tomaž Jonatan Leonardis: [Algorithms for finding Nash equilibrium in bimatrix games](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161586&lang=slv), BSc (2024)
 * Matej Belšak: [Extreme volumes of quasi-copulas](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161583&lang=slv), BSc (2024)
 * Biljana Vitanova: [Principal Component Analysis of Multidimensional data](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161315&lang=slv), BSc (2024)
