@@ -20,7 +20,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 <ol>
 <li value="16">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
-<li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="[https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk](https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf)">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>
+<li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>
 </ol>
 
 ## Publications
