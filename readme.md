@@ -41,9 +41,9 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 <li value="7"> with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://people.clas.ufl.edu/sam/">S. McCullough</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362">There are many more positive maps than completely positive maps</a>, 
 	Int. Math. Res. Not. 11 (2019) 3313-3375. (<a href="https://zalara.github.io/Papers/POSvsCP.pdf">pdf</a>)</li>
 <li value="6"> with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://link.springer.com/article/10.1007%2Fs11785-017-0756-3">The singular bivariate quartic tracial moment problem</a>, 
-	Complex Anal. Oper. Theory 12 (2018) 1057-1142.</li>
+	Complex Anal. Oper. Theory 12 (2018) 1057-1142. (<a href="https://zalara.github.io/Papers/MomTracial1.pdf">pdf</a>)</li>
 <li value="5"> <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
-	J. Math. Anal. Appl. 445 (2017) 32-80.</li>
+	J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)</li>
 <li value="4"> <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
 	J. Pure Appl. Algebra 220 (2016) 2533-2548. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">pdf</a>)</li>
 <li value="3"> <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>,  
