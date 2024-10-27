@@ -45,7 +45,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 <li value="5"> <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
 	J. Math. Anal. Appl. 445 (2017) 32-80.</li>
 <li value="4"> <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
-	J. Pure Appl. Algebra 220 (2016) 2533-2548.</li>
+	J. Pure Appl. Algebra 220 (2016) 2533-2548. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">pdf</a>)</li>
 <li value="3"> <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>,  
 	Integ. Equ. Oper. Theory 79 (2014) 219-242.</li>
 <li value="2"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>, J. Math. Anal. Appl. 401 (2013) 307-316.</li>
