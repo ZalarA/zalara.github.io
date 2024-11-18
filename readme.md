@@ -115,10 +115,17 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
+### Postdoctoral fellows
+
+* [Rajkamal Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, 2024-
+  
 ### Master Thesis
 
-### Bachelor Thesis
 * Una Sekulović: [Algorithms for solving tensor completion problem and its application for reconstruction of images](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=163975&lang=slv), MSc (2024)
+* Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2021)
+
+### Bachelor Thesis
+
 * Tomaž Jonatan Leonardis: [Algorithms for finding Nash equilibrium in bimatrix games](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161586&lang=slv), BSc (2024)
 * Matej Belšak: [Extreme volumes of quasi-copulas](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161583&lang=slv), BSc (2024)
 * Biljana Vitanova: [Principal Component Analysis of Multidimensional data](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161315&lang=slv), BSc (2024)
@@ -131,7 +138,6 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * Veljko Dudić: [Usage of Lasserre hierarchies in game theory](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=143507&lang=slv), BSc (2022)
 * Filip Marušič: [Truncated Moment Problems and positive semidefinite matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=140542&lang=slv), BSc (2022)
 * Matjaž Ciglič: [Inertia of matrix completions](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=138420&lang=slv), BSc (2022)
-* Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2021)
 * Nace Gorenc: [Determining a type of a measure in a nonsingular bivariate quartic tracial moment problem](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=120060&lang=slv), BSc (2020)
 
 ## Academic education
