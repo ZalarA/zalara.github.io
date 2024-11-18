@@ -117,7 +117,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ### Postdoctoral fellows
 
-* [Rajkamal Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, 2024-
+* [Rajkamal Nailwal](https://rkn.my.canva.site/rknailwal), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, 2024-
   
 ### Master Thesis
 
