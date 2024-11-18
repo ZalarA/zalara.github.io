@@ -21,6 +21,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 <ol>
 <li value="16">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
 <li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a></li>
+<li value="18">  with <a href="https://www.researchgate.net/profile/Rajkamal_Nailwal">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/RTMP.pdf">The truncated univariate rational moment problem</a></li>
+* with [R. Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal): The truncated univariate rational moment problem.
 </ol>
 
 ## Publications
@@ -55,7 +57,6 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## In preparation
 
-* with [R. Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal): The truncated univariate rational moment problem.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X) and q of degree m-1.
 * with [M. Kummer](https://tu-dresden.de/mn/math/geometrie/kummer): Positive polynomials and the truncated moment problem on plane cubics.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
