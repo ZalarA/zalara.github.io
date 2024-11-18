@@ -55,7 +55,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## In preparation
 
-* with [R. Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal): Univariate truncated rational moment problem.
+* with [R. Nailwal](https://www.researchgate.net/profile/Rajkamal_Nailwal): The truncated univariate rational moment problem.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): Bivariate Truncated Moment Sequences with the Column Relation $XY=X^m + q(X)$ and $q$ of degree $m-1$.
 * with [M. Kummer](https://tu-dresden.de/mn/math/geometrie/kummer): Positive polynomials and the truncated moment problem on plane cubics.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
@@ -115,6 +115,9 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Student supervision
 
+## Master Thesis
+
+## Bachelor Thesis
 * Una Sekulović: [Algorithms for solving tensor completion problem and its application for reconstruction of images](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=163975&lang=slv), MSc (2024)
 * Tomaž Jonatan Leonardis: [Algorithms for finding Nash equilibrium in bimatrix games](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161586&lang=slv), BSc (2024)
 * Matej Belšak: [Extreme volumes of quasi-copulas](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161583&lang=slv), BSc (2024)
