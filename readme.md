@@ -19,7 +19,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
-<li value="18">  with <a href="https://rkn.my.canva.site/rknailwal">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/RTMP.pdf">The truncated univariate rational moment problem</a></li>
+<li value="18">  with <a href="https://rkn.my.canva.site/rknailwal">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/RTMP-revision.pdf">The truncated univariate rational moment problem</a></li>
 <li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a></li>
 <li value="16">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
 </ol>
