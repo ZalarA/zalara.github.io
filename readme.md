@@ -26,7 +26,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Publications
 
 <ol>
-<li value="16">  with <a href="https://rkn.my.canva.site/rknailwal">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra and its Applications 708 (2025) 280-301 (<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)</li>
+<li value="16">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra and its Applications 708 (2025) 280-301 (<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)</li>
 <li value="15">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)</li>
 <li value="14">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://link.springer.com/article/10.1007/s11785-024-01554-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240608&utm_content=10.1007/s11785-024-01554-w">The truncated moment problem on reducible cubic curves I: 
 Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (2024) 54 pp. (<a href="https://zalara.github.io/Papers/TMP5.pdf">pdf</a>)</li>
