@@ -63,6 +63,11 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
 * with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, T. Štrekelj: Construction of exceptional copositive matrices
 
+## Grants
+
+* Slovenian Research and Innovation Agency (ARIS) grant J1-60011. The truncated moment problem via Real algebraic geometry. <br>
+  PI January 2025 – December 2027 (ca. € 300,000).
+
 ## Talks
 
 * [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
