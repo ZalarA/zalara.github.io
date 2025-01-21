@@ -65,7 +65,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Grants
 
-* Slovenian Research and Innovation Agency (ARIS) grant J1-60011. The truncated moment problem via Real algebraic geometry. <br>
+* Slovenian Research and Innovation Agency (ARIS) grant J1-60011. [The truncated moment problem via Real algebraic geometry](https://fri.uni-lj.si/en/projects/1834). <br>
   PI January 2025 – December 2027.
 
 ## Talks
