@@ -68,6 +68,9 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * Slovenian Research and Innovation Agency (ARIS) grant J1-60011. [The truncated moment problem via Real algebraic geometry](https://fri.uni-lj.si/en/projects/1834). <br>
   PI January 2025 – December 2027.
 
+## Conferences
+* [Moments, Non-Negative Polynomials, and Algebraic Statistics](https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/),  17th - 21st February 2025, Konstanz.
+
 ## Talks
 
 * [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
