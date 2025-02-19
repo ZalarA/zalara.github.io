@@ -78,7 +78,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 ## Talks
 
 * [Matrix Polynomials and Matrix Positiv/Nichtnegativstellensätze](https://zalara.github.io/Predavanja/Winter_School_Konstanz_25.pdf), 
-	Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics, February 2025.
+	Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics, University of Konstanz, Germany, February 2025.
 * [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
   	Seminar Algebra–Geometrie–Kombinatorik, TU Dresden, Germany, June 2024.
 * [A gap between positive even quartics and sums of squares ones](https://zalara.github.io/Predavanja/MoPAT_24.pdf),
