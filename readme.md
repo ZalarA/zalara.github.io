@@ -19,6 +19,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
+<li value="21">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://zalara.github.io/Papers/Exceptional_COP.pdf">Construction of exceptional copositive matrices</a></li>
 <li value="20">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1.</a></li>
 <li value="19">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a></li>
 <li value="18">  with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
@@ -61,7 +62,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * with [M. Kummer](https://tu-dresden.de/mn/math/geometrie/kummer): Positive polynomials and the truncated moment problem on plane cubics.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
-* with <a href="https://users.fmf.uni-lj.si/klep/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: Construction of exceptional copositive matrices
+
 
 ## Grants
 
