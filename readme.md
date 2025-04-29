@@ -64,6 +64,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * with [M. Omladič](https://www.researchgate.net/profile/Matjaz-Omladic), [M. Vuk](https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk): The final solution of the Hitchiker's problem \#5.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
+* with [S. Sun](https://sites.google.com/view/ssdcgaddq): Univariate truncated matrix moment problem and positive matrix polynomials.
 
 
 ## Grants
