@@ -78,7 +78,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Conferences and Talks
 
-* [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia.
+* [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia (coorganizer).
 * [Matrix Polynomials and Matrix Positiv/Nichtnegativstellensätze](https://zalara.github.io/Predavanja/Winter_School_Konstanz_25.pdf), 
 	[Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics](https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/), University of Konstanz, Germany, February 2025.
 * [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
