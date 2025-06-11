@@ -71,7 +71,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * Slovenian Research and Innovation Agency (ARIS) grant J1-60011. [The truncated moment problem via Real algebraic geometry](https://fri.uni-lj.si/en/projects/1834). <br>
   PI January 2025 – December 2027.
 
-## Conferences
+## Upcoming Conferences
 
 * [IWOTA 2025](https://www.utwente.nl/en/iwota2025/), 14-18 July, 2025, Twente, Netherlands. 
 * [SIAM Conference on Applied Algebraic Geometry (AG25)](https://www.siam.org/conferences-events/siam-conferences/ag25/), 7-11 July, 2025, Madison, Wisconsin, U.S.
