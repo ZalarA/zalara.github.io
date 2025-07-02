@@ -19,6 +19,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
+<li value="23">  with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point</a></li>
 <li value="22">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
 <li value="21">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">Construction of exceptional copositive matrices</a></li>
 <li value="20">  with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">The final solution of the Hitchiker's problem #5.</a></li>
@@ -62,7 +63,6 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 * with [M. Kummer](https://tu-dresden.de/mn/math/geometrie/kummer): Positive polynomials and the truncated moment problem on plane cubics.
 * with [L. Fialkow](https://cs.newpaltz.edu/~fialkowl/): The pure Y=X^{d} truncated moment problem.
-* with [S. Sun](https://sites.google.com/view/ssdcgaddq): Matrix Fejér-Riesz type theorem for a union of an interval and a point.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
 
