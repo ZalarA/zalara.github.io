@@ -146,6 +146,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ### Bachelor Thesis
 
+* Erazem Stanonik: [Tensor algorithms for image classification](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170321&lang=slv), BSc (2025
 * Tomaž Jonatan Leonardis: [Algorithms for finding Nash equilibrium in bimatrix games](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161586&lang=slv), BSc (2024)
 * Matej Belšak: [Extreme volumes of quasi-copulas](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=165325&lang=slv), BSc (2024)
 * Biljana Vitanova: [Principal Component Analysis of Multidimensional data](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161315&lang=slv), BSc (2024)
