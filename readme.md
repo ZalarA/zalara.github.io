@@ -65,7 +65,6 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 * with [L. Fialkow](https://cs.newpaltz.edu/~fialkowl/): The pure Y=X^{d} truncated moment problem.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
 * with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
-* with [I. Zobovič](https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/): Matrix Gaussian quadrature rules.
 
 ## Grants
 
