@@ -75,7 +75,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 ## Upcoming Conferences
 
 * [IWOTA 2025](https://www.utwente.nl/en/iwota2025/), 14-18 July, 2025, Twente, Netherlands. 
-* [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/SIAM_AG_25.pdf),
+* [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/SIAM_AG25.pdf),
   	[SIAM Conference on Applied Algebraic Geometry (AG25)](https://www.siam.org/conferences-events/siam-conferences/ag25/),
   	7-11 July, 2025, Madison, Wisconsin, U.S.
 
