@@ -138,7 +138,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 * [Rajkamal Nailwal](https://rkn.my.canva.site/rknailwal), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, November 2024-
 
-### PhD students
+### PhD Thesis
 
 * [Igor Zobovič](https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, October 2025-
   
