@@ -25,12 +25,12 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 <li value="21">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a></li>
 <li value="20">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">Cross-positive linear maps, sums of squares and positive polynomials</a></li>
 <li value="19">  with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas.</a></li>
-<li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">Construction of exceptional copositive matrices</a></li>
 </ol>
 
 ## Publications
 
 <ol>
+<li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">Construction of exceptional copositive matrices, to appear in Linear Algebra and its Applications.</a></li>
 <li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 17 pp. (<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)</li>
 <li value="16">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra and its Applications 708 (2025) 280-301 (<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)</li>
 <li value="15">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)</li>
