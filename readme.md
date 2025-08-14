@@ -30,6 +30,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Publications
 
 <ol>
+<li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">Construction of exceptional copositive matrices</a>, to appear in Linear Algebra and its Applications.</li>
 <li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">Construction of exceptional copositive matrices, to appear in Linear Algebra and its Applications.</a></li>
 <li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 17 pp. (<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)</li>
 <li value="16">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra and its Applications 708 (2025) 280-301 (<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)</li>
