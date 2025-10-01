@@ -77,8 +77,8 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## Upcoming Conferences
 
-*[IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, Québec, Canada.
-*[GPOTS 2026](https://events.uiowa.edu/event/29902), 26-30 May, Iowa City, Iowa.
+* [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, Québec, Canada.
+* [GPOTS 2026](https://events.uiowa.edu/event/29902), 26-30 May, Iowa City, Iowa.
 
 ## Conferences and Talks
 
