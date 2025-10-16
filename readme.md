@@ -31,8 +31,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Publications
 
 <ol>
-<li value="19">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra.
-(<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)</li>
+<li value="19">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026), 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)</li>
 <li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: 
 <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
 Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)  </li>
