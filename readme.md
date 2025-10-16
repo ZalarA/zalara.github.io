@@ -19,6 +19,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
+<li value="27">	with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a></li>
 <li value="26">	with <a href="https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PD.pdf">Matricial Gaussian quadrature rules: nonsingular case.</a></li>
 <li value="25">	 with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
 <li value="24">	 with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP.pdf">The pure Y=X^{d} truncated moment problem.</a></li>
@@ -66,7 +67,6 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## In preparation
 
-* with [S. Yoo](https://mathscinet.ams.org/mathscinet/author?authorId=1048067): The truncated moment problem on reducible cubic curves II: Hyperbolic type relations.
 * with [I. Zobovič](https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/): Matricial Gaussian quadrature rules: degenerate case.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
 
