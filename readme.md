@@ -20,7 +20,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 <ol>
 <li value="27">	with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a></li>
-<li value="26">	with <a href="https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PD.pdf">Matricial Gaussian quadrature rules: nonsingular case.</a></li>
+<li value="26">	with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PD.pdf">Matricial Gaussian quadrature rules: nonsingular case.</a></li>
 <li value="25">	 with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
 <li value="24">	 with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP.pdf">The pure Y=X^{d} truncated moment problem.</a></li>
 <li value="23">  with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point.</a></li>
@@ -67,8 +67,9 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 
 ## In preparation
 
-* with [I. Zobovič](https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/): Matricial Gaussian quadrature rules: degenerate case.
+* with [I. Zobovič](http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl): Matricial Gaussian quadrature rules: degenerate case.
 * with [A. Bhardwaj](https://www.researchgate.net/profile/Abhishek-Bhardwaj-25): Flat extensions for cubic curves in Weierstrass form.
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for $k$-increasing quasi-copulas.</a></li>
 
 ## Grants
 
