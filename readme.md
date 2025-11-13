@@ -79,6 +79,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
 ## Upcoming Conferences
 
 * [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, Québec, Canada.
+* [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/), 2-5 June, Edinburgh, United Kingdom.
 * [GPOTS 2026](https://events.uiowa.edu/event/29902), 26-30 May, Iowa City, Iowa.
 
 ## Conferences and Talks
