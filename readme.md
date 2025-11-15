@@ -152,6 +152,7 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
   
 ### Master Thesis
 
+* Ana Poklukar: Existence of copulas with prescribed values using linear programming, MSc, ongoing
 * Noah Novšak: A software approach to the PPT2 conjecture, MSc, ongoing
 * Matic Šutar: The Christoffel-Darboux kernel and its use for data analysis, MSc, ongoing
 * Veljko Dudić: Hankel low-rank approximation for data analysis, MSc, ongoing
