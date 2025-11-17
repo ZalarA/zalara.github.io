@@ -19,6 +19,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
+<li value="28">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</li>
 <li value="27">	with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a></li>
 <li value="26">	 with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
 <li value="25">	 with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP.pdf">The pure Y=X^{d} truncated moment problem.</a></li>
