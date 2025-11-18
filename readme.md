@@ -26,12 +26,12 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 <li value="24">  with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point.</a></li>
 <li value="23">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1.</a></li>
 <li value="22">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a></li>
-<li value="21">  with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas.</a></li>
 </ol>
 
 ## Publications
 
 <ol>
+<li value="21">  with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas.</a>, to appear in Fuzzy Sets and Systems.</li>
 <li value="20">	with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)</li>
 <li value="19">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)</li>
 <li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: 
