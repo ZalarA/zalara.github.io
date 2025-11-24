@@ -19,7 +19,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Preprints
 
 <ol>
-<li value="29"> with [I. Zobovič](http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl): <a href="https://zalara.github.io/Papers/MGQR-PD.pdf">Matricial Gaussian quadrature rules: singular case.</a></li>
+<li value="29"> with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PD.pdf">Matricial Gaussian quadrature rules: singular case.</a></li>
 <li value="28">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclic_polynomials_Dirichlet.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</a></li>
 <li value="27">	with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a></li>
 <li value="26">	 with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
