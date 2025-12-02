@@ -158,9 +158,9 @@ Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (
   
 ### Master Thesis
 
+* Sara Milovanova: Nuclear norm minimization for data reconstruction, MSc, ongoing
 * Ana Poklukar: Existence of copulas with prescribed values using linear programming, MSc, ongoing
 * Noah Novšak: A software approach to the PPT2 conjecture, MSc, ongoing
-* Matic Šutar: The Christoffel-Darboux kernel and its use for data analysis, MSc, ongoing
 * Veljko Dudić: Hankel low-rank approximation for data analysis, MSc, ongoing
 * Una Sekulović: [Algorithms for solving tensor completion problem and its application for reconstruction of images](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=163975&lang=slv), MSc (2024)
 * Mirjam Skobe: [Sample rate conversion of a digital signal](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&lang=slv), MSc (2021)
