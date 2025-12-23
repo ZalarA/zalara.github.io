@@ -34,7 +34,11 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Commutative Moment Problems
 
-* with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://link.springer.com/article/10.1007/s11785-024-01554-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240608&utm_content=10.1007/s11785-024-01554-w">The truncated moment problem on reducible cubic curves I: Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (2024) 54 pp. (<a href="https://zalara.github.io/Papers/TMP5.pdf">pdf</a>)
+* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra Appl. 708 (2025) 280-301.
+ 	(<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)
+* with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>:
+ 	<a href="https://link.springer.com/article/10.1007/s11785-024-01554-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240608&utm_content=10.1007/s11785-024-01554-w">
+	The truncated moment problem on reducible cubic curves I: Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (2024) 54 pp. (<a href="https://zalara.github.io/Papers/TMP5.pdf">pdf</a>)
 * <a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316">The truncated moment problem on curves y=q(x) and yx^ℓ=1</a>, Linear and Multilinear Algebra 72, 12 (2024) 1922-1966. (<a href="https://zalara.github.io/Papers/TMP4.pdf">pdf</a>)
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub">The strong truncated Hamburger moment problem with and without gaps</a>, J. Math. Anal. Appl. 516 (2022) 21 pp. (<a href="https://zalara.github.io/Papers/TMP3.pdf">pdf</a>)
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951">The truncated moment problem on the union of parallel lines</a>, Linear Algebra Appl. 649 (2022) 186-239. (<a href="https://zalara.github.io/Papers/TMP2.pdf">pdf</a>)
@@ -48,9 +52,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
 Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)  </li>
 <li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457 (<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)</li>
-<li value="16">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra Appl. 708 (2025) 280-301. (<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)</li>
 <li value="15">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)</li>
-<li value="14"></li>
 <li value="9"> with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
 	J. Math. Anal. Appl. 498 (2021) 39 pp. (<a href="https://zalara.github.io/Papers/MomTracial2.pdf">pdf</a>)</li>
 <li value="8"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub">A local-global principle for linear dependence in enveloping algebras of Lie algebras</a>,  
