@@ -16,24 +16,15 @@ Večna pot 113, 1000 Ljubljana, Slovenia
 
 Real algebraic geometry, truncated moment problems, moment problems, matrix polynomials, completely positive maps, copula theory.
 
-## Preprints
-
-<ol>
-<li value="30">  with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">Extreme mass distributions for k-increasing quasi-copulas.</a></li>
-<li value="29"> with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case.</a></li>
-<li value="28">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclic_polynomials_Dirichlet.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</a></li>
-<li value="27">	with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a></li>
-<li value="26">	 with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
-<li value="25">	 with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP_part_1.pdf">The pure Y=X^{d} truncated moment problem: part 1.</a></li>
-<li value="24">  with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point.</a></li>
-<li value="23">  with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1.</a></li>
-<li value="22">  with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a></li>
-</ol>
-
 ## Publications
 
 ## Commutative Moment Problems
 
+* with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a>
+* with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a>
+* with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP_part_1.pdf">The pure Y=X^{d} truncated moment problem: part 1.</a>
+* with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1.</a>
+* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a>
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra Appl. 708 (2025) 280-301.
  	(<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)
 * with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>:
@@ -46,6 +37,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Noncommutative Moment Problems
 
+* with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case.</a>
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">
 	Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>,
@@ -69,6 +61,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Noncommutative Real Algebraic Geometry
 
+* with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point.</a>
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
 	J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
@@ -78,6 +71,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Copula Theory
 
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">
+	Extreme mass distributions for k-increasing quasi-copulas.</a>
 * with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
 	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)
 * with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>:
@@ -86,6 +81,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Miscellaneous
 
+* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclic_polynomials_Dirichlet.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</a>
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie
   	algebras</a>, Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)
 * <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>, Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)
