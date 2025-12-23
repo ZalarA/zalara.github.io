@@ -34,7 +34,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Commutative Moment Problems
 
-<ol>
+*<a href="https://link.springer.com/article/10.1007/s00020-021-02628-6">The truncated Hamburger moment problems with gaps in the index set</a>, Integ. Equ. Oper. Theory 93 (2021) 36 pp. (<a href="https://zalara.github.io/Papers/TMP1.pdf">pdf</a>)
+
 <li> with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
 	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)</li>
 <li value="20">	with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)</li>
