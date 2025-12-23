@@ -50,15 +50,31 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 	Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>,
  	J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)
+* with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
+	J. Math. Anal. Appl. 498 (2021) 39 pp. (<a href="https://zalara.github.io/Papers/MomTracial2.pdf">pdf</a>)
+* with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://link.springer.com/article/10.1007%2Fs11785-017-0756-3">The singular bivariate quartic tracial moment problem</a>, 
+	Complex Anal. Oper. Theory 12 (2018) 1057-1142. (<a href="https://zalara.github.io/Papers/MomTracial1.pdf">pdf</a>)
 
 ## Commutative Real Algebraic Geometry
 
 * with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">
 	Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)
 * with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
-	Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)  
+	Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)
+* with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">
+	A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)
+* with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://people.clas.ufl.edu/sam/">S. McCullough</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>:
+  	<a href="https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362">There are many more positive maps than completely positive maps</a>, 
+	Int. Math. Res. Not. 11 (2019) 3313-3375. (<a href="https://zalara.github.io/Papers/POSvsCP.pdf">pdf</a>)
 
 ## Noncommutative Real Algebraic Geometry
+
+* <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
+	J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)
+* <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
+	J. Pure Appl. Algebra 220 (2016) 2533-2548. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">pdf</a>,<a href="https://zalara.github.io/Papers/MatrixFejerRieszArxivOriginal.pdf">Arxiv-v1</a>)
+* <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
+	Comm. Algebra 40 (2012) 3420-3429.
 
 ## Copula Theory
 
@@ -69,26 +85,12 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
   	(<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)
 
 
-
-<li value="17">  </li>
-<li value="15">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)</li>
-<li value="9"> with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
-	J. Math. Anal. Appl. 498 (2021) 39 pp. (<a href="https://zalara.github.io/Papers/MomTracial2.pdf">pdf</a>)</li>
 <li value="8"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub">A local-global principle for linear dependence in enveloping algebras of Lie algebras</a>,  
 	Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)</li>
-<li value="7"> with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://people.clas.ufl.edu/sam/">S. McCullough</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362">There are many more positive maps than completely positive maps</a>, 
-	Int. Math. Res. Not. 11 (2019) 3313-3375. (<a href="https://zalara.github.io/Papers/POSvsCP.pdf">pdf</a>)</li>
-<li value="6"> with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://link.springer.com/article/10.1007%2Fs11785-017-0756-3">The singular bivariate quartic tracial moment problem</a>, 
-	Complex Anal. Oper. Theory 12 (2018) 1057-1142. (<a href="https://zalara.github.io/Papers/MomTracial1.pdf">pdf</a>)</li>
-<li value="5"> <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
-	J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)</li>
-<li value="4"> <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
-	J. Pure Appl. Algebra 220 (2016) 2533-2548. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">pdf</a>,<a href="https://zalara.github.io/Papers/MatrixFejerRieszArxivOriginal.pdf">Arxiv-v1</a>)</li>
+<li value="5"> </li>
+<li value="4"> </li>
 <li value="3"> <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>,  
 	Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)</li>
-<li value="1"> <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
-	Comm. Algebra 40 (2012) 3420-3429. (<a href="https://zalara.github.io/Papers/matrixfarkasrev.pdf">pdf</a>)</li>
-</ol>
 
 ## Grants
 
