@@ -44,6 +44,15 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951">The truncated moment problem on the union of parallel lines</a>, Linear Algebra Appl. 649 (2022) 186-239. (<a href="https://zalara.github.io/Papers/TMP2.pdf">pdf</a>)
 * <a href="https://link.springer.com/article/10.1007/s00020-021-02628-6">The truncated Hamburger moment problems with gaps in the index set</a>, Integ. Equ. Oper. Theory 93 (2021) 36 pp. (<a href="https://zalara.github.io/Papers/TMP1.pdf">pdf</a>)
 
+## Noncommutative Moment Problems
+
+* with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>,
+ 	J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)
+
+## Commutative Real Algebraic Geometry
+
+## NonCommutative Real Algebraic Geometry
+
 <li> with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
 	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)</li>
 <li value="20">	with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)</li>
@@ -67,7 +76,6 @@ Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Pape
 	J. Pure Appl. Algebra 220 (2016) 2533-2548. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">pdf</a>,<a href="https://zalara.github.io/Papers/MatrixFejerRieszArxivOriginal.pdf">Arxiv-v1</a>)</li>
 <li value="3"> <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>,  
 	Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)</li>
-<li value="2"> with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>, J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)</li>
 <li value="1"> <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
 	Comm. Algebra 40 (2012) 3420-3429. (<a href="https://zalara.github.io/Papers/matrixfarkasrev.pdf">pdf</a>)</li>
 </ol>
