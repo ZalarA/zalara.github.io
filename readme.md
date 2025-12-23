@@ -46,6 +46,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Noncommutative Moment Problems
 
+* with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">
+	Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>,
  	J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)
 
@@ -53,9 +55,11 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## NonCommutative Real Algebraic Geometry
 
-<li> with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
-	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)</li>
-<li value="20">	with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)</li>
+## Copula Theory
+
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
+	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)
+
 <li value="19">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)</li>
 <li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: 
 <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
