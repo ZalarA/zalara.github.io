@@ -53,18 +53,24 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Commutative Real Algebraic Geometry
 
-## NonCommutative Real Algebraic Geometry
+* with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">
+	Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)
+* with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
+	Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)  
+
+## Noncommutative Real Algebraic Geometry
 
 ## Copula Theory
 
 * with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
 	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)
+* with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>:
+  	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457
+  	(<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)
 
-<li value="19">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)</li>
-<li value="18">  with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: 
-<a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
-Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)  </li>
-<li value="17">  with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457 (<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)</li>
+
+
+<li value="17">  </li>
 <li value="15">  with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)</li>
 <li value="9"> with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
 	J. Math. Anal. Appl. 498 (2021) 39 pp. (<a href="https://zalara.github.io/Papers/MomTracial2.pdf">pdf</a>)</li>
