@@ -159,7 +159,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ### Postdoctoral fellows
 
-* [Rajkamal Nailwal](https://rkn.my.canva.site/rknailwal), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, November 2024-
+* [Rajkamal Nailwal](https://rnailwal.github.io/), Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, November 2024-
 
 ### PhD Thesis
 
