@@ -52,16 +52,16 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case.</a>
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">
 	Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)
-* with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>,
- 	J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)
 * with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
 	J. Math. Anal. Appl. 498 (2021) 39 pp. (<a href="https://zalara.github.io/Papers/MomTracial2.pdf">pdf</a>)
 * with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://link.springer.com/article/10.1007%2Fs11785-017-0756-3">The singular bivariate quartic tracial moment problem</a>, 
 	Complex Anal. Oper. Theory 12 (2018) 1057-1142. (<a href="https://zalara.github.io/Papers/MomTracial1.pdf">pdf</a>)
-
+* with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>,
+ 	J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)
+  
 ## Noncommutative Real Algebraic Geometry
 
-* with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point.</a>
+* with <a href="https://sites.google.com/view/ssdcgaddq">S. Sun</a>: <a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">Matrix Fejér-Riesz type theorem for a union of an interval and a point</a>, to appear in J. Pure Appl. Algebra.
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
 	J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
