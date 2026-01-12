@@ -99,7 +99,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Conferences and Talks
 
-*[Spectral Theory Seminar 2026](https://sites.google.com/view/spectraltheoryseminar/home), [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Spectral_Theory_Seminar_2026.pdf), January 2026.
+* [Spectral Theory Seminar 2026](https://sites.google.com/view/spectraltheoryseminar/home), [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Spectral_Theory_Seminar_2026.pdf), January 2026, University of Ljubljana, Slovenia.
 * [IWOTA 2025](https://www.utwente.nl/en/iwota2025/), 14-18 July, 2025, Twente, Netherlands (coorganizer of the session Moment problems and applications). 
 * [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/SIAM_AG25.pdf),
   	[SIAM Conference on Applied Algebraic Geometry (AG25)](https://www.siam.org/conferences-events/siam-conferences/ag25/),
