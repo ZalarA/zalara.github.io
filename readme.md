@@ -110,6 +110,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 	[Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics](https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/), University of Konstanz, Germany, February 2025.
 * [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
   	Seminar Algebra–Geometrie–Kombinatorik, TU Dresden, Germany, June 2024.
+* [Algebra and functional analysis seminar 2026](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Positivity and complete positivity meet positive polynomials](https://zalara.github.io/Predavanja/SAFA_24.pdf), April 2024, University of 	Ljubljana, Slovenia.
 * [A gap between positive even quartics and sums of squares ones](https://zalara.github.io/Predavanja/MoPAT_24.pdf),
   	MoPAT-24 – Moments and Polynomials: Applications and Theory, University of Konstanz, Germany, March 2024.
 * [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/OS_RAG_Konstanz_2024.pdf), 										OS Reelle Geometrie und Algebra, University of Konstanz, Germany, February 2024.
