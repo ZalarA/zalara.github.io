@@ -61,7 +61,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
   
 ## Noncommutative Real Algebraic Geometry
 
-* with <a href="https://www.lse.ac.uk/people/shengding-sun">S. Sun</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022404926000046?via%3Dihub">Matrix Fejér-Riesz type theorem for a union of an interval and a point</a>, J. Pure Appl. Algebra. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">pdf</a>)
+* with <a href="https://www.lse.ac.uk/people/shengding-sun">S. Sun</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022404926000046?via%3Dihub">Matrix Fejér-Riesz type theorem for a union of an interval and a point</a>, J. Pure Appl. Algebra. 230 (2026) 108173. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">pdf</a>)
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, 
 	J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)
 * <a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, 
