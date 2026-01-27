@@ -37,6 +37,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Commutative Real Algebraic Geometry
 
+* with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/NonnegCubicNew.pdf">Non-negative polynomials on generalized elliptic curves.</a>
 * with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub">
 	Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra  688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)
 * with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>,
