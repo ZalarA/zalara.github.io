@@ -179,6 +179,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ### Bachelor Thesis
 
+* Simon Gabrijelčič: [Optimization of Ray Tracing Using Bounding Volume Hierarchies](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=182261&lang=slv), BSc (2026)
 * Erazem Stanonik: [Tensor algorithms for image classification](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170321&lang=slv), BSc (2025)
 * Tomaž Jonatan Leonardis: [Algorithms for finding Nash equilibrium in bimatrix games](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161586&lang=slv), BSc (2024)
 * Matej Belšak: [Extreme volumes of quasi-copulas](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=165325&lang=slv), BSc (2024)
