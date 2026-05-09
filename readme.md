@@ -109,7 +109,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 * [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia (member of the organizing committee).
 * [Matrix Polynomials and Matrix Positiv/Nichtnegativstellensätze](https://zalara.github.io/Predavanja/Winter_School_Konstanz_25.pdf), 
 	[Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics](https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/), University of Konstanz, Germany, February 2025.
-* [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/IWOTA_24.pdf),[IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, 2024, Canterbury, UK.
+* [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/IWOTA_24.pdf), [IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, 2024, Canterbury, UK.
 * [A gap between positive polynomials and sums of squares in three different settings](https://zalara.github.io/Predavanja/TU_Dresden_24.pdf),
   	Seminar Algebra–Geometrie–Kombinatorik, TU Dresden, Germany, June 2024.
 * [Algebra and functional analysis seminar 2024](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Positivity and complete positivity meet positive polynomials](https://zalara.github.io/Predavanja/SAFA_24.pdf), April 2024, University of 	Ljubljana, Slovenia.
