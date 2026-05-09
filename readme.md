@@ -20,6 +20,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Commutative Moment Problems
 
+* with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://zalara.github.io/Papers/TMP_elliptic.pdf">A constructive approach to the truncated moment problem on cubic curves in Weierstrass form</a>
 * with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a>
 * with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a>
 * with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP_part_1.pdf">The pure Y=X^{d} truncated moment problem: part 1.</a>
