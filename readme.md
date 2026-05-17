@@ -45,6 +45,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 	Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)
 * with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491">
 	A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)
+* with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie
+  	algebras</a>, Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)
 * with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://people.clas.ufl.edu/sam/">S. McCullough</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>:
   	<a href="https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362">There are many more positive maps than completely positive maps</a>, 
 	Int. Math. Res. Not. 11 (2019) 3313-3375. (<a href="https://zalara.github.io/Papers/POSvsCP.pdf">pdf</a>)
@@ -80,11 +82,9 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
   	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457
   	(<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)
 
-## Miscellaneous
+## Operator theory
 
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclic_polynomials_Dirichlet.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</a>
-* with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie
-  	algebras</a>, Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)
 * <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>, Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)
 
 ## Grants
