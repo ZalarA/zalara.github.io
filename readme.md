@@ -100,7 +100,7 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 
 ## Conferences and Talks
 
-* [GPOTS 2026](https://events.uiowa.edu/event/29902), [Truncated Moment Problems On Algebraic Curves](https://zalara.github.io/Predavanja/GPOTS-26.pdf), 26-30 May, Iowa City, Iowa.
+* [GPOTS 2026](https://sites.google.com/view/gpots-2026), [Truncated Moment Problems On Algebraic Curves](https://zalara.github.io/Predavanja/GPOTS-26.pdf), 26-30 May, Iowa City, Iowa.
 * [Spectral Theory Seminar 2026](https://sites.google.com/view/spectraltheoryseminar/home), [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Spectral_Theory_Seminar_2026.pdf), January 2026, University of Ljubljana, Slovenia.
 * [Algebra and functional analysis seminar 2025](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/SAFA_25.pdf), October 		2025, University of Ljubljana, Slovenia.
 * [IWOTA 2025](https://www.utwente.nl/en/iwota2025/), 14-18 July, 2025, Twente, Netherlands (coorganizer of the session Moment problems and applications). 
