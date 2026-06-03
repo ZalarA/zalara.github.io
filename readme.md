@@ -24,8 +24,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 * with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">Constructive approach to the truncated moment problem on reducible cubic curves: Hyperbolic type relations</a>
 * with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a>
 * with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP_part_1.pdf">The pure Y=X^{d} truncated moment problem: part 1.</a>
-* with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1.</a>
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a>
+* with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1</a>, in revision in Linear and Multilinear Algebra.
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra Appl. 708 (2025) 280-301.
  	(<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)
 * with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>:
@@ -73,19 +73,19 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 * <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
 	Comm. Algebra 40 (2012) 3420-3429.
 
+## Operator theory
+
+* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclicity.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> in revision in Analysis and Mathematical Physics.
+* <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>, Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)
+
 ## Copula Theory
 
-* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">Maximal signed volume for (multivariate) supermodular quasi-copulas.</a>
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">Maximal signed volume for (multivariate) supermodular quasi-copulas.</a>, in revision in Fuzzy Sets and Systems.
 * with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
 	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)
 * with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>:
   	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457
   	(<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)
-
-## Operator theory
-
-* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclicity.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</a>
-* <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>, Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)
 
 ## Grants
 
