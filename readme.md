@@ -95,7 +95,8 @@ Real algebraic geometry, truncated moment problems, moment problems, matrix poly
 ## Upcoming Conferences
 
 * [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, Québec, Canada.
-* [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/), 2-5 June, Edinburgh, United Kingdom.
+* [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/),
+  [Matricial Gaussian Quadrature rules](https://zalara.github.io/Predavanja/SIAM_OPT_26_talk.pdf), 2-5 June, Edinburgh, United Kingdom.
 
 
 ## Conferences and Talks
