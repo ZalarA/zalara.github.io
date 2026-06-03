@@ -14,7 +14,7 @@ Večna pot 113, 1000 Ljubljana, Slovenia
 
 ## Research interests
 
-Real algebraic geometry, truncated moment problems, moment problems, matrix polynomials, completely positive maps, copula theory.
+Real algebraic geometry, truncated moment problems, moment problems, matrix polynomials, completely positive maps, operator theory, copula theory.
 
 ## Publications
 
