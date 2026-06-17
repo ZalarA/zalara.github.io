@@ -80,7 +80,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Copula Theory
 
-* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26001234">Maximal signed volume for (multivariate) supermodular quasi-copulas</a>, International Journal of Approximate Reasoning (2026) 109748
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26001234">Maximal signed volume for (multivariate) supermodular quasi-copulas</a>, International Journal of Approximate Reasoning (2026) 109748.
   (<a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">pdf</a>)
 * with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
 	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)
