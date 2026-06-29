@@ -75,7 +75,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Operator theory
 
-* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/Cyclicity.pdf">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> to appear in Analysis and Mathematical Physics.
+* with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://link.springer.com/article/10.1007/s13324-026-01233-3#Ack1">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> Anal. Math. Phys. 16, 87 (2026). (<a href="https://zalara.github.io/Papers/Cyclicity.pdf">pdf</a>)
 * <a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>, Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)
 
 ## Copula Theory
