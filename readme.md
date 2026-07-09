@@ -150,11 +150,11 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Teaching
 
-* Mathematics 2 - MCMC methods (1/4): 2022/23-25/26
-* Principles of Uncertainty (1/2): 2022/23-25/26
+* Principles of Uncertainty: 2022/23-26/27
 
 ### Previous teaching
 
+* Mathematics 2 - MCMC methods: 2022/23-25/26
 * Numerical Methods: 2019/20-24/25, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf)
 * Linear Algebra: 2023/24
 * Numerical Mathematics: 2021/22-23/24, [Lecture notes (in Slovene)](https://zalara.github.io/Izrocki/Numericna_matematika_izrocki_predavanj.pdf)
