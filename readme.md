@@ -111,7 +111,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 * [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/SIAM_AG25.pdf),
   	[SIAM Conference on Applied Algebraic Geometry (AG25)](https://www.siam.org/conferences-events/siam-conferences/ag25/),
   	7-11 July, 2025, Madison, Wisconsin, U.S.
-* [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia (member of the organizing committee).
+* [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia (member of the organizing committee and a coorganizer of the working group Moment problems, positive polynomials and applications; together with <a href="https://www.math.uni-leipzig.de/~schmuedgen/">Konrad Schm\"udgen</a>)
 * [Matrix Polynomials and Matrix Positiv/Nichtnegativstellensätze](https://zalara.github.io/Predavanja/Winter_School_Konstanz_25.pdf), 
 	[Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics](https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/), University of Konstanz, Germany, February 2025.
 * [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/IWOTA_24.pdf), [IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, 2024, Canterbury, UK.
