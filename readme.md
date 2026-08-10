@@ -107,11 +107,11 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 * [Spectral Theory Seminar 2026](https://sites.google.com/view/spectraltheoryseminar/home), [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Spectral_Theory_Seminar_2026.pdf), January 2026, University of Ljubljana, Slovenia.
 * [Algebra and functional analysis seminar 2025](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/SAFA_25.pdf), October 		2025, University of Ljubljana, Slovenia.
 * [IWOTA 2025](https://www.utwente.nl/en/iwota2025/), 14-18 July, 2025, Twente, Netherlands (coorganizer of the session Moment problems and applications; together with
-  <a href="https://math.uiowa.edu/people/raul-curto">Ra\'ul Curto</a>)
+  <a href="https://math.uiowa.edu/people/raul-curto">Raúl Curto</a>)
 * [A gap between positive polynomials and sums of squares in various settings](https://zalara.github.io/Predavanja/SIAM_AG25.pdf),
   	[SIAM Conference on Applied Algebraic Geometry (AG25)](https://www.siam.org/conferences-events/siam-conferences/ag25/),
   	7-11 July, 2025, Madison, Wisconsin, U.S.
-* [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia (member of the organizing committee and a coorganizer of the working group Moment problems, positive polynomials and applications; together with <a href="https://www.math.uni-leipzig.de/~schmuedgen/">Konrad Schm\"udgen</a>)
+* [9th Linear Algebra Workshop](http://www.law05.si/law25/index.php?stran=general), 2-6 June, 2025, Portoroz, Slovenia (member of the organizing committee and a coorganizer of the working group Moment problems, positive polynomials and applications; together with <a href="https://www.math.uni-leipzig.de/~schmuedgen/">Konrad Schmüdgen</a>)
 * [Matrix Polynomials and Matrix Positiv/Nichtnegativstellensätze](https://zalara.github.io/Predavanja/Winter_School_Konstanz_25.pdf), 
 	[Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics](https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/), University of Konstanz, Germany, February 2025.
 * [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/IWOTA_24.pdf), [IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, 2024, Canterbury, UK.
