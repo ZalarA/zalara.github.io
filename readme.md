@@ -20,7 +20,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Commutative Moment Problems
 
-* with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://zalara.github.io/Papers/TMP_elliptic.pdf">A constructive approach to the truncated moment problem on cubic curves in Weierstrass form</a>
+* with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://zalara.github.io/Papers/TMP_elliptic.pdf">A constructive approach to the truncated moment problem on cubic curves in Weierstrass form.</a>
 * with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a>
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a>
 * with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://zalara.github.io/Papers/yxd_pure_TMP_part_1.pdf">The pure Y=X^{d} truncated moment problem: part 1.</a>, in revision in Advances in Operator Theory.
@@ -75,7 +75,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 * <a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>,
 	Comm. Algebra 40 (2012) 3420-3429.
 
-## Operator theory
+## Operator Theory
 
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://link.springer.com/article/10.1007/s13324-026-01233-3">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> Anal. Math. Phys. 16, 87 (2026). (<a href="https://zalara.github.io/Papers/Cyclicity.pdf">pdf</a>)
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie
@@ -91,6 +91,10 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 * with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>:
   	<a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457
   	(<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)
+
+## Toric Varieties
+
+* with <a href="https://matfilip.github.io/">M. Filip</a>: <a href="https://zalara.github.io/Papers/unobstructedness.pdf">unobstructedness of affine terminal gorenstein toric fourfolds.</a>
 
 ## Grants
 
