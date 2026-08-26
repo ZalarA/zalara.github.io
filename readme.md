@@ -94,7 +94,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Toric Varieties
 
-* with <a href="https://matfilip.github.io/">M. Filip</a>: <a href="https://zalara.github.io/Papers/unobstructedness.pdf">Unobstructedness of affine terminal gorenstein toric fourfolds.</a>
+* with <a href="https://matfilip.github.io/">M. Filip</a>: <a href="https://zalara.github.io/Papers/unobstructedness.pdf">Unobstructedness of affine terminal Gorenstein toric fourfolds.</a>
 
 ## Grants
 
