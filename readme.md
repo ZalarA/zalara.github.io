@@ -20,6 +20,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Commutative Moment Problems
 
+* with <a href="https://rnailwal.github.io/">R. Nailwal</a>, <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/Extension_property.pdf">Truncated Moment Problems and the Extension Property on Monomial Curves.</a>
 * with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://zalara.github.io/Papers/TMP_elliptic.pdf">A constructive approach to the truncated moment problem on cubic curves in Weierstrass form.</a>
 * with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a>
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a>
