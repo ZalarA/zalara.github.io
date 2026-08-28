@@ -56,6 +56,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Noncommutative Moment Problems
 
+* with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/Matricial_Rational.pdf">The matricial univariate rational truncated moment problem.</a>
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case.</a>
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">
 	Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)
