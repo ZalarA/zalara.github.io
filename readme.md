@@ -79,6 +79,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Operator Theory
 
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://uwaterloo.ca/pure-mathematics/profiles/heydar-radjavi">H. Radjavi</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/ThickCompressions-ThinAlgebras.pdf">Thick compressions of thin algebras</a>, in revision in Linear Algebra Appl. 
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://link.springer.com/article/10.1007/s13324-026-01233-3">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> Anal. Math. Phys. 16, 87 (2026). (<a href="https://zalara.github.io/Papers/Cyclicity.pdf">pdf</a>)
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie
   	algebras</a>, Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)
