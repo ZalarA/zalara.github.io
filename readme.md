@@ -106,15 +106,15 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Upcoming Conferences
 
-* [SPMS 2026](https://conference.unisalento.it/event/14/page/107-welcome), 15-18 September, Lecce, Italy.
+* [SPMS 2026](https://conference.unisalento.it/event/14/page/107-welcome), 15-18 September, 2026, Lecce, Italy.
 
 ## Conferences and Talks
 
-* [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, Québec, Canada (coorganizer of the session Real Algebraic Geometry, Moment Problems and Applications; together with
+* [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, 2026, Québec, Canada (coorganizer of the session Real Algebraic Geometry, Moment Problems and Applications; together with
   <a href="https://www.math.uni-konstanz.de/~kuhlmann/exindex.html">Salma Kuhlmann</a>). 
 * [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/),
-  [Matricial Gaussian Quadrature rules](https://zalara.github.io/Predavanja/SIAM_OPT_26_talk.pdf), 2-5 June, Edinburgh, United Kingdom.
-* [GPOTS 2026](https://sites.google.com/view/gpots-2026), [Truncated Moment Problems On Algebraic Curves](https://zalara.github.io/Predavanja/GPOTS-26.pdf), 26-30 May, Iowa City, Iowa.
+  [Matricial Gaussian Quadrature rules](https://zalara.github.io/Predavanja/SIAM_OPT_26_talk.pdf), 2-5 June, 2026, Edinburgh, United Kingdom.
+* [GPOTS 2026](https://sites.google.com/view/gpots-2026), [Truncated Moment Problems On Algebraic Curves](https://zalara.github.io/Predavanja/GPOTS-26.pdf), 26-30 May, 2026, Iowa City, Iowa.
 * [Spectral Theory Seminar 2026](https://sites.google.com/view/spectraltheoryseminar/home), [Matrix Fejér-Riesz theorem with gaps](https://zalara.github.io/Predavanja/Spectral_Theory_Seminar_2026.pdf), January 2026, University of Ljubljana, Slovenia.
 * [Algebra and functional analysis seminar 2025](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Positive polynomials and the truncated moment problem on plane cubic curves](https://zalara.github.io/Predavanja/SAFA_25.pdf), October 		2025, University of Ljubljana, Slovenia.
 * [IWOTA 2025](https://www.utwente.nl/en/iwota2025/), 14-18 July, 2025, Twente, Netherlands (coorganizer of the session Moment problems and applications; together with
