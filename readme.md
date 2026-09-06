@@ -104,6 +104,10 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 * Slovenian Research and Innovation Agency (ARIS) grant J1-60011. [The truncated moment problem via Real algebraic geometry](https://fri.uni-lj.si/en/projects/1834). <br>
   PI January 2025 – December 2027.
 
+## Upcoming Conferences
+
+* [SPMS 2026](https://conference.unisalento.it/event/14/page/107-welcome), 15-18 September, Lecce, Italy.
+
 ## Conferences and Talks
 
 * [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, Québec, Canada (coorganizer of the session Real Algebraic Geometry, Moment Problems and Applications; together with
