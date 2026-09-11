@@ -188,8 +188,8 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
   
 ### Master Thesis
 
-* Sara Milovanova: Nuclear norm minimization for data reconstruction, MSc, ongoing
 * Ana Poklukar: Existence of copulas with prescribed values using linear programming, MSc, ongoing
+* Sara Milovanova: [Nuclear norm minimization for data reconstruction](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=187593&lang=slv), MSc (2026)
 * Noah Novšak: [A software approach to the PPT2 conjecture](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=184600&lang=slv), MSc (2026)
 * Veljko Dudić: [Hankel low-rank approximation for data analysis](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=177283&lang=slv), MSc (2025)
 * Una Sekulović: [Algorithms for solving tensor completion problem and its application for reconstruction of images](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=163975&lang=slv), MSc (2024)
