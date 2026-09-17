@@ -57,7 +57,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 ## Noncommutative Moment Problems
 
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/Matricial_Rational.pdf">The matricial univariate rational truncated moment problem.</a>
-* with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case.</a>
+* with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case,</a> in revision in Linear and Multilinear Algebra.
 * with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550">
 	Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)
 * with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>,
@@ -79,7 +79,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Operator Theory
 
-* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://uwaterloo.ca/pure-mathematics/profiles/heydar-radjavi">H. Radjavi</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/ThickCompressions-ThinAlgebras.pdf">Thick compressions of thin algebras</a>, in revision in Linear Algebra Appl. 
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://uwaterloo.ca/pure-mathematics/profiles/heydar-radjavi">H. Radjavi</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://zalara.github.io/Papers/ThickCompressions-ThinAlgebras.pdf">Thick compressions of thin algebras</a>, to appear in Linear Algebra Appl. 
 * with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://link.springer.com/article/10.1007/s13324-026-01233-3">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> Anal. Math. Phys. 16, 87 (2026). (<a href="https://zalara.github.io/Papers/Cyclicity.pdf">pdf</a>)
 * with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie
   	algebras</a>, Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)
@@ -106,7 +106,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Upcoming Conferences
 
-* [SPMS 2026](https://conference.unisalento.it/event/14/page/107-welcome), 15-18 September, 2026, Lecce, Italy.
+* [SMPS 2026](https://conference.unisalento.it/event/14/page/107-welcome), 15-18 September, 2026, Lecce, Italy.
 
 ## Conferences and Talks
 
