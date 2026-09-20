@@ -104,12 +104,10 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 * Slovenian Research and Innovation Agency (ARIS) grant J1-60011. [The truncated moment problem via Real algebraic geometry](https://fri.uni-lj.si/en/projects/1834). <br>
   PI January 2025 – December 2027.
 
-## Upcoming Conferences
-
-* [SMPS 2026](https://conference.unisalento.it/event/14/page/107-welcome), 15-18 September, 2026, Lecce, Italy.
-
 ## Conferences and Talks
 
+* [SMPS 2026](https://conference.unisalento.it/event/14/page/107-welcome),
+  [Maximal Signed Volume for k-increasing Quasi-Copulas](https://zalara.github.io/Predavanja/SMPS_26.pdf), 15-18 September, 2026, Lecce, Italy.
 * [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, 2026, Québec, Canada (coorganizer of the session Real Algebraic Geometry, Moment Problems and Applications; together with
   <a href="https://www.math.uni-konstanz.de/~kuhlmann/exindex.html">Salma Kuhlmann</a>). 
 * [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/),
