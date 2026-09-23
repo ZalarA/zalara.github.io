@@ -87,7 +87,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Copula Theory
 
-* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="[https://zalara.github.io/Papers/linear_programming_approach_to_finite_copula_interpolation.pdf]">A linear programming approach to finite copula interpolation</a>.
+* with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/linear_programming_approach_to_finite_copula_interpolation.pdf">A linear programming approach to finite copula interpolation</a>.
 * with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26001234">Maximal signed volume for (multivariate) supermodular quasi-copulas</a>, International Journal of Approximate Reasoning 197 (2026) 109748. 
   (<a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">pdf</a>)
 * with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: 
