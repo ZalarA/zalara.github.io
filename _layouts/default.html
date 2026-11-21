@@ -1,0 +1,380 @@
+<!doctype html>
+{% assign home_link = '/' | relative_url %}
+{% if page.url == '/' or page.url == '/index.html' %}
+  {% assign is_home = true %}
+  {% assign home_link = '' %}
+{% endif %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  {% seo title=false %}
+  <style>
+    :root {
+      --paper: #fcf9f2;
+      --ink: #29251f;
+      --muted: #655d52;
+      --burgundy: #822e3c;
+      --line: #d9d0c2;
+      --fine-line: #e6ded2;
+      --plate: #f2ebdd;
+      --serif: "STIX Two Text", "Iowan Old Style", Georgia, "Times New Roman", serif;
+      --sans: Inter, "Segoe UI", Arial, sans-serif;
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #211e1b;
+        --ink: #f3ede3;
+        --muted: #c2b8a9;
+        --burgundy: #efa3ad;
+        --line: #514940;
+        --fine-line: #3e3831;
+        --plate: #2e2923;
+        color-scheme: dark;
+      }
+    }
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      border-top: 4px solid var(--burgundy);
+      background: var(--paper);
+      color: var(--ink);
+      font: 1rem/1.6 var(--sans);
+    }
+    .wrap { width: min(69rem, 100%); margin-inline: auto; padding-inline: clamp(1.25rem, 5vw, 4rem); }
+    main { flex: 1; min-width: 0; }
+    a { color: var(--burgundy); text-decoration-thickness: 1px; text-underline-offset: .2em; overflow-wrap: anywhere; }
+    a:hover { text-decoration: underline; }
+    a:focus-visible, select:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 3px; }
+    .skip { position: absolute; left: 1rem; top: .4rem; padding: .5rem .8rem; background: var(--paper); transform: translateY(-170%); }
+    .skip:focus { transform: none; z-index: 1; }
+    h1, h2, h3, figure, p, ul { margin: 0; }
+    h1, h2, h3 { font-family: var(--serif); font-weight: 400; line-height: 1.14; }
+    h1 { font-size: clamp(3.55rem, 7.3vw, 5.15rem); letter-spacing: -.055em; }
+    h2 { font-size: clamp(2rem, 4vw, 2.7rem); letter-spacing: -.035em; }
+    h3 { font-size: 1.55rem; letter-spacing: -.02em; }
+    .mast, .foot, .section-head, .contact-links { display: flex; flex-wrap: wrap; align-items: baseline; }
+    .mast { justify-content: space-between; align-items: center; gap: .25rem 1.5rem; border-bottom: 1px solid var(--line); padding: .85rem 0; }
+    .mast .institution { color: var(--ink); font: 1.2rem var(--serif); letter-spacing: -.025em; text-decoration: none; }
+    nav, .foot nav { display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.25rem; }
+    nav a { display: inline-flex; align-items: center; min-height: 2.5rem; text-decoration: none; font-size: .92rem; }
+    .mast nav a { color: var(--ink); }
+    .mast nav a[aria-current="page"] { color: var(--burgundy); text-decoration: underline; text-underline-offset: .4em; }
+    .intro { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: center; padding: clamp(2.3rem, 5vw, 4rem) 0; border-bottom: 1px solid var(--line); }
+    .affiliation { margin-top: .45rem; color: var(--muted); }
+    .bio { max-width: 50ch; margin: 1.1rem 0 .7rem; font-size: 1.07rem; }
+    .contact-links { gap: .15rem 1.35rem; font-size: .93rem; }
+    .cubic { width: 100%; max-width: 21rem; justify-self: end; }
+    .cubic svg { width: 100%; height: auto; display: block; background: var(--plate); }
+    .grid-lines, .axes, .curve { fill: none; }
+    .grid-lines { stroke: var(--line); stroke-width: .7; }
+    .axes { stroke: var(--muted); stroke-width: .85; opacity: .7; }
+    .curve { stroke: var(--burgundy); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    figcaption { display: flex; align-items: baseline; justify-content: space-between; gap: .6rem; padding-top: .4rem; color: var(--muted); font-size: .82rem; }
+    figcaption i { color: var(--burgundy); font: italic 1.1rem var(--serif); }
+    .overview { display: grid; grid-template-columns: minmax(0, 2fr) minmax(13rem, .86fr); gap: clamp(2rem, 5.5vw, 4.25rem); padding: 2rem 0 3rem; }
+    .section-head { justify-content: space-between; gap: .3rem 1rem; margin-bottom: .35rem; }
+    .section-head h2 { font-size: 2.05rem; }
+    .section-head a { font-size: .88rem; }
+    .selected, .archive ul { padding: 0; list-style: none; }
+    .selected li, .archive li { padding: .85rem 0; border-bottom: 1px solid var(--fine-line); }
+    .selected li:last-child, .archive li:last-child { border-bottom: 0; }
+    .paper-title { display: block; color: var(--ink); text-decoration: none; font: 400 1.36rem/1.25 var(--serif); }
+    .byline, .paper-meta { display: block; margin-top: .32rem; color: var(--muted); font: .91rem/1.55 var(--sans); }
+    .paper-meta a { color: inherit; }
+    .side-notes { align-self: start; border-left: 1px solid var(--line); padding-left: clamp(1.2rem, 2.4vw, 2rem); }
+    .side-notes section + section { margin-top: 1.7rem; }
+    .side-notes h3 { color: var(--muted); font: 500 .88rem var(--sans); margin-bottom: .35rem; }
+    .side-notes a { font: 1.3rem/1.3 var(--serif); text-decoration: none; }
+    .side-notes a:hover, .paper-title:hover { text-decoration: underline; }
+    .side-notes p { margin-top: .25rem; color: var(--muted); font-size: .87rem; }
+    .archive { max-width: 54rem; overflow-wrap: anywhere; }
+    .archive h2 { margin: 1.5em 0 .45em; }
+    .archive h3 { margin: 1.4em 0 .45em; }
+    .archive p + p { margin-top: .75rem; }
+    .archive section[data-page] { padding: 2.5rem 0 3.5rem; }
+    .archive section[data-page] > h1 { margin: 0 0 1rem; font-size: clamp(2.5rem, 6vw, 3.75rem); letter-spacing: -.035em; }
+    .topic > h2 { font-size: clamp(1.5rem, 3vw, 1.9rem); padding-bottom: .45rem; border-bottom: 1px solid var(--line); }
+    .topic + .topic { margin-top: 2rem; }
+    .topic .paper-meta > span + span::before { content: " · "; white-space: pre; }
+    .topic-picker { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .9rem; margin: .5rem 0 1.7rem; font-size: .94rem; }
+    .topic-picker select { max-width: 100%; min-height: 2.7rem; padding: .35rem .7rem; background: var(--paper); color: var(--ink); border: 1px solid var(--line); border-radius: .2rem; font: inherit; }
+    .foot { border-top: 1px solid var(--line); padding: 1rem 0 1.4rem; justify-content: space-between; align-items: center; gap: .25rem 1rem; }
+    .foot > a { color: var(--ink); font: 1.12rem var(--serif); text-decoration: none; }
+    .foot nav a { color: var(--muted); font-size: .9rem; }
+    :target { scroll-margin-top: 1rem; }
+    @media (max-width: 43rem) {
+      .intro { grid-template-columns: minmax(0, 1.35fr) minmax(0, .85fr); gap: 1.5rem; }
+      .mast { align-items: flex-start; }
+      nav { gap: 0 1rem; }
+      .overview { grid-template-columns: minmax(0, 1.5fr) minmax(10.5rem, .8fr); gap: 1.45rem; }
+    }
+    @media (max-width: 34rem) {
+      .mast { flex-direction: column; padding: .65rem 0 .35rem; }
+      .intro, .overview { grid-template-columns: 1fr; }
+      .intro { gap: 1.5rem; padding: 1.8rem 0; }
+      .cubic { max-width: 17rem; justify-self: start; }
+      .overview { gap: 1.6rem; padding-top: 1.5rem; }
+      .side-notes { border-left: 0; border-top: 1px solid var(--line); padding: 1.2rem 0 0; }
+      .side-notes section + section { margin-top: 1rem; }
+      .foot { align-items: flex-start; flex-direction: column; }
+      .topic-picker { align-items: flex-start; flex-direction: column; }
+    }
+    @media (pointer: coarse) {
+      nav a, .contact-links a, .section-head a { min-height: 44px; display: inline-flex; align-items: center; }
+    }
+    @media print {
+      body { display: block; border: 0; background: white; color: black; }
+      .mast, .foot, .skip, .topic-picker { display: none; }
+      .wrap { max-width: none; padding: 0; }
+      li, figure { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="wrap">
+    <div class="mast">
+      <a class="institution" href="https://www.uni-lj.si/en">University of Ljubljana</a>
+      <nav aria-label="Main navigation">
+        <a href="{{ home_link }}#home">Home</a>
+        <a href="{{ home_link }}#publications">Publications</a>
+        <a href="{{ home_link }}#teaching">Teaching</a>
+        <a href="{{ home_link }}#conferences-and-talks">Talks</a>
+        <a href="{{ home_link }}#student-supervision">Supervision</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap" id="main" tabindex="-1">
+    {% if is_home %}
+    <div id="home">
+      <section class="intro" aria-labelledby="name">
+        <div>
+          <h1 id="name">Aljaž Zalar</h1>
+          <p class="affiliation">Faculty of Computer and Information Science</p>
+          <p class="bio">I work on moment problems, positivity in real algebraic geometry and operator theory, and interpolation problems for copulas.</p>
+          <div class="contact-links">
+            <a href="mailto:aljaz.zalar@fri.uni-lj.si">aljaz.zalar@fri.uni-lj.si</a>
+            <a href="https://github.com/ZalarA">GitHub</a>
+          </div>
+        </div>
+        <figure class="cubic">
+          <svg viewBox="0 0 320 164" role="img" aria-labelledby="curve-title">
+            <title id="curve-title">The real plane cubic y squared equals x cubed minus x, with one oval and one open branch.</title>
+            <defs>
+              <pattern id="grid" x="149" y="82" width="30" height="30" patternUnits="userSpaceOnUse"><path class="grid-lines" d="M30 0H0V30"/></pattern>
+              <clipPath id="plot"><rect x="10" y="10" width="300" height="144"/></clipPath>
+            </defs>
+            <rect x="10" y="10" width="300" height="144" fill="url(#grid)"/>
+            <g clip-path="url(#plot)">
+              <path class="axes" d="M10 82H310 M149 10V154"/>
+              <!-- Real locus of y² = x³ − x. -->
+              <path class="curve" d="M55.00 82.00 C55.00 70.40 57.20 58.84 61.30 49.33 C65.40 39.82 71.40 32.42 78.50 28.15 C85.60 23.89 93.80 22.76 102.00 24.44 C110.20 26.11 118.40 30.53 125.50 36.49 C132.60 42.45 138.60 49.89 142.70 57.73 C146.80 65.56 149.00 73.80 149.00 82.00 C149.00 90.20 146.80 98.44 142.70 106.27 C138.60 114.11 132.60 121.55 125.50 127.51 C118.40 133.47 110.20 137.89 102.00 139.56 C93.80 141.24 85.60 140.11 78.50 135.85 C71.40 131.58 65.40 124.18 61.30 114.67 C57.20 105.16 55.00 93.60 55.00 82.00 Z M289.06 208.74 C278.82 187.26 270.29 169.43 263.47 154.09 C256.65 138.75 251.53 125.88 248.12 114.28 C244.71 102.68 243.00 92.34 243.00 82.00 C243.00 71.66 244.71 61.32 248.12 49.72 C251.53 38.12 256.65 25.25 263.47 9.91 C270.29 -5.43 278.82 -23.26 289.06 -44.74"/>
+            </g>
+          </svg>
+          <figcaption><span>Real plane cubic</span><i>y² = x³ − x</i></figcaption>
+        </figure>
+      </section>
+      <div class="overview">
+        <section aria-labelledby="selected-heading">
+          <div class="section-head"><h2 id="selected-heading">Selected papers</h2><a href="#publications">All publications</a></div>
+          <!-- Edit these three entries when you want to feature different papers. -->
+          <ul class="selected">
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics</a>
+              <span class="byline">With Mario Kummer</span></li>
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/OperatorFejerRiesz-Gaps-DegreeBounds.pdf">Operator Fejér–Riesz theorems with gaps and degree bounds</a>
+              <span class="byline">With Abhay Jindal · Preprint, 2026</span></li>
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas</a>
+              <span class="byline">With Matjaž Omladič and Martin Vuk · <i>Fuzzy Sets and Systems</i>, 2026</span></li>
+          </ul>
+        </section>
+        <aside class="side-notes" aria-label="Current teaching and research">
+          <section><h3>Teaching · 2026/27</h3><a href="https://fri.uni-lj.si/en/course/63564">Principles of Uncertainty</a></section>
+          <section><h3>Current project</h3><a href="https://fri.uni-lj.si/en/projects/1834">The truncated moment problem via real algebraic geometry</a><p>ARIS · 2025–2027</p></section>
+        </aside>
+      </div>
+    </div>
+    {% endif %}
+    <!-- GitHub Pages renders the existing readme.md here on each build. -->
+    <div class="archive" id="archive">{{ content }}</div>
+  </main>
+  <footer class="wrap">
+    <div class="foot">
+      <a href="{{ home_link }}#home">Aljaž Zalar</a>
+      <nav aria-label="Additional information">
+        <a href="{{ home_link }}#research-interests">Research interests</a>
+        <a href="{{ home_link }}#grants">Grants</a>
+        <a href="{{ home_link }}#academic-education">Education</a>
+        <a href="{{ home_link }}#contact">Contact</a>
+      </nav>
+    </div>
+  </footer>
+  {% if is_home %}
+  <script>
+    (() => {
+      const archive = document.getElementById('archive');
+      const home = document.getElementById('home');
+      if (!archive.querySelector('h2#publications')) return;
+
+      // Each existing Markdown section keeps its original heading and address.
+      const majorSections = new Set([
+        'contact', 'research-interests', 'publications', 'grants',
+        'conferences-and-talks', 'teaching', 'student-supervision', 'academic-education'
+      ]);
+      const pages = [];
+      const topics = [];
+      let page, group;
+      for (const element of Array.from(archive.children)) {
+        if (element.matches('h2') && element.id) {
+          const isTopic = page?.dataset.page === 'publications' && !majorSections.has(element.id);
+          if (isTopic) {
+            group = document.createElement('section');
+            group.className = 'topic';
+            group.dataset.topic = element.id;
+            group.append(element);
+            page.append(group);
+            topics.push(group);
+            continue;
+          }
+          page = document.createElement('section');
+          page.dataset.page = element.id;
+          archive.insertBefore(page, element);
+          const heading = document.createElement('h1');
+          heading.id = element.id;
+          heading.append(...element.childNodes);
+          page.append(heading);
+          element.remove();
+          pages.push(page);
+          group = page;
+          continue;
+        }
+        if (group) group.append(element);
+      }
+
+      // The original coauthor links, journal information and downloads stay together.
+      function typesetPowers(link) {
+        const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
+        const nodes = [];
+        while (walker.nextNode()) nodes.push(walker.currentNode);
+        for (const node of nodes) {
+          const text = node.textContent;
+          const matches = Array.from(text.matchAll(/([A-Za-z])\^(?:\{([A-Za-z0-9ℓ]+)\}|([A-Za-z0-9ℓ]))/g));
+          if (!matches.length) continue;
+          const fragment = document.createDocumentFragment();
+          let start = 0;
+          for (const match of matches) {
+            const sup = document.createElement('sup');
+            sup.textContent = match[2] || match[3];
+            fragment.append(text.slice(start, match.index), match[1], sup);
+            start = match.index + match[0].length;
+          }
+          fragment.append(text.slice(start));
+          node.replaceWith(fragment);
+        }
+      }
+      function formatPaper(item) {
+        const line = item.children.length === 1 && item.firstElementChild.matches('p') ? item.firstElementChild : item;
+        const links = Array.from(line.children).filter(child => child.matches('a[href]'));
+        const title = /^\s*with\s/i.test(line.textContent)
+          ? links.find(link => /:\s*$/.test(link.previousSibling?.textContent || ''))
+          : links[0];
+        if (!title) return;
+        const authors = document.createElement('span');
+        const details = document.createElement('span');
+        let afterTitle = false;
+        for (const node of Array.from(line.childNodes)) {
+          if (node === title) afterTitle = true;
+          else (afterTitle ? details : authors).append(node);
+        }
+        if (authors.firstChild?.nodeType === 3) authors.firstChild.textContent = authors.firstChild.textContent.replace(/^\s*with\s+/i, 'With ');
+        if (authors.lastChild?.nodeType === 3) authors.lastChild.textContent = authors.lastChild.textContent.replace(/:\s*$/, '');
+        if (details.firstChild?.nodeType === 3) details.firstChild.textContent = details.firstChild.textContent.replace(/^[\s,.]+/, '');
+        for (const link of details.querySelectorAll('a')) {
+          if (/^pdf$/i.test(link.textContent.trim())) link.textContent = 'PDF';
+          if (/^arxiv-v1$/i.test(link.textContent.trim())) link.textContent = 'arXiv v1';
+        }
+        if (title.lastChild?.nodeType === 3) title.lastChild.textContent = title.lastChild.textContent.trimEnd().replace(/[,.]$/, '');
+        typesetPowers(title);
+        title.classList.add('paper-title');
+        const meta = document.createElement('div');
+        meta.className = 'paper-meta';
+        for (const part of [authors, details]) if (part.textContent.trim()) meta.append(part);
+        item.replaceChildren(title);
+        if (meta.childElementCount) item.append(meta);
+      }
+      topics.forEach(topic => topic.querySelectorAll('li').forEach(formatPaper));
+
+      const selector = document.createElement('select');
+      let pickerDestination = '';
+      if (topics.length) {
+        const label = document.createElement('label');
+        label.className = 'topic-picker';
+        label.append('Research area', selector);
+        const options = [['All research areas', 'publications'], ...topics.map(topic => [topic.firstElementChild.textContent.trim(), topic.dataset.topic])];
+        for (const [name, value] of options) {
+          const option = document.createElement('option');
+          option.textContent = name;
+          option.value = value;
+          selector.append(option);
+        }
+        document.getElementById('publications').after(label);
+        selector.addEventListener('change', () => {
+          pickerDestination = '#' + selector.value;
+          location.hash = pickerDestination;
+        });
+      }
+
+      const footerNav = document.querySelector('.foot nav');
+      for (const section of pages) {
+        if (majorSections.has(section.dataset.page)) continue;
+        const link = document.createElement('a');
+        link.href = '#' + section.dataset.page;
+        link.textContent = section.firstElementChild.textContent;
+        footerNav.append(link);
+      }
+      const navLinks = document.querySelectorAll('.mast nav a, .foot nav a');
+      document.querySelector('.skip').addEventListener('click', event => {
+        event.preventDefault();
+        document.getElementById('main').focus();
+      });
+      const originalTitle = document.title;
+      function showPage(moveFocus) {
+        let id;
+        try { id = decodeURIComponent(location.hash.slice(1)); } catch { id = ''; }
+        const target = id && document.getElementById(id);
+        const active = target ? target.closest('[data-page]') : null;
+        const activeTopic = target ? target.closest('[data-topic]') : null;
+        home.hidden = Boolean(active);
+        archive.hidden = !active;
+        for (const item of pages) item.hidden = item !== active;
+        for (const topic of topics) topic.hidden = Boolean(activeTopic && activeTopic !== topic);
+        selector.value = activeTopic?.dataset.topic || 'publications';
+        const current = active?.dataset.page || 'home';
+        for (const link of navLinks) {
+          if (link.getAttribute('href') === '#' + current) link.setAttribute('aria-current', 'page');
+          else link.removeAttribute('aria-current');
+        }
+        document.title = active ? active.firstElementChild.textContent + ' | ' + originalTitle : originalTitle;
+        if (!moveFocus) return;
+        const heading = (target && target.matches('h1,h2,h3,h4')) ? target : (active?.firstElementChild || home.querySelector('h1'));
+        heading.tabIndex = -1;
+        heading.focus({ preventScroll: true });
+        if (active && target !== active.firstElementChild && !activeTopic) heading.scrollIntoView();
+        else window.scrollTo(0, 0);
+      }
+      showPage(Boolean(location.hash));
+      window.addEventListener('hashchange', () => {
+        showPage(location.hash !== pickerDestination);
+        pickerDestination = '';
+      });
+    })();
+  </script>
+  {% endif %}
+</body>
+</html>
