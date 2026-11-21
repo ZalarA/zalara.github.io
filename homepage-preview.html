@@ -1,0 +1,970 @@
+<!doctype html>
+
+
+  
+  
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aljaž Zalar</title>
+  
+  <style>
+    :root {
+      --paper: #fcf9f2;
+      --ink: #29251f;
+      --muted: #655d52;
+      --burgundy: #822e3c;
+      --line: #d9d0c2;
+      --fine-line: #e6ded2;
+      --plate: #f2ebdd;
+      --serif: "STIX Two Text", "Iowan Old Style", Georgia, "Times New Roman", serif;
+      --sans: Inter, "Segoe UI", Arial, sans-serif;
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #211e1b;
+        --ink: #f3ede3;
+        --muted: #c2b8a9;
+        --burgundy: #efa3ad;
+        --line: #514940;
+        --fine-line: #3e3831;
+        --plate: #2e2923;
+        color-scheme: dark;
+      }
+    }
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      border-top: 4px solid var(--burgundy);
+      background: var(--paper);
+      color: var(--ink);
+      font: 1rem/1.6 var(--sans);
+    }
+    .wrap { width: min(69rem, 100%); margin-inline: auto; padding-inline: clamp(1.25rem, 5vw, 4rem); }
+    main { flex: 1; min-width: 0; }
+    a { color: var(--burgundy); text-decoration-thickness: 1px; text-underline-offset: .2em; overflow-wrap: anywhere; }
+    a:hover { text-decoration: underline; }
+    a:focus-visible, select:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 3px; }
+    .skip { position: absolute; left: 1rem; top: .4rem; padding: .5rem .8rem; background: var(--paper); transform: translateY(-170%); }
+    .skip:focus { transform: none; z-index: 1; }
+    h1, h2, h3, figure, p, ul { margin: 0; }
+    h1, h2, h3 { font-family: var(--serif); font-weight: 400; line-height: 1.14; }
+    h1 { font-size: clamp(3.55rem, 7.3vw, 5.15rem); letter-spacing: -.055em; }
+    h2 { font-size: clamp(2rem, 4vw, 2.7rem); letter-spacing: -.035em; }
+    h3 { font-size: 1.55rem; letter-spacing: -.02em; }
+    .mast, .foot, .section-head, .contact-links { display: flex; flex-wrap: wrap; align-items: baseline; }
+    .mast { justify-content: space-between; align-items: center; gap: .25rem 1.5rem; border-bottom: 1px solid var(--line); padding: .85rem 0; }
+    .mast .institution { color: var(--ink); font: 1.2rem var(--serif); letter-spacing: -.025em; text-decoration: none; }
+    nav, .foot nav { display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.25rem; }
+    nav a { display: inline-flex; align-items: center; min-height: 2.5rem; text-decoration: none; font-size: .92rem; }
+    .mast nav a { color: var(--ink); }
+    .mast nav a[aria-current="page"] { color: var(--burgundy); text-decoration: underline; text-underline-offset: .4em; }
+    .intro { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: center; padding: clamp(2.3rem, 5vw, 4rem) 0; border-bottom: 1px solid var(--line); }
+    .affiliation { margin-top: .45rem; color: var(--muted); }
+    .bio { max-width: 50ch; margin: 1.1rem 0 .7rem; font-size: 1.07rem; }
+    .contact-links { gap: .15rem 1.35rem; font-size: .93rem; }
+    .cubic { width: 100%; max-width: 21rem; justify-self: end; }
+    .cubic svg { width: 100%; height: auto; display: block; background: var(--plate); }
+    .grid-lines, .axes, .curve { fill: none; }
+    .grid-lines { stroke: var(--line); stroke-width: .7; }
+    .axes { stroke: var(--muted); stroke-width: .85; opacity: .7; }
+    .curve { stroke: var(--burgundy); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    figcaption { display: flex; align-items: baseline; justify-content: space-between; gap: .6rem; padding-top: .4rem; color: var(--muted); font-size: .82rem; }
+    figcaption i { color: var(--burgundy); font: italic 1.1rem var(--serif); }
+    .overview { display: grid; grid-template-columns: minmax(0, 2fr) minmax(13rem, .86fr); gap: clamp(2rem, 5.5vw, 4.25rem); padding: 2rem 0 3rem; }
+    .section-head { justify-content: space-between; gap: .3rem 1rem; margin-bottom: .35rem; }
+    .section-head h2 { font-size: 2.05rem; }
+    .section-head a { font-size: .88rem; }
+    .selected, .archive ul { padding: 0; list-style: none; }
+    .selected li, .archive li { padding: .85rem 0; border-bottom: 1px solid var(--fine-line); }
+    .selected li:last-child, .archive li:last-child { border-bottom: 0; }
+    .paper-title { display: block; color: var(--ink); text-decoration: none; font: 400 1.36rem/1.25 var(--serif); }
+    .byline, .paper-meta { display: block; margin-top: .32rem; color: var(--muted); font: .91rem/1.55 var(--sans); }
+    .paper-meta a { color: inherit; }
+    .side-notes { align-self: start; border-left: 1px solid var(--line); padding-left: clamp(1.2rem, 2.4vw, 2rem); }
+    .side-notes section + section { margin-top: 1.7rem; }
+    .side-notes h3 { color: var(--muted); font: 500 .88rem var(--sans); margin-bottom: .35rem; }
+    .side-notes a { font: 1.3rem/1.3 var(--serif); text-decoration: none; }
+    .side-notes a:hover, .paper-title:hover { text-decoration: underline; }
+    .side-notes p { margin-top: .25rem; color: var(--muted); font-size: .87rem; }
+    .archive { max-width: 54rem; overflow-wrap: anywhere; }
+    .archive h2 { margin: 1.5em 0 .45em; }
+    .archive h3 { margin: 1.4em 0 .45em; }
+    .archive p + p { margin-top: .75rem; }
+    .archive section[data-page] { padding: 2.5rem 0 3.5rem; }
+    .archive section[data-page] > h1 { margin: 0 0 1rem; font-size: clamp(2.5rem, 6vw, 3.75rem); letter-spacing: -.035em; }
+    .topic > h2 { font-size: clamp(1.5rem, 3vw, 1.9rem); padding-bottom: .45rem; border-bottom: 1px solid var(--line); }
+    .topic + .topic { margin-top: 2rem; }
+    .topic .paper-meta > span + span::before { content: " · "; white-space: pre; }
+    .topic-picker { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .9rem; margin: .5rem 0 1.7rem; font-size: .94rem; }
+    .topic-picker select { max-width: 100%; min-height: 2.7rem; padding: .35rem .7rem; background: var(--paper); color: var(--ink); border: 1px solid var(--line); border-radius: .2rem; font: inherit; }
+    .foot { border-top: 1px solid var(--line); padding: 1rem 0 1.4rem; justify-content: space-between; align-items: center; gap: .25rem 1rem; }
+    .foot > a { color: var(--ink); font: 1.12rem var(--serif); text-decoration: none; }
+    .foot nav a { color: var(--muted); font-size: .9rem; }
+    :target { scroll-margin-top: 1rem; }
+    @media (max-width: 43rem) {
+      .intro { grid-template-columns: minmax(0, 1.35fr) minmax(0, .85fr); gap: 1.5rem; }
+      .mast { align-items: flex-start; }
+      nav { gap: 0 1rem; }
+      .overview { grid-template-columns: minmax(0, 1.5fr) minmax(10.5rem, .8fr); gap: 1.45rem; }
+    }
+    @media (max-width: 34rem) {
+      .mast { flex-direction: column; padding: .65rem 0 .35rem; }
+      .intro, .overview { grid-template-columns: 1fr; }
+      .intro { gap: 1.5rem; padding: 1.8rem 0; }
+      .cubic { max-width: 17rem; justify-self: start; }
+      .overview { gap: 1.6rem; padding-top: 1.5rem; }
+      .side-notes { border-left: 0; border-top: 1px solid var(--line); padding: 1.2rem 0 0; }
+      .side-notes section + section { margin-top: 1rem; }
+      .foot { align-items: flex-start; flex-direction: column; }
+      .topic-picker { align-items: flex-start; flex-direction: column; }
+    }
+    @media (pointer: coarse) {
+      nav a, .contact-links a, .section-head a { min-height: 44px; display: inline-flex; align-items: center; }
+    }
+    @media print {
+      body { display: block; border: 0; background: white; color: black; }
+      .mast, .foot, .skip, .topic-picker { display: none; }
+      .wrap { max-width: none; padding: 0; }
+      li, figure { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+
+<style>
+  .installation { background: var(--plate); border-bottom: 1px solid var(--line); }
+  .installation-inner { display: flex; flex-wrap: wrap; gap: .4rem 1rem; align-items: center; padding-block: .55rem; }
+  .installation button, .installation a, .installation summary { font: .9rem/1.4 var(--sans); }
+  .installation button { background: var(--burgundy); color: var(--paper); border: 1px solid transparent; padding: .44rem .8rem; border-radius: .2rem; cursor: pointer; }
+  .installation button:focus-visible, .installation summary:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 3px; }
+  .installation summary { cursor: pointer; text-decoration: underline; text-underline-offset: .18em; }
+  .installation details[open] { flex-basis: 100%; }
+  .installation textarea { display: block; margin-top: .55rem; width: 100%; height: 13rem; padding: .6rem; font: .85rem/1.35 monospace; color: var(--ink); background: var(--paper); border: 1px solid var(--line); }
+  #copy-status { color: var(--muted); font-size: .88rem; }
+  @media print { .installation { display: none; } }
+</style>
+<aside class="installation" aria-label="Install this preview on GitHub">
+  <div class="wrap installation-inner">
+    <button type="button" id="copy-layout">Copy GitHub layout</button>
+    <a href="https://github.com/ZalarA/zalara.github.io/new/master?filename=_layouts%2Fdefault.html" target="_blank" rel="noopener noreferrer">Open GitHub editor</a>
+    <details id="layout-details">
+      <summary>View source</summary>
+      <textarea readonly id="layout-code" aria-label="Source to paste into _layouts/default.html" spellcheck="false" wrap="off"><!doctype html>
+{% assign home_link = '/' | relative_url %}
+{% if page.url == '/' or page.url == '/index.html' %}
+  {% assign is_home = true %}
+  {% assign home_link = '' %}
+{% endif %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  {% seo title=false %}
+  <style>
+    :root {
+      --paper: #fcf9f2;
+      --ink: #29251f;
+      --muted: #655d52;
+      --burgundy: #822e3c;
+      --line: #d9d0c2;
+      --fine-line: #e6ded2;
+      --plate: #f2ebdd;
+      --serif: "STIX Two Text", "Iowan Old Style", Georgia, "Times New Roman", serif;
+      --sans: Inter, "Segoe UI", Arial, sans-serif;
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #211e1b;
+        --ink: #f3ede3;
+        --muted: #c2b8a9;
+        --burgundy: #efa3ad;
+        --line: #514940;
+        --fine-line: #3e3831;
+        --plate: #2e2923;
+        color-scheme: dark;
+      }
+    }
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      border-top: 4px solid var(--burgundy);
+      background: var(--paper);
+      color: var(--ink);
+      font: 1rem/1.6 var(--sans);
+    }
+    .wrap { width: min(69rem, 100%); margin-inline: auto; padding-inline: clamp(1.25rem, 5vw, 4rem); }
+    main { flex: 1; min-width: 0; }
+    a { color: var(--burgundy); text-decoration-thickness: 1px; text-underline-offset: .2em; overflow-wrap: anywhere; }
+    a:hover { text-decoration: underline; }
+    a:focus-visible, select:focus-visible { outline: 2px solid var(--burgundy); outline-offset: 3px; }
+    .skip { position: absolute; left: 1rem; top: .4rem; padding: .5rem .8rem; background: var(--paper); transform: translateY(-170%); }
+    .skip:focus { transform: none; z-index: 1; }
+    h1, h2, h3, figure, p, ul { margin: 0; }
+    h1, h2, h3 { font-family: var(--serif); font-weight: 400; line-height: 1.14; }
+    h1 { font-size: clamp(3.55rem, 7.3vw, 5.15rem); letter-spacing: -.055em; }
+    h2 { font-size: clamp(2rem, 4vw, 2.7rem); letter-spacing: -.035em; }
+    h3 { font-size: 1.55rem; letter-spacing: -.02em; }
+    .mast, .foot, .section-head, .contact-links { display: flex; flex-wrap: wrap; align-items: baseline; }
+    .mast { justify-content: space-between; align-items: center; gap: .25rem 1.5rem; border-bottom: 1px solid var(--line); padding: .85rem 0; }
+    .mast .institution { color: var(--ink); font: 1.2rem var(--serif); letter-spacing: -.025em; text-decoration: none; }
+    nav, .foot nav { display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.25rem; }
+    nav a { display: inline-flex; align-items: center; min-height: 2.5rem; text-decoration: none; font-size: .92rem; }
+    .mast nav a { color: var(--ink); }
+    .mast nav a[aria-current="page"] { color: var(--burgundy); text-decoration: underline; text-underline-offset: .4em; }
+    .intro { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: center; padding: clamp(2.3rem, 5vw, 4rem) 0; border-bottom: 1px solid var(--line); }
+    .affiliation { margin-top: .45rem; color: var(--muted); }
+    .bio { max-width: 50ch; margin: 1.1rem 0 .7rem; font-size: 1.07rem; }
+    .contact-links { gap: .15rem 1.35rem; font-size: .93rem; }
+    .cubic { width: 100%; max-width: 21rem; justify-self: end; }
+    .cubic svg { width: 100%; height: auto; display: block; background: var(--plate); }
+    .grid-lines, .axes, .curve { fill: none; }
+    .grid-lines { stroke: var(--line); stroke-width: .7; }
+    .axes { stroke: var(--muted); stroke-width: .85; opacity: .7; }
+    .curve { stroke: var(--burgundy); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    figcaption { display: flex; align-items: baseline; justify-content: space-between; gap: .6rem; padding-top: .4rem; color: var(--muted); font-size: .82rem; }
+    figcaption i { color: var(--burgundy); font: italic 1.1rem var(--serif); }
+    .overview { display: grid; grid-template-columns: minmax(0, 2fr) minmax(13rem, .86fr); gap: clamp(2rem, 5.5vw, 4.25rem); padding: 2rem 0 3rem; }
+    .section-head { justify-content: space-between; gap: .3rem 1rem; margin-bottom: .35rem; }
+    .section-head h2 { font-size: 2.05rem; }
+    .section-head a { font-size: .88rem; }
+    .selected, .archive ul { padding: 0; list-style: none; }
+    .selected li, .archive li { padding: .85rem 0; border-bottom: 1px solid var(--fine-line); }
+    .selected li:last-child, .archive li:last-child { border-bottom: 0; }
+    .paper-title { display: block; color: var(--ink); text-decoration: none; font: 400 1.36rem/1.25 var(--serif); }
+    .byline, .paper-meta { display: block; margin-top: .32rem; color: var(--muted); font: .91rem/1.55 var(--sans); }
+    .paper-meta a { color: inherit; }
+    .side-notes { align-self: start; border-left: 1px solid var(--line); padding-left: clamp(1.2rem, 2.4vw, 2rem); }
+    .side-notes section + section { margin-top: 1.7rem; }
+    .side-notes h3 { color: var(--muted); font: 500 .88rem var(--sans); margin-bottom: .35rem; }
+    .side-notes a { font: 1.3rem/1.3 var(--serif); text-decoration: none; }
+    .side-notes a:hover, .paper-title:hover { text-decoration: underline; }
+    .side-notes p { margin-top: .25rem; color: var(--muted); font-size: .87rem; }
+    .archive { max-width: 54rem; overflow-wrap: anywhere; }
+    .archive h2 { margin: 1.5em 0 .45em; }
+    .archive h3 { margin: 1.4em 0 .45em; }
+    .archive p + p { margin-top: .75rem; }
+    .archive section[data-page] { padding: 2.5rem 0 3.5rem; }
+    .archive section[data-page] > h1 { margin: 0 0 1rem; font-size: clamp(2.5rem, 6vw, 3.75rem); letter-spacing: -.035em; }
+    .topic > h2 { font-size: clamp(1.5rem, 3vw, 1.9rem); padding-bottom: .45rem; border-bottom: 1px solid var(--line); }
+    .topic + .topic { margin-top: 2rem; }
+    .topic .paper-meta > span + span::before { content: " · "; white-space: pre; }
+    .topic-picker { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .9rem; margin: .5rem 0 1.7rem; font-size: .94rem; }
+    .topic-picker select { max-width: 100%; min-height: 2.7rem; padding: .35rem .7rem; background: var(--paper); color: var(--ink); border: 1px solid var(--line); border-radius: .2rem; font: inherit; }
+    .foot { border-top: 1px solid var(--line); padding: 1rem 0 1.4rem; justify-content: space-between; align-items: center; gap: .25rem 1rem; }
+    .foot > a { color: var(--ink); font: 1.12rem var(--serif); text-decoration: none; }
+    .foot nav a { color: var(--muted); font-size: .9rem; }
+    :target { scroll-margin-top: 1rem; }
+    @media (max-width: 43rem) {
+      .intro { grid-template-columns: minmax(0, 1.35fr) minmax(0, .85fr); gap: 1.5rem; }
+      .mast { align-items: flex-start; }
+      nav { gap: 0 1rem; }
+      .overview { grid-template-columns: minmax(0, 1.5fr) minmax(10.5rem, .8fr); gap: 1.45rem; }
+    }
+    @media (max-width: 34rem) {
+      .mast { flex-direction: column; padding: .65rem 0 .35rem; }
+      .intro, .overview { grid-template-columns: 1fr; }
+      .intro { gap: 1.5rem; padding: 1.8rem 0; }
+      .cubic { max-width: 17rem; justify-self: start; }
+      .overview { gap: 1.6rem; padding-top: 1.5rem; }
+      .side-notes { border-left: 0; border-top: 1px solid var(--line); padding: 1.2rem 0 0; }
+      .side-notes section + section { margin-top: 1rem; }
+      .foot { align-items: flex-start; flex-direction: column; }
+      .topic-picker { align-items: flex-start; flex-direction: column; }
+    }
+    @media (pointer: coarse) {
+      nav a, .contact-links a, .section-head a { min-height: 44px; display: inline-flex; align-items: center; }
+    }
+    @media print {
+      body { display: block; border: 0; background: white; color: black; }
+      .mast, .foot, .skip, .topic-picker { display: none; }
+      .wrap { max-width: none; padding: 0; }
+      li, figure { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="wrap">
+    <div class="mast">
+      <a class="institution" href="https://www.uni-lj.si/en">University of Ljubljana</a>
+      <nav aria-label="Main navigation">
+        <a href="{{ home_link }}#home">Home</a>
+        <a href="{{ home_link }}#publications">Publications</a>
+        <a href="{{ home_link }}#teaching">Teaching</a>
+        <a href="{{ home_link }}#conferences-and-talks">Talks</a>
+        <a href="{{ home_link }}#student-supervision">Supervision</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap" id="main" tabindex="-1">
+    {% if is_home %}
+    <div id="home">
+      <section class="intro" aria-labelledby="name">
+        <div>
+          <h1 id="name">Aljaž Zalar</h1>
+          <p class="affiliation">Faculty of Computer and Information Science</p>
+          <p class="bio">I work on moment problems, positivity in real algebraic geometry and operator theory, and interpolation problems for copulas.</p>
+          <div class="contact-links">
+            <a href="mailto:aljaz.zalar@fri.uni-lj.si">aljaz.zalar@fri.uni-lj.si</a>
+            <a href="https://github.com/ZalarA">GitHub</a>
+          </div>
+        </div>
+        <figure class="cubic">
+          <svg viewBox="0 0 320 164" role="img" aria-labelledby="curve-title">
+            <title id="curve-title">The real plane cubic y squared equals x cubed minus x, with one oval and one open branch.</title>
+            <defs>
+              <pattern id="grid" x="149" y="82" width="30" height="30" patternUnits="userSpaceOnUse"><path class="grid-lines" d="M30 0H0V30"/></pattern>
+              <clipPath id="plot"><rect x="10" y="10" width="300" height="144"/></clipPath>
+            </defs>
+            <rect x="10" y="10" width="300" height="144" fill="url(#grid)"/>
+            <g clip-path="url(#plot)">
+              <path class="axes" d="M10 82H310 M149 10V154"/>
+              <!-- Real locus of y² = x³ − x. -->
+              <path class="curve" d="M55.00 82.00 C55.00 70.40 57.20 58.84 61.30 49.33 C65.40 39.82 71.40 32.42 78.50 28.15 C85.60 23.89 93.80 22.76 102.00 24.44 C110.20 26.11 118.40 30.53 125.50 36.49 C132.60 42.45 138.60 49.89 142.70 57.73 C146.80 65.56 149.00 73.80 149.00 82.00 C149.00 90.20 146.80 98.44 142.70 106.27 C138.60 114.11 132.60 121.55 125.50 127.51 C118.40 133.47 110.20 137.89 102.00 139.56 C93.80 141.24 85.60 140.11 78.50 135.85 C71.40 131.58 65.40 124.18 61.30 114.67 C57.20 105.16 55.00 93.60 55.00 82.00 Z M289.06 208.74 C278.82 187.26 270.29 169.43 263.47 154.09 C256.65 138.75 251.53 125.88 248.12 114.28 C244.71 102.68 243.00 92.34 243.00 82.00 C243.00 71.66 244.71 61.32 248.12 49.72 C251.53 38.12 256.65 25.25 263.47 9.91 C270.29 -5.43 278.82 -23.26 289.06 -44.74"/>
+            </g>
+          </svg>
+          <figcaption><span>Real plane cubic</span><i>y² = x³ − x</i></figcaption>
+        </figure>
+      </section>
+      <div class="overview">
+        <section aria-labelledby="selected-heading">
+          <div class="section-head"><h2 id="selected-heading">Selected papers</h2><a href="#publications">All publications</a></div>
+          <!-- Edit these three entries when you want to feature different papers. -->
+          <ul class="selected">
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics</a>
+              <span class="byline">With Mario Kummer</span></li>
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/OperatorFejerRiesz-Gaps-DegreeBounds.pdf">Operator Fejér–Riesz theorems with gaps and degree bounds</a>
+              <span class="byline">With Abhay Jindal · Preprint, 2026</span></li>
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas</a>
+              <span class="byline">With Matjaž Omladič and Martin Vuk · <i>Fuzzy Sets and Systems</i>, 2026</span></li>
+          </ul>
+        </section>
+        <aside class="side-notes" aria-label="Current teaching and research">
+          <section><h3>Teaching · 2026/27</h3><a href="https://fri.uni-lj.si/en/course/63564">Principles of Uncertainty</a></section>
+          <section><h3>Current project</h3><a href="https://fri.uni-lj.si/en/projects/1834">The truncated moment problem via real algebraic geometry</a><p>ARIS · 2025–2027</p></section>
+        </aside>
+      </div>
+    </div>
+    {% endif %}
+    <!-- GitHub Pages renders the existing readme.md here on each build. -->
+    <div class="archive" id="archive">{{ content }}</div>
+  </main>
+  <footer class="wrap">
+    <div class="foot">
+      <a href="{{ home_link }}#home">Aljaž Zalar</a>
+      <nav aria-label="Additional information">
+        <a href="{{ home_link }}#research-interests">Research interests</a>
+        <a href="{{ home_link }}#grants">Grants</a>
+        <a href="{{ home_link }}#academic-education">Education</a>
+        <a href="{{ home_link }}#contact">Contact</a>
+      </nav>
+    </div>
+  </footer>
+  {% if is_home %}
+  <script>
+    (() => {
+      const archive = document.getElementById('archive');
+      const home = document.getElementById('home');
+      if (!archive.querySelector('h2#publications')) return;
+
+      // Each existing Markdown section keeps its original heading and address.
+      const majorSections = new Set([
+        'contact', 'research-interests', 'publications', 'grants',
+        'conferences-and-talks', 'teaching', 'student-supervision', 'academic-education'
+      ]);
+      const pages = [];
+      const topics = [];
+      let page, group;
+      for (const element of Array.from(archive.children)) {
+        if (element.matches('h2') && element.id) {
+          const isTopic = page?.dataset.page === 'publications' && !majorSections.has(element.id);
+          if (isTopic) {
+            group = document.createElement('section');
+            group.className = 'topic';
+            group.dataset.topic = element.id;
+            group.append(element);
+            page.append(group);
+            topics.push(group);
+            continue;
+          }
+          page = document.createElement('section');
+          page.dataset.page = element.id;
+          archive.insertBefore(page, element);
+          const heading = document.createElement('h1');
+          heading.id = element.id;
+          heading.append(...element.childNodes);
+          page.append(heading);
+          element.remove();
+          pages.push(page);
+          group = page;
+          continue;
+        }
+        if (group) group.append(element);
+      }
+
+      // The original coauthor links, journal information and downloads stay together.
+      function typesetPowers(link) {
+        const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
+        const nodes = [];
+        while (walker.nextNode()) nodes.push(walker.currentNode);
+        for (const node of nodes) {
+          const text = node.textContent;
+          const matches = Array.from(text.matchAll(/([A-Za-z])\^(?:\{([A-Za-z0-9ℓ]+)\}|([A-Za-z0-9ℓ]))/g));
+          if (!matches.length) continue;
+          const fragment = document.createDocumentFragment();
+          let start = 0;
+          for (const match of matches) {
+            const sup = document.createElement('sup');
+            sup.textContent = match[2] || match[3];
+            fragment.append(text.slice(start, match.index), match[1], sup);
+            start = match.index + match[0].length;
+          }
+          fragment.append(text.slice(start));
+          node.replaceWith(fragment);
+        }
+      }
+      function formatPaper(item) {
+        const line = item.children.length === 1 && item.firstElementChild.matches('p') ? item.firstElementChild : item;
+        const links = Array.from(line.children).filter(child => child.matches('a[href]'));
+        const title = /^\s*with\s/i.test(line.textContent)
+          ? links.find(link => /:\s*$/.test(link.previousSibling?.textContent || ''))
+          : links[0];
+        if (!title) return;
+        const authors = document.createElement('span');
+        const details = document.createElement('span');
+        let afterTitle = false;
+        for (const node of Array.from(line.childNodes)) {
+          if (node === title) afterTitle = true;
+          else (afterTitle ? details : authors).append(node);
+        }
+        if (authors.firstChild?.nodeType === 3) authors.firstChild.textContent = authors.firstChild.textContent.replace(/^\s*with\s+/i, 'With ');
+        if (authors.lastChild?.nodeType === 3) authors.lastChild.textContent = authors.lastChild.textContent.replace(/:\s*$/, '');
+        if (details.firstChild?.nodeType === 3) details.firstChild.textContent = details.firstChild.textContent.replace(/^[\s,.]+/, '');
+        for (const link of details.querySelectorAll('a')) {
+          if (/^pdf$/i.test(link.textContent.trim())) link.textContent = 'PDF';
+          if (/^arxiv-v1$/i.test(link.textContent.trim())) link.textContent = 'arXiv v1';
+        }
+        if (title.lastChild?.nodeType === 3) title.lastChild.textContent = title.lastChild.textContent.trimEnd().replace(/[,.]$/, '');
+        typesetPowers(title);
+        title.classList.add('paper-title');
+        const meta = document.createElement('div');
+        meta.className = 'paper-meta';
+        for (const part of [authors, details]) if (part.textContent.trim()) meta.append(part);
+        item.replaceChildren(title);
+        if (meta.childElementCount) item.append(meta);
+      }
+      topics.forEach(topic => topic.querySelectorAll('li').forEach(formatPaper));
+
+      const selector = document.createElement('select');
+      let pickerDestination = '';
+      if (topics.length) {
+        const label = document.createElement('label');
+        label.className = 'topic-picker';
+        label.append('Research area', selector);
+        const options = [['All research areas', 'publications'], ...topics.map(topic => [topic.firstElementChild.textContent.trim(), topic.dataset.topic])];
+        for (const [name, value] of options) {
+          const option = document.createElement('option');
+          option.textContent = name;
+          option.value = value;
+          selector.append(option);
+        }
+        document.getElementById('publications').after(label);
+        selector.addEventListener('change', () => {
+          pickerDestination = '#' + selector.value;
+          location.hash = pickerDestination;
+        });
+      }
+
+      const footerNav = document.querySelector('.foot nav');
+      for (const section of pages) {
+        if (majorSections.has(section.dataset.page)) continue;
+        const link = document.createElement('a');
+        link.href = '#' + section.dataset.page;
+        link.textContent = section.firstElementChild.textContent;
+        footerNav.append(link);
+      }
+      const navLinks = document.querySelectorAll('.mast nav a, .foot nav a');
+      document.querySelector('.skip').addEventListener('click', event => {
+        event.preventDefault();
+        document.getElementById('main').focus();
+      });
+      const originalTitle = document.title;
+      function showPage(moveFocus) {
+        let id;
+        try { id = decodeURIComponent(location.hash.slice(1)); } catch { id = ''; }
+        const target = id && document.getElementById(id);
+        const active = target ? target.closest('[data-page]') : null;
+        const activeTopic = target ? target.closest('[data-topic]') : null;
+        home.hidden = Boolean(active);
+        archive.hidden = !active;
+        for (const item of pages) item.hidden = item !== active;
+        for (const topic of topics) topic.hidden = Boolean(activeTopic && activeTopic !== topic);
+        selector.value = activeTopic?.dataset.topic || 'publications';
+        const current = active?.dataset.page || 'home';
+        for (const link of navLinks) {
+          if (link.getAttribute('href') === '#' + current) link.setAttribute('aria-current', 'page');
+          else link.removeAttribute('aria-current');
+        }
+        document.title = active ? active.firstElementChild.textContent + ' | ' + originalTitle : originalTitle;
+        if (!moveFocus) return;
+        const heading = (target && target.matches('h1,h2,h3,h4')) ? target : (active?.firstElementChild || home.querySelector('h1'));
+        heading.tabIndex = -1;
+        heading.focus({ preventScroll: true });
+        if (active && target !== active.firstElementChild && !activeTopic) heading.scrollIntoView();
+        else window.scrollTo(0, 0);
+      }
+      showPage(Boolean(location.hash));
+      window.addEventListener('hashchange', () => {
+        showPage(location.hash !== pickerDestination);
+        pickerDestination = '';
+      });
+    })();
+  </script>
+  {% endif %}
+</body>
+</html>
+</textarea>
+    </details>
+    <span id="copy-status" role="status"></span>
+  </div>
+</aside>
+<script>
+  document.getElementById('copy-layout').addEventListener('click', async () => {
+    const code = document.getElementById('layout-code');
+    const details = document.getElementById('layout-details');
+    const status = document.getElementById('copy-status');
+    let copied = false;
+    try {
+      await navigator.clipboard.writeText(code.value);
+      copied = true;
+    } catch {
+      details.open = true;
+      code.focus();
+      code.select();
+      try { copied = document.execCommand('copy'); } catch {}
+      if (copied) {
+        details.open = false;
+        document.getElementById('copy-layout').focus();
+      }
+    }
+    status.textContent = copied ? 'Layout copied. Paste it into the GitHub editor.' : 'Press Ctrl+C or ⌘C to copy the selected source.';
+  });
+</script>
+
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="wrap">
+    <div class="mast">
+      <a class="institution" href="https://www.uni-lj.si/en">University of Ljubljana</a>
+      <nav aria-label="Main navigation">
+        <a href="#home">Home</a>
+        <a href="#publications">Publications</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#conferences-and-talks">Talks</a>
+        <a href="#student-supervision">Supervision</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap" id="main" tabindex="-1">
+    
+    <div id="home">
+      <section class="intro" aria-labelledby="name">
+        <div>
+          <h1 id="name">Aljaž Zalar</h1>
+          <p class="affiliation">Faculty of Computer and Information Science</p>
+          <p class="bio">I work on moment problems, positivity in real algebraic geometry and operator theory, and interpolation problems for copulas.</p>
+          <div class="contact-links">
+            <a href="mailto:aljaz.zalar@fri.uni-lj.si">aljaz.zalar@fri.uni-lj.si</a>
+            <a href="https://github.com/ZalarA">GitHub</a>
+          </div>
+        </div>
+        <figure class="cubic">
+          <svg viewBox="0 0 320 164" role="img" aria-labelledby="curve-title">
+            <title id="curve-title">The real plane cubic y squared equals x cubed minus x, with one oval and one open branch.</title>
+            <defs>
+              <pattern id="grid" x="149" y="82" width="30" height="30" patternUnits="userSpaceOnUse"><path class="grid-lines" d="M30 0H0V30"/></pattern>
+              <clipPath id="plot"><rect x="10" y="10" width="300" height="144"/></clipPath>
+            </defs>
+            <rect x="10" y="10" width="300" height="144" fill="url(#grid)"/>
+            <g clip-path="url(#plot)">
+              <path class="axes" d="M10 82H310 M149 10V154"/>
+              <!-- Real locus of y² = x³ − x. -->
+              <path class="curve" d="M55.00 82.00 C55.00 70.40 57.20 58.84 61.30 49.33 C65.40 39.82 71.40 32.42 78.50 28.15 C85.60 23.89 93.80 22.76 102.00 24.44 C110.20 26.11 118.40 30.53 125.50 36.49 C132.60 42.45 138.60 49.89 142.70 57.73 C146.80 65.56 149.00 73.80 149.00 82.00 C149.00 90.20 146.80 98.44 142.70 106.27 C138.60 114.11 132.60 121.55 125.50 127.51 C118.40 133.47 110.20 137.89 102.00 139.56 C93.80 141.24 85.60 140.11 78.50 135.85 C71.40 131.58 65.40 124.18 61.30 114.67 C57.20 105.16 55.00 93.60 55.00 82.00 Z M289.06 208.74 C278.82 187.26 270.29 169.43 263.47 154.09 C256.65 138.75 251.53 125.88 248.12 114.28 C244.71 102.68 243.00 92.34 243.00 82.00 C243.00 71.66 244.71 61.32 248.12 49.72 C251.53 38.12 256.65 25.25 263.47 9.91 C270.29 -5.43 278.82 -23.26 289.06 -44.74"/>
+            </g>
+          </svg>
+          <figcaption><span>Real plane cubic</span><i>y² = x³ − x</i></figcaption>
+        </figure>
+      </section>
+      <div class="overview">
+        <section aria-labelledby="selected-heading">
+          <div class="section-head"><h2 id="selected-heading">Selected papers</h2><a href="#publications">All publications</a></div>
+          <!-- Edit these three entries when you want to feature different papers. -->
+          <ul class="selected">
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics</a>
+              <span class="byline">With Mario Kummer</span></li>
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/OperatorFejerRiesz-Gaps-DegreeBounds.pdf">Operator Fejér–Riesz theorems with gaps and degree bounds</a>
+              <span class="byline">With Abhay Jindal · Preprint, 2026</span></li>
+            <li><a class="paper-title" href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas</a>
+              <span class="byline">With Matjaž Omladič and Martin Vuk · <i>Fuzzy Sets and Systems</i>, 2026</span></li>
+          </ul>
+        </section>
+        <aside class="side-notes" aria-label="Current teaching and research">
+          <section><h3>Teaching · 2026/27</h3><a href="https://fri.uni-lj.si/en/course/63564">Principles of Uncertainty</a></section>
+          <section><h3>Current project</h3><a href="https://fri.uni-lj.si/en/projects/1834">The truncated moment problem via real algebraic geometry</a><p>ARIS · 2025–2027</p></section>
+        </aside>
+      </div>
+    </div>
+    
+    <!-- GitHub Pages renders the existing readme.md here on each build. -->
+    <div class="archive" id="archive"><h2 id="contact">Contact</h2>
+<p><a href="https://www.uni-lj.si/university/">University of Ljubljana</a><br/> <a href="https://www.fri.uni-lj.si/en">Faculty for Computer and Information Science</a> <br/> <a href="https://fri.uni-lj.si/en/about-faculty/employees/aljaz-zalar-0">Personal website</a> <br/> Večna pot 113, 1000 Ljubljana, Slovenia</p>
+<p><strong>e-mail:</strong> <a href="mailto:aljaz.zalar@fri.uni-lj.si">aljaz.zalar@fri.uni-lj.si</a></p>
+<h2 id="research-interests">Research interests</h2>
+<p>Real algebraic geometry, moment problems, matrix polynomials, positive maps, operator theory, copula theory.</p>
+<h2 id="publications">Publications</h2>
+<h2 id="commutative-moment-problems">Commutative Moment Problems</h2>
+<ul>
+<li>with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://zalara.github.io/Papers/The_Core_variety_of_Lower_Degree_Moment_Sequences.pdf">Core Varieties of Moment Matrices with Low-Degree Column Relations</a>.</li>
+<li>with <a href="https://rnailwal.github.io/">R. Nailwal</a>, <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/Extension_property.pdf">Truncated moment problems and the extension property on monomial curves.</a></li>
+<li>with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://zalara.github.io/Papers/TMP_elliptic.pdf">A constructive approach to the truncated moment problem on cubic curves in Weierstrass form.</a></li>
+<li>with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
+<li>with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://zalara.github.io/Papers/GQR.pdf">Moment theory approach to Gaussian quadratures with prescribed nodes </a></li>
+<li>with <a href="https://cs.newpaltz.edu/~fialkowl/">L. Fialkow</a>: <a href="https://link.springer.com/epdf/10.1007/s43036-026-00548-z?sharing_token=9ApdAyKVLJct6NQrwn1Le_e4RwlQNchNByi7wbcMAY74frZ_sXkXtWoEmVW9in5LgLd9z8ToNZeDGQR_oU-Skf_35U4r5h403zuwgx45laJKbxcZgwlpD3dqr8_gWfJi2xFRrt8REVWiMnri-OhOx86G0OXBWyJhmpnoP7FQyq4%3D">The pure Y=X^{d} truncated moment problem: part 1</a>, Advances in Operator Theory 12,5 (2027). (<a href="https://zalara.github.io/Papers/yxd_pure_TMP_part_1.pdf">pdf</a>)</li>
+<li>with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2026.2755439">Bivariate Truncated Moment Sequences with the Column Relation XY=X^m + q(X), with q of degree m-1</a>, Linear and Multilinear Algebra (2026), 1-27. (<a href="https://zalara.github.io/Papers/TMP_with_XY.pdf">pdf</a>)</li>
+<li>with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://link.springer.com/article/10.1007/s43037-026-00508-y"> Constructive approach to the truncated moment problem on reducible cubic curves: hyperbolic-type relations, </a> Banach J. Math. Anal. 20, 44 (2026) (<a href="https://zalara.github.io/Papers/TMP_cubic_reducible_2.pdf">pdf</a>).</li>
+<li>with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379524004816">The truncated univariate rational moment problem</a>, Linear Algebra Appl. 708 (2025) 280-301. (<a href="https://zalara.github.io/Papers/RTMP-revision.pdf">pdf</a>)</li>
+<li>with <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1048067">S. Yoo</a>: <a href="https://link.springer.com/article/10.1007/s11785-024-01554-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240608&utm_content=10.1007/s11785-024-01554-w"> The truncated moment problem on reducible cubic curves I: Parabolic and Circular type relations</a>, Complex Anal. Oper. Theory. 18, 111 (2024) 54 pp. (<a href="https://zalara.github.io/Papers/TMP5.pdf">pdf</a>)</li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/03081087.2023.2212316">The truncated moment problem on curves y=q(x) and yx^ℓ=1</a>, Linear and Multilinear Algebra 72, 12 (2024) 1922-1966. (<a href="https://zalara.github.io/Papers/TMP4.pdf">pdf</a>)</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub">The strong truncated Hamburger moment problem with and without gaps</a>, J. Math. Anal. Appl. 516 (2022) 21 pp. (<a href="https://zalara.github.io/Papers/TMP3.pdf">pdf</a>)</li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379522001951">The truncated moment problem on the union of parallel lines</a>, Linear Algebra Appl. 649 (2022) 186-239. (<a href="https://zalara.github.io/Papers/TMP2.pdf">pdf</a>)</li>
+<li><a href="https://link.springer.com/article/10.1007/s00020-021-02628-6">The truncated Hamburger moment problems with gaps in the index set</a>, Integ. Equ. Oper. Theory 93 (2021) 36 pp. (<a href="https://zalara.github.io/Papers/TMP1.pdf">pdf</a>)</li>
+</ul>
+<h2 id="commutative-real-algebraic-geometry">Commutative Real Algebraic Geometry</h2>
+<ul>
+<li>with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/NonnegCubicsNew.pdf">Non-negative polynomials on generalized elliptic curves.</a></li>
+<li>with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005526?via%3Dihub"> Cross-positive linear maps, sums of squares and positive polynomials</a>, Journal of Algebra 688 (2026) 189-243. (<a href="https://zalara.github.io/Papers/CrossPosVsCCPArxiv.pdf">pdf</a>)</li>
+<li>with <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379525003465?via%3Dihub">Construction of exceptional copositive matrices</a>, Linear Algebra Appl. 727 (2025) 368-384. (<a href="https://zalara.github.io/Papers/Exceptional_COP_matrices.pdf">pdf</a>)</li>
+<li>with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/tea.strekelj/">T. Štrekelj</a>: <a href="https://epubs.siam.org/doi/epdf/10.1137/23M1583491"> A random copositive matrix is completely positive with positive probability</a>, SIAM Journal on Applied Algebra and Geometry 8, 3 (2024) 583-611. (<a href="https://zalara.github.io/Papers/COPvsCP.pdf">pdf</a>)</li>
+<li>with <a href="https://igorklep.github.io/index.html">I. Klep</a>, <a href="https://people.clas.ufl.edu/sam/">S. McCullough</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362">There are many more positive maps than completely positive maps</a>, Int. Math. Res. Not. 11 (2019) 3313-3375. (<a href="https://zalara.github.io/Papers/POSvsCP.pdf">pdf</a>)</li>
+</ul>
+<h2 id="noncommutative-moment-problems">Noncommutative Moment Problems</h2>
+<ul>
+<li>with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/Matricial_Rational.pdf">The matricial univariate rational truncated moment problem.</a></li>
+<li>with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://zalara.github.io/Papers/MGQR-PSD.pdf">Matricial Gaussian quadrature rules: singular case,</a> in revision in Linear and Multilinear Algebra.</li>
+<li>with <a href="http://www.imfm.si/sodelavci/imfmmember.2025-05-05.3883886399/view?set_language=sl">I. Zobovič</a>: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379525004550"> Matricial Gaussian quadrature rules: nonsingular case</a>, Linear Algebra Appl. 731 (2026) 160-185. (<a href="https://zalara.github.io/Papers/MGQR-PD.pdf">pdf</a>)</li>
+<li>with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X21000159">The tracial moment problem on quadratic varieties</a>, J. Math. Anal. Appl. 498 (2021) 39 pp. (<a href="https://zalara.github.io/Papers/MomTracial2.pdf">pdf</a>)</li>
+<li>with <a href="https://www.researchgate.net/profile/Abhishek-Bhardwaj-25">A. Bhardwaj</a>: <a href="https://link.springer.com/article/10.1007%2Fs11785-017-0756-3">The singular bivariate quartic tracial moment problem</a>, Complex Anal. Oper. Theory 12 (2018) 1057-1142. (<a href="https://zalara.github.io/Papers/MomTracial1.pdf">pdf</a>)</li>
+<li>with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>, J. Math. Anal. Appl. 401 (2013) 307-316. (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">pdf</a>)</li>
+</ul>
+<h2 id="noncommutative-real-algebraic-geometry">Noncommutative Real Algebraic Geometry</h2>
+<ul>
+<li>with <a href="https://jindalabhay.github.io/">A. Jindal</a>: <a href="https://zalara.github.io/Papers/OperatorFejerRiesz-Gaps-DegreeBounds.pdf">Operator Fejér–Riesz theorems with gaps and degree bounds</a>, preprint (2026). (<a href="https://zalara.github.io/Papers/OperatorFejerRiesz-Gaps-DegreeBounds.pdf">pdf</a>)</li>
+<li>with <a href="https://www.lse.ac.uk/people/shengding-sun">S. Sun</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0022404926000046?via%3Dihub">Matrix Fejér-Riesz type theorem for a union of an interval and a point</a>, J. Pure Appl. Algebra. 230 (2026) 108173. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz-Interval-Point.pdf">pdf</a>)</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0022247X16303675">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, J. Math. Anal. Appl. 445 (2017) 32-80. (<a href="https://zalara.github.io/Papers/OperatorPsatze.pdf">pdf</a>)</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>, J. Pure Appl. Algebra 220 (2016) 2533-2548. (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">pdf</a>,<a href="https://zalara.github.io/Papers/MatrixFejerRieszArxivOriginal.pdf">Arxiv-v1</a>)</li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/00927872.2011.590565?journalCode=lagb20">A note on a matrix version of the Farkas lemma</a>, Comm. Algebra 40 (2012) 3420-3429.</li>
+</ul>
+<h2 id="operator-theory">Operator Theory</h2>
+<ul>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://uwaterloo.ca/pure-mathematics/profiles/heydar-radjavi">H. Radjavi</a>, <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379526003800?via%3Dihub">Thick compressions of thin algebras</a>, Linear Algebra Appl. 753 (2027) 273-298. (<a href="https://zalara.github.io/Papers/ThickCompressions-ThinAlgebras.pdf">pdf</a>)</li>
+<li>with <a href="https://rnailwal.github.io/">R. Nailwal</a>: <a href="https://link.springer.com/article/10.1007/s13324-026-01233-3">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk,</a> Anal. Math. Phys. 16, 87 (2026). (<a href="https://zalara.github.io/Papers/Cyclicity.pdf">pdf</a>)</li>
+<li>with <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301324?via%3Dihub"> A local-global principle for linear dependence in enveloping algebras of Lie algebras</a>, Linear Algebra Appl. 596 (2020) 230-255. (<a href="https://zalara.github.io/Papers/LocalGlobal.pdf">pdf</a>)</li>
+<li><a href="https://link.springer.com/article/10.1007/s00020-014-2148-7">Non-negative spectral measures and representations of C*-algebras</a>, Integ. Equ. Oper. Theory 79 (2014) 219-242. (<a href="https://zalara.github.io/Papers/SpectralCstarAlgebras.pdf">pdf</a>)</li>
+</ul>
+<h2 id="copula-theory">Copula Theory</h2>
+<ul>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/2_point_interpolation.pdf">Two-point copula interpolation by coordinate projection</a>.</li>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://zalara.github.io/Papers/linear_programming_approach_to_finite_copula_interpolation.pdf">A linear programming approach to finite copula interpolation</a>.</li>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://www.fdv.uni-lj.si/en/news-and-information/contacts/teachers/info/damjan-skulj">D. Škulj</a>: <a href="https://zalara.github.io/Papers/Undominatedness_2D.pdf">Pointwise order and undominated copulas with prescribed sections along arbitrary tracks</a>.</li>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, D. Živković: <a href="https://zalara.github.io/Papers/Imprecise_copulas.pdf">Imprecise copulas</a>.</li>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0888613X26001234">Maximal signed volume for (multivariate) supermodular quasi-copulas</a>, International Journal of Approximate Reasoning 197 (2026) 109748. (<a href="https://zalara.github.io/Papers/k-increasing-quasi-copulas.pdf">pdf</a>)</li>
+<li>with <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>, Fuzzy Sets and Systems 527 (2026) 109698. (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">pdf</a>)</li>
+<li>with M. Belšak, <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>, <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>: <a href="https://www.sciencedirect.com/science/article/pii/S0165011425001964?via%3Dihub">Extreme values of the mass distribution associated with d-quasi-copulas via linear programming</a>, Fuzzy Sets and Systems 517 (2025) 109457 (<a href="https://zalara.github.io/Papers/QuasiCopulasViaLP.pdf">pdf</a>)</li>
+</ul>
+<h2 id="toric-varieties">Toric Varieties</h2>
+<ul>
+<li>with <a href="https://matfilip.github.io/">M. Filip</a>: <a href="https://zalara.github.io/Papers/unobstructedness.pdf">Unobstructedness of affine terminal Gorenstein toric fourfolds.</a></li>
+</ul>
+<h2 id="grants">Grants</h2>
+<ul>
+<li>Slovenian Research and Innovation Agency (ARIS) grant J1-60011. <a href="https://fri.uni-lj.si/en/projects/1834">The truncated moment problem via Real algebraic geometry</a>. <br> PI January 2025 – December 2027.</li>
+</ul>
+<h2 id="conferences-and-talks">Conferences and Talks</h2>
+<ul>
+<li><a href="https://conference.unisalento.it/event/14/page/107-welcome">SMPS 2026</a>, <a href="https://zalara.github.io/Predavanja/SMPS_26.pdf">Maximal Signed Volume for k-increasing Quasi-Copulas</a>, 15-18 September, 2026, Lecce, Italy.</li>
+<li><a href="https://iwota-2026.fsg.ulaval.ca/programme">IWOTA 2026</a>, 3-7 August, 2026, Québec, Canada (coorganizer of the session Real Algebraic Geometry, Moment Problems and Applications; together with <a href="https://www.math.uni-konstanz.de/~kuhlmann/exindex.html">Salma Kuhlmann</a>).</li>
+<li><a href="https://www.siam.org/conferences-events/siam-conferences/op26/">SIAM Conference on Optimization (OP26)</a>, <a href="https://zalara.github.io/Predavanja/SIAM_OPT_26_talk.pdf">Matricial Gaussian Quadrature rules</a>, 2-5 June, 2026, Edinburgh, United Kingdom.</li>
+<li><a href="https://sites.google.com/view/gpots-2026">GPOTS 2026</a>, <a href="https://zalara.github.io/Predavanja/GPOTS-26.pdf">Truncated Moment Problems On Algebraic Curves</a>, 26-30 May, 2026, Iowa City, Iowa.</li>
+<li><a href="https://sites.google.com/view/spectraltheoryseminar/home">Spectral Theory Seminar 2026</a>, <a href="https://zalara.github.io/Predavanja/Spectral_Theory_Seminar_2026.pdf">Matrix Fejér-Riesz theorem with gaps</a>, January 2026, University of Ljubljana, Slovenia.</li>
+<li><a href="https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/">Algebra and functional analysis seminar 2025</a>, <a href="https://zalara.github.io/Predavanja/SAFA_25.pdf">Positive polynomials and the truncated moment problem on plane cubic curves</a>, October 2025, University of Ljubljana, Slovenia.</li>
+<li><a href="https://www.utwente.nl/en/iwota2025/">IWOTA 2025</a>, 14-18 July, 2025, Twente, Netherlands (coorganizer of the session Moment problems and applications; together with <a href="https://math.uiowa.edu/people/raul-curto">Raúl Curto</a>)</li>
+<li><a href="https://zalara.github.io/Predavanja/SIAM_AG25.pdf">A gap between positive polynomials and sums of squares in various settings</a>, <a href="https://www.siam.org/conferences-events/siam-conferences/ag25/">SIAM Conference on Applied Algebraic Geometry (AG25)</a>, 7-11 July, 2025, Madison, Wisconsin, U.S.</li>
+<li><a href="http://www.law05.si/law25/index.php?stran=general">9th Linear Algebra Workshop</a>, 2-6 June, 2025, Portoroz, Slovenia (member of the organizing committee and a coorganizer of the working group Moment problems, positive polynomials and applications; together with <a href="https://www.math.uni-leipzig.de/~schmuedgen/">Konrad Schmüdgen</a>)</li>
+<li><a href="https://zalara.github.io/Predavanja/Winter_School_Konstanz_25.pdf">Matrix Polynomials and Matrix Positiv/Nichtnegativstellensätze</a>, <a href="https://www.uni-konstanz.de/zukunftskolleg/community/winter-school-2025-moments/">Winter School, Moments, Non-Negative Polynomials, and Algebraic Statistics</a>, University of Konstanz, Germany, February 2025.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_24.pdf">Positive polynomials and the truncated moment problem on plane cubic curves</a>, <a href="https://blogs.kent.ac.uk/iwota2024/">IWOTA 2024</a>, 12-16 August, 2024, Canterbury, UK.</li>
+<li><a href="https://zalara.github.io/Predavanja/TU_Dresden_24.pdf">A gap between positive polynomials and sums of squares in three different settings</a>, Seminar Algebra–Geometrie–Kombinatorik, TU Dresden, Germany, June 2024.</li>
+<li><a href="https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/">Algebra and functional analysis seminar 2024</a>, <a href="https://zalara.github.io/Predavanja/SAFA_24.pdf">Positivity and complete positivity meet positive polynomials</a>, April 2024, University of Ljubljana, Slovenia.</li>
+<li><a href="https://zalara.github.io/Predavanja/MoPAT_24.pdf">A gap between positive even quartics and sums of squares ones</a>, MoPAT-24 – Moments and Polynomials: Applications and Theory, University of Konstanz, Germany, March 2024.</li>
+<li><a href="https://zalara.github.io/Predavanja/OS_RAG_Konstanz_2024.pdf">A gap between positive polynomials and sums of squares in various settings</a>, OS Reelle Geometrie und Algebra, University of Konstanz, Germany, February 2024.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_23_TMP.pdf">The truncated moment problem on some plane curves</a>, IWOTA 2023, Helsinki, Finland, August 2023.</li>
+<li><a href="https://zalara.github.io/Predavanja/SIAM_AG_23_TMP.pdf">The truncated moment problem on some polynomial and rational plane curves</a>, SIAM - AG23, Eindhoven, Netherlands, July 2023.</li>
+<li><a href="https://zalara.github.io/Predavanja/Zagreb_2023.pdf">A gap between positive maps (resp. copositive matrices) and completely positive ones</a>, Seminar Alpe-Jadran, Zagreb, Croatia, May 2023.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_2022_TMP.pdf">The truncated moment problem on quadratic, cubic and some higher degree curves</a>, IWOTA 2022, Kraków, Poland, September 2022.</li>
+<li><a href="https://zalara.github.io/Predavanja/OB_2022_TMP.pdf">Solving bivariate truncated moment problems by reduction to the univariate setting</a>, Operator Theory and Beyond 2022, Jagiellonian University, Kraków, Poland, July 2022.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_2020_TTMP.pdf">The bivariate truncated moment problem on quadratic and some higher degree curves</a>, IWOTA 2020, Lancaster, UK, August 2021, online.</li>
+<li><a href="https://zalara.github.io/Predavanja/ECM_2020_BQTMP.pdf">The tracial moment problem on quadratic varieties</a>, ECM 2020, Portorož, Slovenia, June 2021, online.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_2019_BQTMP.pdf">The singular bivariate quartic tracial moment problem</a>, IWOTA 2019, Lisbon, Portugal, July 2019.</li>
+<li>There are many more positive maps than completely positive maps, Sums of Squares - Real Algebraic Geometry and its Applications, Innsbruck, Austria, August 2017.</li>
+<li><a href="https://zalara.github.io/Predavanja/LAW_2017_PosvsCP.pdf">There are many more positive maps than completely positive maps</a>, LAW 2017, Ljubljana, Slovenia, June 2017.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_2016_PosNCmatconv.pdf">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, IWOTA 2016, St Louis, Missouri, USA, July 2016.</li>
+<li><a href="https://zalara.github.io/Predavanja/Georgia_2016_UnivMatPos.pdf">Univariate matrix polynomials positive semidefinite on semialgebraic sets</a>, Summer School on Real Algebraic Geometry and Optimization, Georgia Tech, Atlanta, USA, July 2016.</li>
+<li><a href="https://zalara.github.io/Predavanja/Auckland_2016_PosNCmatconv.pdf">Operator Positivstellensätze for noncommutative polynomials positive on matrix convex sets</a>, The University of Auckland, New Zealand, March 2016.</li>
+<li><a href="https://zalara.github.io/Predavanja/Auckland_2015_MFRG.pdf">Matrix Fejér-Riesz theorem with gaps</a>, Algebra and Geometry seminar, The University of Auckland, New Zealand, October 2015.</li>
+<li><a href="https://zalara.github.io/Predavanja/IWOTA_2015_MFRG.pdf">Matrix Fejér-Riesz theorem with gaps</a>, IWOTA 2015, Tbilisi, Georgia, July 2015.</li>
+<li><a href="https://zalara.github.io/Predavanja/Konstanz_2015_MFRG.pdf">Matrix Fejér-Riesz theorem with gaps</a>, Oberseminar Reelle Geometrie und Algebra, University of Konstanz, Germany, May 2015.</li>
+</ul>
+<h2 id="teaching">Teaching</h2>
+<ul>
+<li>Principles of Uncertainty: 2022/23-26/27</li>
+</ul>
+<h3 id="previous-teaching">Previous teaching</h3>
+<ul>
+<li>Mathematics 2 - MCMC methods: 2022/23-25/26</li>
+<li>Numerical Methods: 2019/20-24/25, <a href="https://zalara.github.io/Izrocki/Numericne_metode_izrocki_predavanj.pdf">Lecture notes (in Slovene)</a></li>
+<li>Linear Algebra: 2023/24</li>
+<li>Numerical Mathematics: 2021/22-23/24, <a href="https://zalara.github.io/Izrocki/Numericna_matematika_izrocki_predavanj.pdf">Lecture notes (in Slovene)</a></li>
+<li>Mathematical Modelling: 2019/20-23/24, <a href="https://zalara.github.io/Zbirke/mm_book.pdf">Solved exercises from past exams</a></li>
+<li>Discrete Structures: 2019/20-21/22, <a href="https://zalara.github.io/ds_zbirka.pdf">Solved exercises from past exams (in Slovene)</a></li>
+<li>Calculus: 2019/20-20/21, <a href="https://zalara.github.io/oma_zbirka.pdf">Solved exercises from past exams (in Slovene)</a>, <a href="https://www.youtube.com/playlist?list=PLdlHgSiZMRc-STTQDyac4JQDxrlMlH5cw">Recordings 2020/21</a></li>
+</ul>
+<h2 id="student-supervision">Student supervision</h2>
+<h3 id="postdoctoral-fellows">Postdoctoral fellows</h3>
+<ul>
+<li><a href="https://rnailwal.github.io/">Rajkamal Nailwal</a>, Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, November 2024-April 2026</li>
+</ul>
+<h3 id="phd-thesis">PhD Thesis</h3>
+<ul>
+<li><a href="https://www.fmf.uni-lj.si/en/directory/1914/zobovic-igor/">Igor Zobovič</a>, Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia, May 2025-</li>
+</ul>
+<h3 id="master-thesis">Master Thesis</h3>
+<ul>
+<li>Ana Poklukar: Existence of copulas with prescribed values using linear programming, MSc, ongoing</li>
+<li>Sara Milovanova: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=187593&amp;lang=slv">Nuclear norm minimization for data reconstruction</a>, MSc (2026)</li>
+<li>Noah Novšak: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=184600&amp;lang=slv">A software approach to the PPT2 conjecture</a>, MSc (2026)</li>
+<li>Veljko Dudić: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=177283&amp;lang=slv">Hankel low-rank approximation for data analysis</a>, MSc (2025)</li>
+<li>Una Sekulović: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=163975&amp;lang=slv">Algorithms for solving tensor completion problem and its application for reconstruction of images</a>, MSc (2024)</li>
+<li>Mirjam Skobe: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=134231&amp;lang=slv">Sample rate conversion of a digital signal</a>, MSc (2021)</li>
+</ul>
+<h3 id="bachelor-thesis">Bachelor Thesis</h3>
+<ul>
+<li>Simon Gabrijelčič: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=182261&amp;lang=slv">Optimization of Ray Tracing Using Bounding Volume Hierarchies</a>, BSc (2026)</li>
+<li>Erazem Stanonik: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170321&amp;lang=slv">Tensor algorithms for image classification</a>, BSc (2025)</li>
+<li>Tomaž Jonatan Leonardis: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161586&amp;lang=slv">Algorithms for finding Nash equilibrium in bimatrix games</a>, BSc (2024)</li>
+<li>Matej Belšak: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=165325&amp;lang=slv">Extreme volumes of quasi-copulas</a>, BSc (2024)</li>
+<li>Biljana Vitanova: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161315&amp;lang=slv">Principal Component Analysis of Multidimensional data</a>, BSc (2024)</li>
+<li>Ana Poklukar: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161316&amp;lang=slv">Matrix Completion Problem Through Optimization on Riemannian Manifolds</a>, BSc (2024)</li>
+<li>Žan Terplan: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=160945&amp;lang=slv">Use of Lasserre hierarchies in computer graphics</a>, BSc (2024)</li>
+<li>Tadej Jeršin: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161128&amp;lang=slv">Distance matrix completions</a>, BSc (2024)</li>
+<li>Anamari Orehar: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152703&amp;lang=slv">Statistical analysis of efficiency of solving bimatrix games using LemkeHowson algorithm</a>, BSc (2023)</li>
+<li>Matej Klančar: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152710&amp;lang=slv">Algorithms for solving the matrix completion problem</a>, BSc (2023)</li>
+<li>Gregor Kovač: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=148394&amp;lang=slv">Ray tracing in non-euclidean spaces</a>, BSc (2023)</li>
+<li>Veljko Dudić: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=143507&amp;lang=slv">Usage of Lasserre hierarchies in game theory</a>, BSc (2022)</li>
+<li>Filip Marušič: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=140542&amp;lang=slv">Truncated Moment Problems and positive semidefinite matrix completions</a>, BSc (2022)</li>
+<li>Matjaž Ciglič: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=138420&amp;lang=slv">Inertia of matrix completions</a>, BSc (2022)</li>
+<li>Nace Gorenc: <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=120060&amp;lang=slv">Determining a type of a measure in a nonsingular bivariate quartic tracial moment problem</a>, BSc (2020)</li>
+</ul>
+<h2 id="academic-education">Academic education</h2>
+<ul>
+<li><p>2013 - 2017: PhD in Mathematics, University of Ljubljana. Thesis: <a href="http://www.matknjiz.si/doktorati/2017/Zalar-14521-29.pdf">Contributions to a noncommutative real algebraic geometry</a>. Supervisors: Prof. <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">Jaka Cimprič</a> and Prof. <a href="https://users.fmf.uni-lj.si/klep/index.html">Igor Klep</a>.</p></li>
+<li><p>2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: <a href="https://repozitorij.uni-lj.si/Dokument.php?id=106186&amp;lang=slv">Moment problems for matrix and operator polynomials (in Slovene)</a>. Supervisor: Prof. <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">Jaka Cimprič</a></p></li>
+<li><p>2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: <a href="https://repozitorij.uni-lj.si/Dokument.php?id=105978&amp;lang=slv">Matrix generalizations of Farkas lemma (in Slovene)</a>. Supervisor: Prof. <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">Jaka Cimprič</a></p></li>
+</ul>
+</div>
+  </main>
+  <footer class="wrap">
+    <div class="foot">
+      <a href="#home">Aljaž Zalar</a>
+      <nav aria-label="Additional information">
+        <a href="#research-interests">Research interests</a>
+        <a href="#grants">Grants</a>
+        <a href="#academic-education">Education</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </footer>
+  
+  <script>
+    (() => {
+      const archive = document.getElementById('archive');
+      const home = document.getElementById('home');
+      if (!archive.querySelector('h2#publications')) return;
+
+      // Each existing Markdown section keeps its original heading and address.
+      const majorSections = new Set([
+        'contact', 'research-interests', 'publications', 'grants',
+        'conferences-and-talks', 'teaching', 'student-supervision', 'academic-education'
+      ]);
+      const pages = [];
+      const topics = [];
+      let page, group;
+      for (const element of Array.from(archive.children)) {
+        if (element.matches('h2') && element.id) {
+          const isTopic = page?.dataset.page === 'publications' && !majorSections.has(element.id);
+          if (isTopic) {
+            group = document.createElement('section');
+            group.className = 'topic';
+            group.dataset.topic = element.id;
+            group.append(element);
+            page.append(group);
+            topics.push(group);
+            continue;
+          }
+          page = document.createElement('section');
+          page.dataset.page = element.id;
+          archive.insertBefore(page, element);
+          const heading = document.createElement('h1');
+          heading.id = element.id;
+          heading.append(...element.childNodes);
+          page.append(heading);
+          element.remove();
+          pages.push(page);
+          group = page;
+          continue;
+        }
+        if (group) group.append(element);
+      }
+
+      // The original coauthor links, journal information and downloads stay together.
+      function typesetPowers(link) {
+        const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
+        const nodes = [];
+        while (walker.nextNode()) nodes.push(walker.currentNode);
+        for (const node of nodes) {
+          const text = node.textContent;
+          const matches = Array.from(text.matchAll(/([A-Za-z])\^(?:\{([A-Za-z0-9ℓ]+)\}|([A-Za-z0-9ℓ]))/g));
+          if (!matches.length) continue;
+          const fragment = document.createDocumentFragment();
+          let start = 0;
+          for (const match of matches) {
+            const sup = document.createElement('sup');
+            sup.textContent = match[2] || match[3];
+            fragment.append(text.slice(start, match.index), match[1], sup);
+            start = match.index + match[0].length;
+          }
+          fragment.append(text.slice(start));
+          node.replaceWith(fragment);
+        }
+      }
+      function formatPaper(item) {
+        const line = item.children.length === 1 && item.firstElementChild.matches('p') ? item.firstElementChild : item;
+        const links = Array.from(line.children).filter(child => child.matches('a[href]'));
+        const title = /^\s*with\s/i.test(line.textContent)
+          ? links.find(link => /:\s*$/.test(link.previousSibling?.textContent || ''))
+          : links[0];
+        if (!title) return;
+        const authors = document.createElement('span');
+        const details = document.createElement('span');
+        let afterTitle = false;
+        for (const node of Array.from(line.childNodes)) {
+          if (node === title) afterTitle = true;
+          else (afterTitle ? details : authors).append(node);
+        }
+        if (authors.firstChild?.nodeType === 3) authors.firstChild.textContent = authors.firstChild.textContent.replace(/^\s*with\s+/i, 'With ');
+        if (authors.lastChild?.nodeType === 3) authors.lastChild.textContent = authors.lastChild.textContent.replace(/:\s*$/, '');
+        if (details.firstChild?.nodeType === 3) details.firstChild.textContent = details.firstChild.textContent.replace(/^[\s,.]+/, '');
+        for (const link of details.querySelectorAll('a')) {
+          if (/^pdf$/i.test(link.textContent.trim())) link.textContent = 'PDF';
+          if (/^arxiv-v1$/i.test(link.textContent.trim())) link.textContent = 'arXiv v1';
+        }
+        if (title.lastChild?.nodeType === 3) title.lastChild.textContent = title.lastChild.textContent.trimEnd().replace(/[,.]$/, '');
+        typesetPowers(title);
+        title.classList.add('paper-title');
+        const meta = document.createElement('div');
+        meta.className = 'paper-meta';
+        for (const part of [authors, details]) if (part.textContent.trim()) meta.append(part);
+        item.replaceChildren(title);
+        if (meta.childElementCount) item.append(meta);
+      }
+      topics.forEach(topic => topic.querySelectorAll('li').forEach(formatPaper));
+
+      const selector = document.createElement('select');
+      let pickerDestination = '';
+      if (topics.length) {
+        const label = document.createElement('label');
+        label.className = 'topic-picker';
+        label.append('Research area', selector);
+        const options = [['All research areas', 'publications'], ...topics.map(topic => [topic.firstElementChild.textContent.trim(), topic.dataset.topic])];
+        for (const [name, value] of options) {
+          const option = document.createElement('option');
+          option.textContent = name;
+          option.value = value;
+          selector.append(option);
+        }
+        document.getElementById('publications').after(label);
+        selector.addEventListener('change', () => {
+          pickerDestination = '#' + selector.value;
+          location.hash = pickerDestination;
+        });
+      }
+
+      const footerNav = document.querySelector('.foot nav');
+      for (const section of pages) {
+        if (majorSections.has(section.dataset.page)) continue;
+        const link = document.createElement('a');
+        link.href = '#' + section.dataset.page;
+        link.textContent = section.firstElementChild.textContent;
+        footerNav.append(link);
+      }
+      const navLinks = document.querySelectorAll('.mast nav a, .foot nav a');
+      document.querySelector('.skip').addEventListener('click', event => {
+        event.preventDefault();
+        document.getElementById('main').focus();
+      });
+      const originalTitle = document.title;
+      function showPage(moveFocus) {
+        let id;
+        try { id = decodeURIComponent(location.hash.slice(1)); } catch { id = ''; }
+        const target = id && document.getElementById(id);
+        const active = target ? target.closest('[data-page]') : null;
+        const activeTopic = target ? target.closest('[data-topic]') : null;
+        home.hidden = Boolean(active);
+        archive.hidden = !active;
+        for (const item of pages) item.hidden = item !== active;
+        for (const topic of topics) topic.hidden = Boolean(activeTopic && activeTopic !== topic);
+        selector.value = activeTopic?.dataset.topic || 'publications';
+        const current = active?.dataset.page || 'home';
+        for (const link of navLinks) {
+          if (link.getAttribute('href') === '#' + current) link.setAttribute('aria-current', 'page');
+          else link.removeAttribute('aria-current');
+        }
+        document.title = active ? active.firstElementChild.textContent + ' | ' + originalTitle : originalTitle;
+        if (!moveFocus) return;
+        const heading = (target && target.matches('h1,h2,h3,h4')) ? target : (active?.firstElementChild || home.querySelector('h1'));
+        heading.tabIndex = -1;
+        heading.focus({ preventScroll: true });
+        if (active && target !== active.firstElementChild && !activeTopic) heading.scrollIntoView();
+        else window.scrollTo(0, 0);
+      }
+      showPage(Boolean(location.hash));
+      window.addEventListener('hashchange', () => {
+        showPage(location.hash !== pickerDestination);
+        pickerDestination = '';
+      });
+    })();
+  </script>
+  
+</body>
+</html>
