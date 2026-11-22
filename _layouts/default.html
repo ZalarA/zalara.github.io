@@ -139,6 +139,7 @@
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
+
   <header class="wrap">
     <div class="mast">
       <a class="institution" href="https://www.uni-lj.si/en">University of Ljubljana</a>
@@ -151,6 +152,7 @@
       </nav>
     </div>
   </header>
+
   <main class="wrap" id="main" tabindex="-1">
     {% if is_home %}
     <div id="home">
@@ -164,12 +166,17 @@
             <a href="https://github.com/ZalarA">GitHub</a>
           </div>
         </div>
+
         <figure class="cubic">
           <svg viewBox="0 0 320 164" role="img" aria-labelledby="curve-title">
             <title id="curve-title">The real plane cubic y squared equals x cubed minus x, with one oval and one open branch.</title>
             <defs>
-              <pattern id="grid" x="149" y="82" width="30" height="30" patternUnits="userSpaceOnUse"><path class="grid-lines" d="M30 0H0V30"/></pattern>
-              <clipPath id="plot"><rect x="10" y="10" width="300" height="144"/></clipPath>
+              <pattern id="grid" x="149" y="82" width="30" height="30" patternUnits="userSpaceOnUse">
+                <path class="grid-lines" d="M30 0H0V30"/>
+              </pattern>
+              <clipPath id="plot">
+                <rect x="10" y="10" width="300" height="144"/>
+              </clipPath>
             </defs>
             <rect x="10" y="10" width="300" height="144" fill="url(#grid)"/>
             <g clip-path="url(#plot)">
@@ -181,29 +188,100 @@
           <figcaption><span>Real plane cubic</span><i>y² = x³ − x</i></figcaption>
         </figure>
       </section>
+
       <div class="overview">
         <section aria-labelledby="selected-heading">
-          <div class="section-head"><h2 id="selected-heading">Selected papers</h2><a href="#publications">All publications</a></div>
-          <!-- Edit these three entries when you want to feature different papers. -->
+          <div class="section-head">
+            <h2 id="selected-heading">Selected publications</h2>
+            <a href="#publications">All publications</a>
+          </div>
+
           <ul class="selected">
-            <li><a class="paper-title" href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics</a>
-              <span class="byline">With Mario Kummer</span></li>
-            <li><a class="paper-title" href="https://zalara.github.io/Papers/OperatorFejerRiesz-Gaps-DegreeBounds.pdf">Operator Fejér–Riesz theorems with gaps and degree bounds</a>
-              <span class="byline">With Abhay Jindal · Preprint, 2026</span></li>
-            <li><a class="paper-title" href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">Extreme mass distributions for quasi-copulas</a>
-              <span class="byline">With Matjaž Omladič and Martin Vuk · <i>Fuzzy Sets and Systems</i>, 2026</span></li>
+            <li>
+              <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0022247X22005777?via%3Dihub">The strong truncated Hamburger moment problem with and without gaps</a>
+              <span class="paper-meta">
+                <i>J. Math. Anal. Appl.</i> 516 (2022), 21 pp.
+                (<a href="https://zalara.github.io/Papers/TMP3.pdf">PDF</a>)
+              </span>
+            </li>
+
+            <li>
+              <a class="paper-title" href="https://academic.oup.com/imrn/advance-article-abstract/doi/10.1093/imrn/rnx203/4210362">There are many more positive maps than completely positive maps</a>
+              <span class="byline">
+                With <a href="https://igorklep.github.io/index.html">I. Klep</a>,
+                <a href="https://people.clas.ufl.edu/sam/">S. McCullough</a>, and
+                <a href="https://www.fmf.uni-lj.si/en/directory/231/sivic-klemen/">K. Šivic</a>
+              </span>
+              <span class="paper-meta">
+                <i>Int. Math. Res. Not.</i> 11 (2019), 3313–3375.
+                (<a href="https://zalara.github.io/Papers/POSvsCP.pdf">PDF</a>)
+              </span>
+            </li>
+
+            <li>
+              <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0022247X12010025">Moment problems for operator polynomials</a>
+              <span class="byline">
+                With <a href="https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/">J. Cimprič</a>
+              </span>
+              <span class="paper-meta">
+                <i>J. Math. Anal. Appl.</i> 401 (2013), 307–316.
+                (<a href="https://zalara.github.io/Papers/OperatorMom.pdf">PDF</a>)
+              </span>
+            </li>
+
+            <li>
+              <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0022404915003345">Matrix Fejér-Riesz theorem with gaps</a>
+              <span class="paper-meta">
+                <i>J. Pure Appl. Algebra</i> 220 (2016), 2533–2548.
+                (<a href="https://zalara.github.io/Papers/MatrixFejerRiesz.pdf">PDF</a>,
+                <a href="https://zalara.github.io/Papers/MatrixFejerRieszArxivOriginal.pdf">arXiv v1</a>)
+              </span>
+            </li>
+
+            <li>
+              <a class="paper-title" href="https://link.springer.com/article/10.1007/s13324-026-01233-3">Cyclic polynomials in Dirichlet-type Spaces of the unit bidisk</a>
+              <span class="byline">
+                With <a href="https://rnailwal.github.io/">R. Nailwal</a>
+              </span>
+              <span class="paper-meta">
+                <i>Anal. Math. Phys.</i> 16, 87 (2026).
+                (<a href="https://zalara.github.io/Papers/Cyclicity.pdf">PDF</a>)
+              </span>
+            </li>
+
+            <li>
+              <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0165011425004361?via%3Dihub">Extreme mass distributions for quasi-copulas</a>
+              <span class="byline">
+                With <a href="https://www.researchgate.net/profile/Matjaz-Omladic">M. Omladič</a>
+                and <a href="https://fri.uni-lj.si/en/about-faculty/employees/martin-vuk">M. Vuk</a>
+              </span>
+              <span class="paper-meta">
+                <i>Fuzzy Sets and Systems</i> 527 (2026), 109698.
+                (<a href="https://zalara.github.io/Papers/Quasi_copulas_analytically.pdf">PDF</a>)
+              </span>
+            </li>
           </ul>
         </section>
+
         <aside class="side-notes" aria-label="Current teaching and research">
-          <section><h3>Teaching · 2026/27</h3><a href="https://fri.uni-lj.si/en/course/63564">Principles of Uncertainty</a></section>
-          <section><h3>Current project</h3><a href="https://fri.uni-lj.si/en/projects/1834">The truncated moment problem via real algebraic geometry</a><p>ARIS · 2025–2027</p></section>
+          <section>
+            <h3>Teaching · 2026/27</h3>
+            <a href="https://fri.uni-lj.si/en/course/63564">Principles of Uncertainty</a>
+          </section>
+          <section>
+            <h3>Current project</h3>
+            <a href="https://fri.uni-lj.si/en/projects/1834">The truncated moment problem via real algebraic geometry</a>
+            <p>ARIS · 2025–2027</p>
+          </section>
         </aside>
       </div>
     </div>
     {% endif %}
+
     <!-- GitHub Pages renders the existing readme.md here on each build. -->
     <div class="archive" id="archive">{{ content }}</div>
   </main>
+
   <footer class="wrap">
     <div class="foot">
       <a href="{{ home_link }}#home">Aljaž Zalar</a>
@@ -215,6 +293,7 @@
       </nav>
     </div>
   </footer>
+
   {% if is_home %}
   <script>
     (() => {
@@ -230,6 +309,7 @@
       const pages = [];
       const topics = [];
       let page, group;
+
       for (const element of Array.from(archive.children)) {
         if (element.matches('h2') && element.id) {
           const isTopic = page?.dataset.page === 'publications' && !majorSections.has(element.id);
@@ -242,14 +322,17 @@
             topics.push(group);
             continue;
           }
+
           page = document.createElement('section');
           page.dataset.page = element.id;
           archive.insertBefore(page, element);
+
           const heading = document.createElement('h1');
           heading.id = element.id;
           heading.append(...element.childNodes);
           page.append(heading);
           element.remove();
+
           pages.push(page);
           group = page;
           continue;
@@ -262,67 +345,99 @@
         const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
         const nodes = [];
         while (walker.nextNode()) nodes.push(walker.currentNode);
+
         for (const node of nodes) {
           const text = node.textContent;
           const matches = Array.from(text.matchAll(/([A-Za-z])\^(?:\{([A-Za-z0-9ℓ]+)\}|([A-Za-z0-9ℓ]))/g));
           if (!matches.length) continue;
+
           const fragment = document.createDocumentFragment();
           let start = 0;
+
           for (const match of matches) {
             const sup = document.createElement('sup');
             sup.textContent = match[2] || match[3];
             fragment.append(text.slice(start, match.index), match[1], sup);
             start = match.index + match[0].length;
           }
+
           fragment.append(text.slice(start));
           node.replaceWith(fragment);
         }
       }
+
       function formatPaper(item) {
-        const line = item.children.length === 1 && item.firstElementChild.matches('p') ? item.firstElementChild : item;
+        const line = item.children.length === 1 && item.firstElementChild.matches('p')
+          ? item.firstElementChild
+          : item;
         const links = Array.from(line.children).filter(child => child.matches('a[href]'));
         const title = /^\s*with\s/i.test(line.textContent)
           ? links.find(link => /:\s*$/.test(link.previousSibling?.textContent || ''))
           : links[0];
         if (!title) return;
+
         const authors = document.createElement('span');
         const details = document.createElement('span');
         let afterTitle = false;
+
         for (const node of Array.from(line.childNodes)) {
           if (node === title) afterTitle = true;
           else (afterTitle ? details : authors).append(node);
         }
-        if (authors.firstChild?.nodeType === 3) authors.firstChild.textContent = authors.firstChild.textContent.replace(/^\s*with\s+/i, 'With ');
-        if (authors.lastChild?.nodeType === 3) authors.lastChild.textContent = authors.lastChild.textContent.replace(/:\s*$/, '');
-        if (details.firstChild?.nodeType === 3) details.firstChild.textContent = details.firstChild.textContent.replace(/^[\s,.]+/, '');
+
+        if (authors.firstChild?.nodeType === 3) {
+          authors.firstChild.textContent = authors.firstChild.textContent.replace(/^\s*with\s+/i, 'With ');
+        }
+        if (authors.lastChild?.nodeType === 3) {
+          authors.lastChild.textContent = authors.lastChild.textContent.replace(/:\s*$/, '');
+        }
+        if (details.firstChild?.nodeType === 3) {
+          details.firstChild.textContent = details.firstChild.textContent.replace(/^[\s,.]+/, '');
+        }
+
         for (const link of details.querySelectorAll('a')) {
           if (/^pdf$/i.test(link.textContent.trim())) link.textContent = 'PDF';
           if (/^arxiv-v1$/i.test(link.textContent.trim())) link.textContent = 'arXiv v1';
         }
-        if (title.lastChild?.nodeType === 3) title.lastChild.textContent = title.lastChild.textContent.trimEnd().replace(/[,.]$/, '');
+
+        if (title.lastChild?.nodeType === 3) {
+          title.lastChild.textContent = title.lastChild.textContent.trimEnd().replace(/[,.]$/, '');
+        }
         typesetPowers(title);
         title.classList.add('paper-title');
+
         const meta = document.createElement('div');
         meta.className = 'paper-meta';
-        for (const part of [authors, details]) if (part.textContent.trim()) meta.append(part);
+        for (const part of [authors, details]) {
+          if (part.textContent.trim()) meta.append(part);
+        }
+
         item.replaceChildren(title);
         if (meta.childElementCount) item.append(meta);
       }
+
       topics.forEach(topic => topic.querySelectorAll('li').forEach(formatPaper));
 
       const selector = document.createElement('select');
       let pickerDestination = '';
+
       if (topics.length) {
         const label = document.createElement('label');
         label.className = 'topic-picker';
         label.append('Research area', selector);
-        const options = [['All research areas', 'publications'], ...topics.map(topic => [topic.firstElementChild.textContent.trim(), topic.dataset.topic])];
+
+        const options = [
+          ['All research areas', 'publications'],
+          ...topics.map(topic => [topic.firstElementChild.textContent.trim(), topic.dataset.topic])
+        ];
+
         for (const [name, value] of options) {
           const option = document.createElement('option');
           option.textContent = name;
           option.value = value;
           selector.append(option);
         }
+
         document.getElementById('publications').after(label);
         selector.addEventListener('change', () => {
           pickerDestination = '#' + selector.value;
@@ -338,36 +453,51 @@
         link.textContent = section.firstElementChild.textContent;
         footerNav.append(link);
       }
+
       const navLinks = document.querySelectorAll('.mast nav a, .foot nav a');
       document.querySelector('.skip').addEventListener('click', event => {
         event.preventDefault();
         document.getElementById('main').focus();
       });
+
       const originalTitle = document.title;
+
       function showPage(moveFocus) {
         let id;
-        try { id = decodeURIComponent(location.hash.slice(1)); } catch { id = ''; }
+        try {
+          id = decodeURIComponent(location.hash.slice(1));
+        } catch {
+          id = '';
+        }
+
         const target = id && document.getElementById(id);
         const active = target ? target.closest('[data-page]') : null;
         const activeTopic = target ? target.closest('[data-topic]') : null;
+
         home.hidden = Boolean(active);
         archive.hidden = !active;
         for (const item of pages) item.hidden = item !== active;
         for (const topic of topics) topic.hidden = Boolean(activeTopic && activeTopic !== topic);
         selector.value = activeTopic?.dataset.topic || 'publications';
+
         const current = active?.dataset.page || 'home';
         for (const link of navLinks) {
           if (link.getAttribute('href') === '#' + current) link.setAttribute('aria-current', 'page');
           else link.removeAttribute('aria-current');
         }
+
         document.title = active ? active.firstElementChild.textContent + ' | ' + originalTitle : originalTitle;
         if (!moveFocus) return;
-        const heading = (target && target.matches('h1,h2,h3,h4')) ? target : (active?.firstElementChild || home.querySelector('h1'));
+
+        const heading = (target && target.matches('h1,h2,h3,h4'))
+          ? target
+          : (active?.firstElementChild || home.querySelector('h1'));
         heading.tabIndex = -1;
         heading.focus({ preventScroll: true });
         if (active && target !== active.firstElementChild && !activeTopic) heading.scrollIntoView();
         else window.scrollTo(0, 0);
       }
+
       showPage(Boolean(location.hash));
       window.addEventListener('hashchange', () => {
         showPage(location.hash !== pickerDestination);
