@@ -112,7 +112,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
 
 ## Conferences and Talks
 
-* [Algebra and functional analysis seminar 2026](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Operator Fej\'er--Riesz Theorems with Gaps and Optimal Degree Growth](https://zalara.github.io/Predavanja/SAFA_26.pdf), November 2026, University of Ljubljana, Slovenia.
+* [Algebra and functional analysis seminar 2026](https://www.fmf.uni-lj.si/en/research/algebra-and-functional-analysis-seminar/), [Operator Fejér--Riesz Theorems with Gaps and Optimal Degree Growth](https://zalara.github.io/Predavanja/SAFA_26.pdf), November 2026, University of Ljubljana, Slovenia.
 * [SMPS 2026](https://conference.unisalento.it/event/14/page/107-welcome),
   [Maximal Signed Volume for k-increasing Quasi-Copulas](https://zalara.github.io/Predavanja/SMPS_26.pdf), 15-18 September, 2026, Lecce, Italy.
 * [IWOTA 2026](https://iwota-2026.fsg.ulaval.ca/programme), 3-7 August, 2026, Québec, Canada (coorganizer of the session Real Algebraic Geometry, Moment Problems and Applications; together with
