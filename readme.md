@@ -193,7 +193,7 @@ Real algebraic geometry, moment problems, matrix polynomials, positive maps, ope
   
 ### Master Thesis
 
-* Ana Poklukar: Existence of copulas with prescribed values using linear programming, MSc, ongoing
+* Ana Poklukar: [Existence of copulas with prescribed values using linear programming](https://repozitorij.uni-lj.si/IzpisGradiva.php?lang=slv&id=191627), MSc (2026)
 * Sara Milovanova: [Nuclear norm minimization for data reconstruction](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=187593&lang=slv), MSc (2026)
 * Noah Novšak: [A software approach to the PPT2 conjecture](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=184600&lang=slv), MSc (2026)
 * Veljko Dudić: [Hankel low-rank approximation for data analysis](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=177283&lang=slv), MSc (2025)
